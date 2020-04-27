@@ -8,7 +8,7 @@ old_id: 1
 - **Turn off your antivirus** (some antiviruses might cause some issues)  
 
 
-### How to play on Ripple
+### How to play on Datenshi
 - Run `datenshi.exe` **as administrator**  
 - Click on **Connect to Datenshi**  
 - If there are some dialogs about intalling the HTTPs certificate, always click on **Ok/Yes**. The HTTPs certificate is needed to properly connect to Datenshi

@@ -45,11 +45,11 @@ These apply to both Discord AND the in-game chat. The Discord chat also has some
 
 1. Cheating and multiaccount is strictly prohibited.
 2. It doesn't matter if you cheated on any other osu! server - we only care about what you did on Datenshi.
-3. Multiaccounts are **NOT** allowed, with the **SOLE EXCEPTION OF CHAT BOTS**.  If you are developing one and need an account for it,  mail [support](mailto:support@datenshi.xyz) (or a [dev](mailto:howl@datenshi.xyz))
+3. Multiaccounts are **NOT** allowed, with the **SOLE EXCEPTION OF CHAT BOTS**.  If you are developing one and need an account for it,  mail [support](mailto:datenshi@troke.id) (or a [dev](mailto:datenshi@troke.id))
 4. We reserve the right to change these rules as we see fit.
 
 <h3><i class="list layout icon"></i> Miscellaneous</h3>
 
-1. You can change your profile flag mailing [support](mailto:support@datenshi.xyz), and sending a picture with a valid document and a post-it or a piece of paper with your Datenshi name.
-2. Name changes are handled through our [support website.](https://support.datenshi.xyz)
+1. You can change your profile flag mailing [support](mailto:datenshi@troke.id), and sending a picture with a valid document and a post-it or a piece of paper with your Datenshi name.
+2. Name changes are handled through our [Discord.](https://discord.io/datenshi)
 

@@ -10,6 +10,7 @@ These are the commands supported by FokaBot, our chat bot.
 - `!help` - Display help message  
 - `!pp [mode]` - Show your current pp. If `mode` is not present, FokaBot will tell you the amount of PP for your current game mode. If mode is present (it can be `std/taiko/ctb/mania`), FokaBot will tell you the amount of PP for that gamemode. **This command works only in PMs**
 - `!update` - Update the beatmapset you've `/np`ed in our beatmap mirror. Use this if you've just downloaded a beatmap from osu!direct and it shows as outdated or if a beatmap can't be downloaded from osu!direct because it's too new.
+- `!report` - if you see a cheater, give that info to admin as soon as possible!.
 
 ### Faq commands
 - `!faq rules`  
@@ -18,7 +19,8 @@ These are the commands supported by FokaBot, our chat bot.
 - `!faq offend`  
 - `!faq english`    
 - `!faq discord`    
-- `!faq changelog`  
+- `!faq ping`
+- `!faq bruh`
 - `!faq status`  
 
 ### Tillerino-like commands

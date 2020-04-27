@@ -5,27 +5,17 @@ old_id: 2
 <h1><i class="comment icon"></i> FAQ</h1>
 Beberapa pertanyaan yang sering diajukan:
 
------------------------
-
 - Q: Kenapa map saya gk diranked padahal sudah memenuhi kriteria?
 - A: Bisa saja map kamu tidak terdeteksi oleh sistem, kamu bisa request ulang melalui Discord. Format: [REQ ULANG](Link Beatmap)(mode)
-
------------------------
 
 - Q: Kok beatmap saya tidak bisa disubmit?
 - A: Itu bisa terjadi ketika : beatmap kondisi baru, link beatmap salah, sistem pengambilan database beatmap dari Datenshi ke official osu! belum diupdate
 
------------------------
-
 - Q: Berapa waktu yg harus diperlukan agar map saya diranked?
 - A: Tergantung Beatmap Nominator sendiri, BAT memerlukan waktu untuk melakukan review dan memilah-milah beatmap yg cocok untuk kriteria tersebut
 
------------------------
-
 - Q: Berapa jumlah map yang boleh saya request saat ini?
 - A: Untuk saat ini berjumlah maksimal 4 (Akan berubah sewaktu-waktu)
-
------------------------
 
 
 <h1><i class="comment icon"></i> Standard</h1>

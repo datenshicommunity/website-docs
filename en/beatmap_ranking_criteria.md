@@ -2,7 +2,7 @@
 title: "Beatmap Rules (Indonesia)"
 old_id: 2
 ---
-## Catch The Beat Ranking Criteria (NOT based from official but close to it)
+## Catch The Beat Ranking Criteria
 
 <h3><i class="list layout icon"></i> RANKED</h3>
 

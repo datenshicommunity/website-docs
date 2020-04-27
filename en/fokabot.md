@@ -1,5 +1,5 @@
 ---
-title: "FokaBot Commands"
+title: "YohaneBOT Commands"
 old_id: 4
 ---
 These are the commands supported by FokaBot, our chat bot.  

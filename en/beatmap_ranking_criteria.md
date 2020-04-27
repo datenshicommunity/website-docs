@@ -25,6 +25,8 @@ Beberapa pertanyaan yang sering diajukan:
 - **Q: Berapa jumlah map yang boleh saya request saat ini?**
 - A: Untuk saat ini berjumlah maksimal 4 (Akan berubah sewaktu-waktu)
 
+-----------------------
+
 
 <h1><i class="comment icon"></i> Standard</h1>
 

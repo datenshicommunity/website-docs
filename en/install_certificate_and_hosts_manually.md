@@ -69,7 +69,7 @@ Once you've installed the certificate, you can test whether it was successfully 
 
 ### You need download the Hosts file first or Copy-paste
 - [Clickhere](https://datenshi.xyz/static/hosts.txt)
-- [!step1](https://cdn.discordapp.com/attachments/700239763919339601/704337152229769217/unknown.png)
+- ![step1](https://cdn.discordapp.com/attachments/700239763919339601/704337152229769217/unknown.png)
 
 ### Then open **Notepad** as administrator
 - ![step2](https://cdn.discordapp.com/attachments/700239763919339601/704337857338147381/unknown.png)
@@ -78,7 +78,7 @@ Once you've installed the certificate, you can test whether it was successfully 
 - ![step3](https://cdn.discordapp.com/attachments/700239763919339601/704337981514973274/unknown.png)
 
 ### Add the text you copy before to this hosts like this
-- [!step4](https://cdn.discordapp.com/attachments/700239763919339601/704338211228614767/unknown.png)
+- ![step4](https://cdn.discordapp.com/attachments/700239763919339601/704338211228614767/unknown.png)
 
 ### and then `Save` try to log-in in to the game!
 ..Enjoy and happy farming!

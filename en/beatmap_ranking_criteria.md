@@ -2,7 +2,7 @@
 title: "Beatmap Rules (Indonesia)"
 old_id: 2
 ---
-# Catch The Beat Ranking Criteria
+<h1><i class="comment icon"></i> Catch The Beat</h1>
 
 ### RANKED
 
@@ -25,7 +25,7 @@ old_id: 2
 - dikarenakan RC CTB saya sedikit lebih fleksibel dari official, chart dengan Length dibawah 5 menit walau ada hanya kurang dari 2 difficulty yang memiliki kriteria ranked akan dapat kami approve dengan bedasar pertimbangan tertulis diatas
 
 
-# Mania Ranking Criteria
+<h1><i class="comment icon"></i> Mania</h1>
 
 ### OVERALL
 
@@ -45,7 +45,7 @@ Notes: Bagus atau tidaknya pattern merupakan suatu hal yang subjektif, disini sa
 Notes: Untuk 7k, tim BAT masih melakukan research mengenai ini karena BAT Mania saat ini merupakan player 4k dan masih harus belajar lebih untuk pattern 7k. Jadi kami mohon maaf bila ada kesalahan dalam mengambil keputusan dalam map 7k.
 Untuk rules LN ini bisa dirubah sewaktu-waktu
 
-# Taiko Ranking Criteria
+<h1><i class="comment icon"></i> Taiko</h1>
 
 ### RULES
 
@@ -53,7 +53,9 @@ Untuk rules LN ini bisa dirubah sewaktu-waktu
 2. Less 1/4+1/6, 1/6+1/8 pattern, jangan terlalu banyak jenis pattern kek gini sih kalo mapnya pengen ranked ,-, tapi kalo masuk loved masih bisa
 3. Longstream is fine, but stable, yaa kalo longstream 1/4 atau 1/6 stabil sih ga masalah, kalau misal 1/4+1/6 masih diperbolehkan asalkan posisi pattern 1/6 ada di akhir stream, untuk 1/6 ditengah stream dan dilanjutkan 1/4 stream sepertinya masuk loved deh
 4. Endurance map, kalau mapnya berisi longstream no break sama sekali dan lebih dari 2 menit lengthnya dan/atau stamina map dengan high bpm sepertinya masuk loved juga, untuk stamina map tapi bpm under 250 masih dipertimbangkan
-5. Doublet spam, jelas masuk loved sih ini
-6. Pattern with random slider appear or Pattern inside the slider, ini masuk loved juga, kadang ga bisa dipencet itu patternnya kalo didalem slider ,-,
-7. Spinner Spamming, ini terlalu ngespam bisa ngurangin gauge, yaa masuk loved aja ini
-8. Invisible Pattern, pattern jenis kayak gini yang biasanya ngebutuhin Storyboard masuk ke tipe Aspire sih, loved tentunya
+5. Mapset with Difficulty SpeedRate, Mapset yang banyak Diff Ratenya prefer masuk loved sih
+6. Doublet spam, jelas masuk loved sih ini
+7. Pattern with random slider appear or Pattern inside the slider, ini masuk loved juga, kadang ga bisa dipencet itu patternnya kalo didalem slider ,-,
+8. Spinner Spamming, ini terlalu ngespam bisa ngurangin gauge, yaa masuk loved aja ini
+9. Invisible Pattern, pattern jenis kayak gini yang biasanya ngebutuhin Storyboard masuk ke tipe Aspire sih, loved tentunya
+10. Metadata, ini jadi pertimbangan juga mapnya masuk ranked atau loved

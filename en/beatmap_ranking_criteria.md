@@ -32,6 +32,7 @@ old_id: 2
 1. **Vibro = NO**
 2. Pattern playable, yang dimaksud dengan playable adalah pattern yang sudah jelas bisa dimainkan dan sesuai dengan RC Official. 
 3. Map Pack (Endurance, Dan) = Loved, karena yang memang sudah sesuai dengan judulnya atau kaidahnya yaitu training pack merupakan map-map yang dibuat dengan tujuan untuk mengasah skill, bukan untuk dimainkan sewajarnya seperti map-map lainnya. 
+4. Untuk map 7K yang memiliki SR>5 minimum HP 7 dan OD 7.
 
 Notes: Bagus atau tidaknya pattern merupakan suatu hal yang subjektif, disini saya sebagai mapper pun belum bisa mendapati map dengan pattern yang bagus, jadi mohon dimengerti. Playable pattern pun juga demikian, walaupun map dengan SR 7 dibilang playable untuk sebagian orang, mungkin tidak untuk sebagian orang. Kecuali VIBRO
 
@@ -39,6 +40,7 @@ Notes: Bagus atau tidaknya pattern merupakan suatu hal yang subjektif, disini sa
 
 1. Untuk rate up/speed up tidak akan diranked karena secara pattern sama aja. 
 2. Untuk map yang memiliki SR >9 akan di pending atau di Loved. Berbeda hal dengan 7K. Untuk 7k, sementara SR>15 akan di pending atau di Loved
+3. Untuk map LN 7K yang memiliki SR>6 minimum HP 6.5 dan OD 0
 
 Notes: Untuk 7k, tim BAT masih melakukan research mengenai ini karena BAT Mania saat ini merupakan player 4k dan masih harus belajar lebih untuk pattern 7k. Jadi kami mohon maaf bila ada kesalahan dalam mengambil keputusan dalam map 7k.
 Untuk rules LN ini bisa dirubah sewaktu-waktu

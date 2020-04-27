@@ -2,7 +2,7 @@
 title: "Beatmap Rules (Indonesia)"
 old_id: 2
 ---
-<h1><i class="comment icon"></i> FAQ</h1>
+# FAQ
 Beberapa pertanyaan yang sering diajukan:
 
 -----------------------

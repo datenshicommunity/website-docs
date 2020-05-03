@@ -28,6 +28,11 @@ Beberapa pertanyaan yang sering diajukan:
 -----------------------
 
 
+#### Notes
+Sebelum request, pastikan map unranked yang anda ajukan :
+- Graveyard, sekurang kurangnya 1 bulan untuk menghindari update daripada mapper dari map tersebut (abandoned map)
+
+
 <h1><i class="comment icon"></i> Standard</h1>
 
 #### Rules
@@ -45,7 +50,7 @@ Semua map kemungkinan besar akan masuk ranked kecuali ada ciri - ciri yang diseb
 
 #### RANKED
 
- 1. PLAYABLE yang ini harus
+ 1. PLAYABLE yang ini harus, yang dimaksud playable yaitu bisa dimainkan paling tidak oleh casual player (player dengan kemampuan rata rata dan tidak mengejar skill/pada dasarnya bermain hanya untuk have fun)
  2. Less Unecessary Overstream note yang note satu line stream numpuk sampe banyak note, disini w perlu mainin bentar buat ceknya
  3. Unique & Variative patterns yang jelas ga terlalu monoton tapi ini optional, masih bisa w pertimbangkan
  4. METADATA macem OD AR HP jadi bahan pertimbangan w juga
@@ -59,9 +64,10 @@ Semua map kemungkinan besar akan masuk ranked kecuali ada ciri - ciri yang diseb
 #### NOTE
 
 - selebihnya bisa dipertimbangkan (SR juga jadi bahan pertimbangan)
-- unplayable sudah pasti denied kecuali ada yang bisa pass (masuk kategori LOVED)
+- unplayable sudah pasti denied kecuali ada yang bisa pass (masuk kategori **LOVED**)
 - training map pack akan masuk ke kategori LOVED sama seperti rules osu!mania
 - dikarenakan RC CTB saya sedikit lebih fleksibel dari official, chart dengan Length dibawah 5 menit walau ada hanya kurang dari 2 difficulty yang memiliki kriteria ranked akan dapat kami approve dengan bedasar pertimbangan tertulis diatas
+- old pattern (ex. mapnya Deif tahun 2014 kebawah) masih bisa dipertimbangkan juga buat ranked
 
 <h1><i class="comment icon"></i> Taiko</h1>
 

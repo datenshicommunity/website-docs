@@ -102,5 +102,4 @@ Notes: Bagus atau tidaknya pattern merupakan suatu hal yang subjektif, disini sa
 2. Untuk map yang memiliki SR >9 akan di pending atau di Loved. Berbeda hal dengan 7K. Untuk 7k, sementara SR>15 akan di pending atau di Loved
 3. Untuk map LN 7K yang memiliki SR>6 minimum HP 6.5 dan OD 0
 
-Notes: Untuk 7k, tim BAT masih melakukan research mengenai ini karena BAT Mania saat ini merupakan player 4k dan masih harus belajar lebih untuk pattern 7k. Jadi kami mohon maaf bila ada kesalahan dalam mengambil keputusan dalam map 7k.
-Untuk rules LN ini bisa dirubah sewaktu-waktu
+Notes: Untuk rules LN ini bisa dirubah sewaktu-waktu

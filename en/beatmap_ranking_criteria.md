@@ -30,6 +30,7 @@ Beberapa pertanyaan yang sering diajukan:
 
 #### Notes
 Sebelum request, pastikan map unranked yang anda ajukan :
+
 - Graveyard, sekurang kurangnya 1 bulan untuk menghindari update daripada mapper dari map tersebut (abandoned map)
 
 

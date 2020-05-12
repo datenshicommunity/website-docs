@@ -8,7 +8,7 @@ Frequently Asked Questions:
 -----------------------
 
 - **Q: Why is my requested map isn't ranked yet while it already meets the qualification for the Ranking  Criteria?**
-- A: Maybe your requested map is not detected by system, you can request again via our Discord. Format: `[REQ ULANG](Link Beatmap)(mode)`.
+- A: Maybe your requested map is not detected by system, you can request again via our Discord. Please use this format : [REQ](osu-beatmap-link)(mode) **Only for Donors**.
 
 -----------------------
 
@@ -18,7 +18,7 @@ Frequently Asked Questions:
 -----------------------
 
 - **Q: How much time is needed for my requested beatmap to be ranked?**
-- A: Depends on the Beatmap Nominator Team, BAT's needs time to review and sort out Beatmaps before it can be ranked.
+- A: Depends on the Beatmap Nominator Team, BN's needs time to review and sort out Beatmaps before it can be ranked.
 
 -----------------------
 
@@ -31,7 +31,7 @@ Frequently Asked Questions:
 #### Notes
 Before requesting, make sure the unranked mapset you're requesting is :
 
-- Graveyard, 1 month or more to avoid beatmap update (abandoned map).
+- In Graveyard, 1 month or more to avoid beatmap update (abandoned map).
 
 
 <h1><i class="comment icon"></i> Standard</h1>

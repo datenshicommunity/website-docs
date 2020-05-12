@@ -1,89 +1,89 @@
 ---
-title: "Beatmap Rules (Indonesia)"
+title: "Beatmap Rules (English)"
 old_id: 2
 ---
 # FAQ
-Beberapa pertanyaan yang sering diajukan:
+Frequently Asked Questions:
 
 -----------------------
 
-- **Q: Kenapa map saya gk diranked padahal sudah memenuhi kriteria?**
-- A: Bisa saja map kamu tidak terdeteksi oleh sistem, kamu bisa request ulang melalui Discord. Format: `[REQ ULANG](Link Beatmap)(mode)`
+- **Q: Why my requested map is not yet ranked while it's already qualified the criteria?**
+- A: Maybe your requested map is not detected by system, you can request again via our Discord. Format: `[REQ ULANG](Link Beatmap)(mode)`.
 
 -----------------------
 
-- **Q: Kok beatmap saya tidak bisa disubmit?**
-- A: Itu bisa terjadi ketika : beatmap kondisi baru, link beatmap salah, sistem pengambilan database beatmap dari Datenshi ke official osu! belum diupdate
+- **Q: Why i can't submit Beatmap Rank Request?**
+- A: It might be happen when : it was fresh beatmap, wrong link, beatmap takeover system from osu! database is not yet updated.
 
 -----------------------
 
-- **Q: Berapa waktu yg harus diperlukan agar map saya diranked?**
-- A: Tergantung Beatmap Nominator sendiri, BAT memerlukan waktu untuk melakukan review dan memilah-milah beatmap yg cocok untuk kriteria tersebut
+- **Q: How much time needed for my requested beatmap to be ranked?**
+- A: Depends on the Beatmap Nominator team, BAT need time to review and sort out Beatmaps before it can be ranked.
 
 -----------------------
 
-- **Q: Berapa jumlah map yang boleh saya request saat ini?**
-- A: Untuk saat ini berjumlah maksimal 4 (Akan berubah sewaktu-waktu)
+- **Q: How much can i request right now?**
+- A: For now you can ony request 4 (might change anytime).
 
 -----------------------
 
 
 #### Notes
-Sebelum request, pastikan map unranked yang anda ajukan :
+Before requesting, make sure the unranked mapset you're requesting :
 
-- Graveyard, sekurang kurangnya 1 bulan untuk menghindari update daripada mapper dari map tersebut (abandoned map)
+- Graveyard, 1 month or more to avoid beatmap update (abandoned map).
 
 
 <h1><i class="comment icon"></i> Standard</h1>
 
 #### Rules
 
-1. Map harus playable, tetap mengikuti ranking criteria Bancho. Bila tidak kemungkinan akan masuk ke loved.
-2. Longstream map yang gampang diabuse kemungkinan akan masuk loved. (Dikarenakan banyak relax player yang bisa memakai mod DT untuk mendapatkan PP)
-3. Overlap object, 2B maps, Storyboard based maps (Map yang membutuhkan storyboard untuk dinyalakan agar bisa dimainkan) akan masuk loved.
-4. Near impossible map (Galaxy Collapse, dll) yang bisa dipass oleh player akan masuk ranked.
-5. Map marathon yang berdurasi lebih dari 40 menit (atau yang bisa menyentuh limit score std) akan masuk loved.  (contoh: Songs Compilation nya Nevo durasi 54 menit)
-6. Abusive PP Maps (Map yang isinya cuma pattern 1-2, stacking longstream high bpm (relax)) kemungkinan akan masuk loved.
+1. Map must be playable, still following Bancho Ranking Criteria. If not, they should be going to Loved.
+2. Easly Abuseable Longstream map will goes to loved. (It happens because many Relax player using DT to gain PP)
+3. Overlap object, 2B maps, Storyboard based maps (Map that needs storyboard to be playable) will go to Loved.
+4. Near impossible map (Galaxy Collapse, .etc) that can be finised by a player will be ranked.
+5. Marathon map that more than 40 minutes length (or if it touch the limit of STD score) will go to Loved.  (examples: Songs Compilation nya Nevo, Length 54 minutes)
+6. Abusive PP Maps (Map that only has pattern 1-2, stacking longstream high bpm (relax)) might go to Loved.
 
-Semua map kemungkinan besar akan masuk ranked kecuali ada ciri - ciri yang disebutkan di rules di atas.
+All maps will possibly goes ranked except there are some that match the criteria above.
 
 <h1><i class="comment icon"></i> Catch The Beat</h1>
 
 #### RANKED
 
- 1. PLAYABLE yang ini harus, yang dimaksud playable yaitu bisa dimainkan paling tidak oleh casual player (player dengan kemampuan rata rata dan tidak mengejar skill/pada dasarnya bermain hanya untuk have fun)
- 2. Less Unecessary Overstream note yang note satu line stream numpuk sampe banyak note, disini w perlu mainin bentar buat ceknya
- 3. Unique & Variative patterns yang jelas ga terlalu monoton tapi ini optional, masih bisa w pertimbangkan
- 4. METADATA macem OD AR HP jadi bahan pertimbangan w juga
+ 1. PLAYABLE this one is a must, what mean playable is that it can be at least played by a casual player (player with average skill that not really care about PP)
+ 2. Less Unecessary Overstream note, as said it will take some times to check this criteria (possibly will be ranked)
+ 3. Unique & Variative patterns not too monotone but still can have a chance to be ranked
+ 4. METADATA like OD AR HP can be consideration material
 
 #### LOVED
 
  1. Unique Patterns is a big plus
- 2. Playable Monotone and interesting patterns (monoton ga masalah disini, yang penting patternnya menarik dan somehow enak dimainin)
- 3. METADATA gak terlalu diperhatikan disini selama gak menggangu gameplay
+ 2. Playable Monotone and interesting patterns
+ 3. METADATA not really take point here as long as it not interfere the gameplay
 
 #### NOTE
 
-- selebihnya bisa dipertimbangkan (SR juga jadi bahan pertimbangan)
-- unplayable sudah pasti denied kecuali ada yang bisa pass (masuk kategori **LOVED**)
-- training map pack akan masuk ke kategori LOVED sama seperti rules osu!mania
-- dikarenakan RC CTB saya sedikit lebih fleksibel dari official, chart dengan Length dibawah 5 menit walau ada hanya kurang dari 2 difficulty yang memiliki kriteria ranked akan dapat kami approve dengan bedasar pertimbangan tertulis diatas
-- old pattern (ex. mapnya Deif tahun 2014 kebawah) masih bisa dipertimbangkan juga buat ranked
+- more and less can be considerated (SR also a consideration material)
+- unplayable will absolutely be denied except someone can pass it (going to **LOVED** category)
+- training map pack will going to LOVED category same as osu!mania Rules
+- Because of this RC are more flexible than official osu has, chart with Length under 5 menit even if it has less than 2 difficulty that have the ranked criteria will be approved with the consideration written above
+- old pattern (ex. Deif's maps on years 2014 below) can still be considerated for ranked
 
 <h1><i class="comment icon"></i> Taiko</h1>
 
 #### RULES
 
-1. Playable, wajib sih ini, kalo ga playable masuk loved nanti
-2. Less 1/4+1/6, 1/6+1/8 pattern, jangan terlalu banyak jenis pattern kek gini sih kalo mapnya pengen ranked ,-, tapi kalo masuk loved masih bisa
-3. Longstream is fine, but stable, yaa kalo longstream 1/4 atau 1/6 stabil sih ga masalah, kalau misal 1/4+1/6 masih diperbolehkan asalkan posisi pattern 1/6 ada di akhir stream, untuk 1/6 ditengah stream dan dilanjutkan 1/4 stream sepertinya masuk loved deh
-4. Endurance map, kalau mapnya berisi longstream no break sama sekali dan lebih dari 2 menit lengthnya dan/atau stamina map dengan high bpm sepertinya masuk loved juga, untuk stamina map tapi bpm under 250 masih dipertimbangkan
-5. Mapset with Difficulty SpeedRate, Mapset yang banyak Diff Ratenya prefer masuk loved sih
-6. Doublet spam, jelas masuk loved sih ini
-7. Pattern with random slider appear or Pattern inside the slider, ini masuk loved juga, kadang ga bisa dipencet itu patternnya kalo didalem slider ,-,
-8. Spinner Spamming, ini terlalu ngespam bisa ngurangin gauge, yaa masuk loved aja ini
-9. Invisible Pattern, pattern jenis kayak gini yang biasanya ngebutuhin Storyboard masuk ke tipe Aspire sih, loved tentunya
-10. Metadata, ini jadi pertimbangan juga mapnya masuk ranked atau loved
+1. Playable, and it a must, if not playable it will be going to loved
+2. Less 1/4+1/6 and  1/6+1/8 pattern, take that as consideration before submitting a request if you want it to be ranked, but it still can be loved
+3. Longstream is fine, but stable, yea if stable 1/4 atau 1/6 longstream maybe no problem, but 1/4+1/6 still be approved if the pattern 1/6 position is on the end of the stream, for 1/6 in the middle of the stream and continued by 1/4 stream might be going to loved
+4. Endurance map, if the map has longstream without any break time dan more than 2 minutes length and/or stamina map with high bpm might also goes to loved, for stamina map but the bpm is under 250 still can be considerated
+5. Mapset with Difficulty SpeedRate, Mapset with many Diff Rate prefered going to loved
+6. Doublet spam, definetly loved
+7. Pattern with random slider appear or Pattern inside the slider, this also goint to loved, sometimes the pattern on the slider can't be clicked
+8. Spinner Spamming, if this is too much can decrease gauge significantly, of course going to loved
+9. Invisible Pattern, this kind of pattern usualy needs storyboard,  and it's Aspire tipe maps, of course Loved
+10. Metadata, this one  is also consideration material for ranking purpose
 
 
 <h1><i class="comment icon"></i> Mania</h1>
@@ -91,16 +91,16 @@ Semua map kemungkinan besar akan masuk ranked kecuali ada ciri - ciri yang diseb
 #### OVERALL
 
 1. **Vibro = NO**
-2. Pattern playable, yang dimaksud dengan playable adalah pattern yang sudah jelas bisa dimainkan dan sesuai dengan RC Official. 
-3. Map Pack (Endurance, Dan) = Loved, karena yang memang sudah sesuai dengan judulnya atau kaidahnya yaitu training pack merupakan map-map yang dibuat dengan tujuan untuk mengasah skill, bukan untuk dimainkan sewajarnya seperti map-map lainnya. 
-4. Untuk map 7K yang memiliki SR>5 minimum HP 7 dan OD 7.
+2. Pattern playable, what it mean to be playable is the pattern can be played by a player and is fit the Official RC. 
+3. Map Pack (Endurance, Dan) = Loved, as said on the title, training pack is a bunch of maps that made for training purpose and not for casual playing
+4. For 7K beatmaps that has SR>5 minimum HP 7 and OD 7.
 
-Notes: Bagus atau tidaknya pattern merupakan suatu hal yang subjektif, disini saya sebagai mapper pun belum bisa mendapati map dengan pattern yang bagus, jadi mohon dimengerti. Playable pattern pun juga demikian, walaupun map dengan SR 7 dibilang playable untuk sebagian orang, mungkin tidak untuk sebagian orang. Kecuali VIBRO
+Notes: good or not the map is subjective, i'm here as a mapper still can't yet find maps with good patterns, so please understand. Playable pattern is also the same, even a map with SR 7 can be considered playable for some player, and not for the others. except VIBRO
 
 #### LN MAPS
 
-1. Untuk rate up/speed up tidak akan diranked karena secara pattern sama aja. 
-2. Untuk map yang memiliki SR >9 akan di pending atau di Loved. Berbeda hal dengan 7K. Untuk 7k, sementara SR>15 akan di pending atau di Loved
+1. For the rate up/speed up won't be ranked because the pattern is just the same. 
+2. For maps that has SR >9 will be pending or Loved. there's different case for 7K. For 7k, for now SR>15 will be Pending or Loved
 3. Untuk map LN 7K yang memiliki SR>6 minimum HP 6.5 dan OD 0
 
-Notes: Untuk rules LN ini bisa dirubah sewaktu-waktu
+Notes: FOR this LN rules might change anytime 

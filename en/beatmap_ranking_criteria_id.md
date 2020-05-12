@@ -92,15 +92,16 @@ Semua map kemungkinan besar akan masuk ranked kecuali ada ciri - ciri yang diseb
 
 1. **Vibro = NO**
 2. Pattern playable, yang dimaksud dengan playable adalah pattern yang sudah jelas bisa dimainkan dan sesuai dengan RC Official. 
-3. Map Pack (Endurance, Dan) = Loved, karena yang memang sudah sesuai dengan judulnya atau kaidahnya yaitu training pack merupakan map-map yang dibuat dengan tujuan untuk mengasah skill, bukan untuk dimainkan sewajarnya seperti map-map lainnya. 
-4. Untuk map 7K yang memiliki SR>5 minimum HP 7 dan OD 7.
+3. Map Pack (Endurance, Dan, Courses) = Loved, karena yang memang sudah sesuai dengan judulnya atau kaidahnya yaitu training pack merupakan map-map yang dibuat dengan tujuan untuk mengasah skill, bukan untuk dimainkan sewajarnya seperti map-map lainnya. 
+4. Untuk map 7K yang memiliki SR >5 minimum memiliki HP 7  dan OD 7.
 
 Notes: Bagus atau tidaknya pattern merupakan suatu hal yang subjektif, disini saya sebagai mapper pun belum bisa mendapati map dengan pattern yang bagus, jadi mohon dimengerti. Playable pattern pun juga demikian, walaupun map dengan SR 7 dibilang playable untuk sebagian orang, mungkin tidak untuk sebagian orang. Kecuali VIBRO
+-Reyna
 
 #### LN MAPS
 
-1. Untuk rate up/speed up tidak akan diranked karena secara pattern sama aja. 
+1. Untuk rate up/speed up tidak akan di ranked karena secara pattern sama aja. 
 2. Untuk map yang memiliki SR >9 akan di pending atau di Loved. Berbeda hal dengan 7K. Untuk 7k, sementara SR>15 akan di pending atau di Loved
-3. Untuk map LN 7K yang memiliki SR>6 minimum HP 6.5 dan OD 0
+3. Untuk map LN 7K yang memiliki SR >6 minimum memiliki HP 6.5 dan OD 0. Dan juga jika mapnya memiliki SR >12 dengan mod DT/NC untuk map yang "Gampang", maka tidak akan di ranked (maksud dari "Gampang" itu meng-abuse sistem SR dengan pattern spammable untuk mendapat SR tinggi)
 
 Notes: Untuk rules LN ini bisa dirubah sewaktu-waktu

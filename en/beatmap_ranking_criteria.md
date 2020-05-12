@@ -1,6 +1,6 @@
 ---
 title: "Beatmap Rules (English)"
-old_id: 2
+old_id: 20
 ---
 # FAQ
 Frequently Asked Questions:

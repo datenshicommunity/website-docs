@@ -8,7 +8,7 @@ Frequently Asked Questions:
 -----------------------
 
 - **Q: Why is my requested map isn't ranked yet while it already meets the qualification for the Ranking  Criteria?**
-- A: Maybe your requested map is not detected by system, you can request again via our Discord. Please use this format : [REQ](osu-beatmap-link)(mode) **Only for Donors**.
+- A: Maybe your requested map is not detected by system, you can request again via our Discord. Please use this format : `[REQ](osu-beatmap-link)(mode)` **Only for Donors**.
 
 -----------------------
 

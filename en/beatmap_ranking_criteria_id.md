@@ -8,7 +8,8 @@ Beberapa pertanyaan yang sering diajukan:
 -----------------------
 
 - **Q: Kenapa map saya gk diranked padahal sudah memenuhi kriteria?**
-- A: Bisa saja map kamu tidak terdeteksi oleh sistem, kamu bisa request ulang melalui Discord. Gunakan format ini : [REQ](osu-beatmap-link)(mode) **Hanya untuk Donator**
+- A: Bisa saja map kamu tidak terdeteksi oleh sistem, kamu bisa request ulang melalui Discord. Gunakan format ini : `[REQ](osu-beatmap-link)(mode)` **Hanya untuk Donator**
+
 -----------------------
 
 - **Q: Kok beatmap saya tidak bisa disubmit?**

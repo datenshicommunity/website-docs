@@ -3,7 +3,7 @@ title: "How to connect to Datenshi"
 old_id: 1
 ---
 - [Register](http://datenshi.xyz/register) an account  
-- Download the [Datenshi server switcher](https://datenshi.xyz/static/datenshi.exe)
+- Download the [Datenshi server switcher](https://i.datenshi.xyz/static/datenshi.exe)
 - **Extract** the archive somewhere (eg: in a folder on your desktop)  
 - **Turn off your antivirus** (some antiviruses might cause some issues)  
 

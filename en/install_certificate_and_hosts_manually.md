@@ -5,7 +5,7 @@ old_id: 12
 If you're having troubles connecting to Datenshi or the switcher doesn't install the certificate properly, you can try installing it manually.
 
 ### Instructions
-- First, download the certificate [by clicking here](https://datenshi.xyz/static/cert.crt)
+- First, download the certificate [by clicking here](https://i.datenshi.xyz/static/cert.crt)
 - Then, open **cert.crt**
 - Click **Install certificate...**
 - Click **Next**
@@ -31,7 +31,7 @@ If you're having troubles connecting to Datenshi or the switcher doesn't install
 
 ### You need download the certificates first
 
-- [Clickhere](https://old.datenshi.xyz/cert.crt)
+- [Clickhere](https://i.datenshi.xyz/static/cert.crt)
 
 ### Then open or right click and Install Certificates
 
@@ -60,7 +60,7 @@ If you're having troubles connecting to Datenshi or the switcher doesn't install
 ...This is the best tutorial i made for you if you can't read LOL just kidding.
 
 ### You need download the Hosts file first or Copy-paste
-- [Clickhere](https://datenshi.xyz/static/hosts.txt)
+- [Clickhere](https://i.datenshi.xyz/static/hosts.txt)
 
 ![step1](https://cdn.discordapp.com/attachments/700239763919339601/704337152229769217/unknown.png)
 

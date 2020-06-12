@@ -58,7 +58,7 @@ Perolehan pointnya sangat mudah, point maks sampai dengan 5 point, jika sebuah c
 - 2 Month Datenshi Donat
 - Badges Winner untuk 3 Pemain Inti
 - Roles Juara Clan War Discord
-- Mouse Gaming Rexus Xierra (RXM-X13) untuk Leader
+- Mouse Gaming Rexus Xierra (RXM-X13) untuk Kapten
 
 # Mappools
 
@@ -75,3 +75,7 @@ TBD
 - 4 Juli 2020 - 5 Juli 2020 (Group Stage Match)
 - 11 Juli 2020 - 12 Juli 2020 (Quarterfinals)
 - 18 Juli 2020 (Semifinals & Finals)
+
+# Links
+
+- [Discord](https://link.troke.id/datenshi)

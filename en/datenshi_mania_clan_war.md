@@ -90,13 +90,33 @@ Perolehan pointnya sangat mudah, point maks sampai dengan 5 point, jika sebuah c
 
 Download : [Single Link](https://drive.google.com/file/d/1u-tuK0ej87GXa1m4LAOmX7nyOWeTYgBD/view) (72,5MB)
 
+## Semifinals
+
+- [polysha - The Golden Era (inteliser) [OVERFLOW[LN]] - LN Technical](https://osu.ppy.sh/beatmapsets/721748#mania/1523992)
+- [lapix - Pixel Fighter (PiraTom) [LoNg VACATION] - LN Mixed](https://osu.ppy.sh/beatmapsets/672385)
+- [kemu feat.GUMI - Life Reset Button (Kamikaze) [New Game Plus w/ Raveille (MP4K4 Edit)] - LN Mixed](https://osu.ppy.sh/beatmapsets/850076)
+- [Chipzel - Courtesy (Hydria) [Learning and Perfecting : Melody Focus] - SV Approximation](https://osu.ppy.sh/beatmapsets/803734)
+- [C-Show - ERROR CODE (SpectorDG) [SPE vs. ZEN's GRAVITY] - SV Memorization](https://osu.ppy.sh/beatmapsets/545342)
+- [Car Bomb - Constant Sleep (Pope Gadget) [Midnight Black] - SV Mixed](https://osu.ppy.sh/beatmapsets/959929)
+- [Fall Out Boy - Dance, Dance (Valedict) [Misery] - Speed](https://osu.ppy.sh/beatmapsets/861281)
+- [amazarashi - Sora ni Utaeba (Gekido-) [Go Beyond!] - Speed](https://osu.ppy.sh/beatmapsets/755890)
+- [Camellia - BADBOY (Valedict) [XLMP REDUX (2018)] - Tech](https://osu.ppy.sh/b/1866438)
+- [tokiwa - Kotodama Refrain (katagiri Bootleg) (NikoSek) [x1.05] - Stamina](https://osu.ppy.sh/b/1990698)
+- [USAO - Dynamite (Extended Mix) (Azubeur) [Twerk] - Stamina](https://osu.ppy.sh/beatmapsets/589727)
+- [EZFG - Glucagon (Wh1teh) [!!] - Jack](https://osu.ppy.sh/beatmapsets/754350)
+- [ZxNx & Hiryur - Encore (Ticle) [:Style:] - Hybrid](https://osu.ppy.sh/beatmapsets/931629)
+- [Camellia feat. Kagekiha gakusei - Lowermost Revolt ("Jeremiad" Long ver.) (FelixSpade) [Rebellion]](https://osu.ppy.sh/beatmapsets/1184745) (TIEBREAKER)
+
+Download : [Single Link](https://drive.google.com/file/d/18YjHkQLqeSmVWqvKxZ-_aLNBFsiqYzni/view?usp=sharing) (113MB)
+
 # Schedule
 
 - 14 Juni 2020 - 28 Juni 2020 (Registration)
 - 29 Juni 2020 (Pengumuman Bracket & Mappools)
 - 5 Juli 2020 (Round of 8 Match)
-- TBD (Quarterfinals)
-- TBD (Semifinals & Finals)
+- 10 Juli 2020 (Mappool Showcase)
+- 12 Juli 2020 (Semifinals)
+- TBD (Finals & DJ Set Perfomance)
 
 # Links
 

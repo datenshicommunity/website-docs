@@ -4,42 +4,42 @@ old_id: 7
 ---
 <center>![gambar](https://cdn.discordapp.com/attachments/408950289962369025/721012625663852547/clanwar.png)</center>
 
-Kali ini Datenshi membuka Tournament Team vs atau dengan kata lain "Clan War", dengan adanya sebuah Clan di Datenshi dan dilihat populasi sebuah clan yang paling banyak adalah mode Mania, nah dengan begitu kami memilih mode Mania sebagai pilihan utama pada tournament ini. Maksud tujuan kami membuat tournament ini ialah untuk meramaikan Datenshi dan mengenalkan Datenshi kepada player-player Indonesia yang belum tau tentang server ini. 
+Kali ini Datenshi membuka Tournament Team vs atau dengan kata lain "Clan War", dengan adanya sebuah Clan di Datenshi dan dilihat populasi sebuah clan yang paling banyak adalah mode Mania, nah dengan begitu kami memilih mode Mania sebagai pilihan utama pada tournament ini. Maksud tujuan kami membuat tournament ini ialah untuk meramaikan Datenshi dan mengenalkan Datenshi kepada player-player Indonesia yang belum tahu tentang server ini. 
 
 # Registration Rules
 
 - Registration harus dilakukan oleh Leader Clan/Perwakilan
-- Setidaknya memiliki/mengikuti sebuah Clan! Jika belum, silahkan masuk ke Discord kami dan cari channel `#invites-clans` atau buat sebuah clan!
-- Setiap Clan memiliki 5 player, 3 pemain inti dan 2 cadangan
+- Setidaknya memiliki/mengikuti sebuah Clan! Jika belum, silahkan masuk ke Discord Server kami dan cari channel `#invites-clans` atau buat sebuah clan!
+- Setiap Clan setidaknya memiliki 5 player, 3 pemain inti dan 2 cadangan
 - Setiap Clan boleh mengajukan perwakilannya lebih dari 1 dan maksimal 3 team, contoh (boomesports 1, boomesports 2, boomesports 3)
 - Pastikan kalian memiliki akun Datenshi dan umur akun harus minimal 1 hari
 
 # Tournament Rules
 
-- Apabila ada Clan yang playernya tidak hadir dan tidak memenuhi syarat (3 player), akan didiskualifikasi! Pastikan semua player hadir tepat waktu!
-- Semua player tidak diperbolehkan menggunakan program illegal, jika ketauan akan langsung dibanned dari server!
-- Mappool harus segera didownload sebelum turney dilaksanakan, agar mempermudah/mempercepat tourney
-- Player tidak diperbolehkan melakukan boosting/joki saat tourney berlangsung, jika ketauan akan didiskualifikasi
-- Apabila terjadi stuck saat pertandingan, bisa dibatalkan dan dilakukan re-match !
 - Key mode yang dipertandingkan adalah 4K
-- Clan diperbolehkan mengganti pemain saat tournament dilaksanakan, maksimal 2x dalam sebuah match dan harus ijin terlebih dahulu kepada Staff 
+- Apabila ada Clan/Team yang playernya tidak hadir dan tidak memenuhi syarat (3 player), akan didiskualifikasi! Pastikan semua player hadir tepat waktu!
+- Semua player tidak diperbolehkan menggunakan program illegal, jika ketahuan akan langsung dibanned dari server!
+- Mappool harus segera didownload sebelum match dilaksanakan, agar mempermudah & mempercepat jalannya match
+- Player tidak diperbolehkan melakukan boosting/joki saat tournament berlangsung, jika ketauan akan didiskualifikasi
+- Apabila terjadi stuck pada suatu ronde (seperti koneksi internet yang lemot / osu! client yang freeze / pemain mengalami disconnect), ronde tersebut bisa dibatalkan dan dilakukan re-match dengan map yang sama !
+- Clan diperbolehkan mengganti pemain saat match dilaksanakan, maksimal 2x dalam sebuah match dan harus ijin terlebih dahulu kepada Staff 
 
-Untuk saat ini kami tidak membatasi sebuah ranking disetiap player, dengan itu player yang low seed dan high seed bisa saja bertemu! pastikan Clan kalian memiliki player yang sangat JAGO untuk diwakilkan
+Untuk saat ini kami tidak membatasi sebuah ranking disetiap player, dengan itu player yang low seed dan high seed bisa saja bertemu! pastikan Clan/Team kalian memiliki player yang sangat JAGO untuk diwakilkan
 
 ## Knock-Out Stage
 
 - Pemilihan Bracket akan di shuffle melalui website **Challonge**
 - Knock-Out Stage akan memakai sistem Single Elimination / Tidak ada Lower Bracket agar mempercepat Tournament
-- Sistem ban akan diberikan 4 maps 
-- Tiebreaker akan dilakukan jika memiliki score yang sama
-- Round of 8 menggunakan system point BO5 (OOO X OOO)
-- Semi-Final menggunakan system point BO8 (OOOO x OOOO)
-- Final menggunakan system point BO10 (OOOOO x OOOOO)
+- Sistem ban akan diberikan 4 maps (Setiap Team akan mendapatkan jatah 2x ban map)
+- Tiebreaker akan dilakukan jika memiliki point yang sama / seri pada suatu match
+- Quarter-Final menggunakan sistem point Bo5 (Yang mendapatkan 3 point terlebih dahulu yang menang)
+- Semi-Final menggunakan sistem point Bo9 (Yang mendapatkan 5 point terlebih dahulu yang menang)
+- Final menggunakan sistem point Bo13 (Yang mendapatkan 7 point terlebih dahulu yang menang)
 
 
 ## Perolehan Point
 
-Perolehan pointnya sangat mudah, point maks sampai dengan 5 point, jika sebuah clan menang akan mendapatkan 1 point, jika kalah mendapatkan 0 point dan jika Clan memiliki point yang sama akan dilakukan Tie-breaker
+Perolehan pointnya sangat mudah, jika sebuah clan menang akan mendapatkan 1 point, jika kalah mendapatkan 0 point. Pemenang suatu match adalah Clan yang paling pertama memperoleh point maksimal. Dan jika pada suatu match kedua Clan memiliki point yang sama/seri, maka akan dilakukan Tie-Breaker untuk menentukan pemenangnya
 
 # Prize Pool Juara 1
 
@@ -113,8 +113,8 @@ Download : [Single Link](https://drive.google.com/file/d/18YjHkQLqeSmVWqvKxZ-_aL
 
 - 14 Juni 2020 - 28 Juni 2020 (Registration)
 - 29 Juni 2020 (Pengumuman Bracket & Mappools)
-- 5 Juli 2020 (Round of 8 Match)
-- 10 Juli 2020 (Mappool Showcase)
+- 5 Juli 2020 (Quarter-Final Match)
+- 10 Juli 2020 (Mappool Showcase Semi-Final)
 - 12 Juli 2020 (Semifinals)
 - TBD (Finals & DJ Set Perfomance)
 

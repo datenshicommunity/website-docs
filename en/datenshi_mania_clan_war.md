@@ -30,7 +30,7 @@ Untuk saat ini kami tidak membatasi sebuah ranking disetiap player, dengan itu p
 
 - Pemilihan Bracket akan di shuffle melalui website **Challonge**
 - Knock-Out Stage akan memakai sistem Single Elimination / Tidak ada Lower Bracket agar mempercepat Tournament
-- Sistem ban akan diberikan 2 maps (Setiap Team akan mendapatkan jatah 1x ban map)
+- Sistem ban akan diberikan 4 maps (Setiap Team akan mendapatkan jatah 2x ban map)
 - Tiebreaker akan dilakukan jika memiliki point yang sama / seri pada suatu match
 - Quarter-Final menggunakan sistem point Bo5 (Yang mendapatkan 3 point terlebih dahulu yang menang)
 - Semi-Final menggunakan sistem point Bo9 (Yang mendapatkan 5 point terlebih dahulu yang menang)

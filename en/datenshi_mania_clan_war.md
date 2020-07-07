@@ -32,7 +32,10 @@ Untuk saat ini kami tidak membatasi sebuah ranking disetiap player, dengan itu p
 - Knock-Out Stage akan memakai sistem Single Elimination / Tidak ada Lower Bracket agar mempercepat Tournament
 - Sistem ban akan diberikan 4 maps 
 - Tiebreaker akan dilakukan jika memiliki score yang sama
-- Knock-Out Stage akan dilakukan Best Of Five (BO5)
+- Round of 8 menggunakan system point BO5 (OOO X OOO)
+- Semi-Final menggunakan system point BO8 (OOOO x OOOO)
+- Final menggunakan system point BO10 (OOOOO x OOOOO)
+
 
 ## Perolehan Point
 
@@ -56,7 +59,6 @@ Perolehan pointnya sangat mudah, point maks sampai dengan 5 point, jika sebuah c
 - [Yozora](/u/1105)
 - [Habta](/u/1349)
 - [ab](/u/1106)
-- [Bruh](/u/1011)
 
 ## Mappool Selector
 

@@ -49,9 +49,3 @@ Disini kami mendapati berbagai masalah yang dimana terdapat player yang mencurig
 
 - Submissions Link : [https://bit.ly/3fpw3W8](https://bit.ly/3fpw3W8)
 
-Thanks for the patience
-Best Regards,
-
-
-
-Datenshi Staff

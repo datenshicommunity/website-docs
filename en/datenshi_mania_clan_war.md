@@ -94,6 +94,7 @@ Download : [Single Link](https://drive.google.com/file/d/1u-tuK0ej87GXa1m4LAOmX7
 
 - [polysha - The Golden Era (inteliser) [OVERFLOW[LN]] - LN Technical](https://osu.ppy.sh/beatmapsets/721748#mania/1523992)
 - [lapix - Pixel Fighter (PiraTom) [LoNg VACATION] - LN Mixed](https://osu.ppy.sh/beatmapsets/672385)
+- [toby fox - Battle Against a True Hero (Mipha-) [Howling (165bpm)] - LN Mixed](https://osu.ppy.sh/beatmapsets/1093396)
 - [kemu feat.GUMI - Life Reset Button (Kamikaze) [New Game Plus w/ Raveille (MP4K4 Edit)] - LN Mixed](https://osu.ppy.sh/beatmapsets/850076)
 - [Chipzel - Courtesy (Hydria) [Learning and Perfecting : Melody Focus] - SV Approximation](https://osu.ppy.sh/beatmapsets/803734)
 - [C-Show - ERROR CODE (SpectorDG) [SPE vs. ZEN's GRAVITY] - SV Memorization](https://osu.ppy.sh/beatmapsets/545342)

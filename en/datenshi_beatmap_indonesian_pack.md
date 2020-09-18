@@ -3,8 +3,6 @@ title: "Datenshi Beatmaps Indonesian Packs"
 old_id: 62
 ---
 
-# Datenshi Beatmaps Indonesian Packs
-
 This is collection of all Indonesian Beatmap Packs who got ranked in Datenshi
 
 ## List

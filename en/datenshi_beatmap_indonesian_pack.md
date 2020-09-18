@@ -24,3 +24,4 @@ This is collection of all Indonesian Beatmap Packs who got ranked in Datenshi
 - [NDX AKA - Ditinggal Rabi](https://osu.ppy.sh/b/2535501)
 - [NDX AKA - Tewas Tertimbun Masa Lalu](https://osu.ppy.sh/beatmapsets/1207913#osu/2515303)
 - [Serempet Gudal - Kimcil](https://osu.ppy.sh/beatmapsets/394407#mania/859441)
+- [Vierra - Jadi Apa Yang Kuinginkan](https://osu.ppy.sh/beatmapsets/711005#mania/1503130)

@@ -68,12 +68,12 @@ Perolehan pointnya sangat mudah, jika sebuah clan menang akan mendapatkan 1 poin
  
 # List Peserta
 
-![daftar](https://cdn.discordapp.com/attachments/408950289962369025/726947323200012399/unknown.png)
+![daftar](https://cdn.discordapp.com/attachments/408950289962369025/732255596136628275/unknown.png)
 
 
 # Mappools
 
-## Round of 8
+## Quarterfinals
 
 - [sakuraburst - dragonlands (Toaph Daddy) [myth]](https://osu.ppy.sh/b/1697375)
 - [The Flashbulb - Cycles (Toaph Daddy) [Stage 1: Composure]](https://osu.ppy.sh/beatmapsets/673208)
@@ -110,6 +110,28 @@ Download : [Single Link](https://drive.google.com/file/d/1u-tuK0ej87GXa1m4LAOmX7
 
 Download : [Single Link](https://drive.google.com/file/d/18YjHkQLqeSmVWqvKxZ-_aLNBFsiqYzni/view?usp=sharing) (113MB)
 
+## Finals
+
+- [Hiru - VerTEX (Raveille) [Zenith 1.0x]](https://osu.ppy.sh/beatmapsets/853441#mania/1783680)
+- [Nanahira - Petals (Hira) [Petals]](https://osu.ppy.sh/beatmapsets/733881#mania/1548660)
+- [Camellia - Break the Silence ([Crz]Crysarlene) [Serenity]](https://osu.ppy.sh/beatmapsets/1027910#mania/2149368)
+- [Nekomata Master - Avalon no oka (Niro-) [LN Deluge]](https://osu.ppy.sh/beatmapsets/853427#mania/1783652)
+- [DJ Genki VS Camellia feat. moimoi - YELL (Mazteon) [ELPIS -arc. edit-]](https://osu.ppy.sh/beatmapsets/921509#mania/1924440)
+- [Chroma - Mr.LittleHeart's Adventure (Cadmium-113) [Escapede]](https://osu.ppy.sh/beatmapsets/406323#mania/883011)
+- [Relect - Shiva (ChocoCoki-) [Mahadeva]](https://osu.ppy.sh/beatmapsets/1185474#mania/2470963)
+- [TK from Ling tosite sigure - unravel (Shoegazer) [escapist]](https://osu.ppy.sh/beatmapsets/463971#mania/993504)
+- [DJ Sharpnell - Innocent Riddle (Kroly-) [Devillish Innocence]](https://osu.ppy.sh/beatmapsets/409336#mania/888603)
+- [Camellia - This Future (we didn't expect) (Evening) [btoa vip]](https://osu.ppy.sh/beatmapsets/1086076#mania/2271109)
+- [FranChouChou - Adabana Necromancy (Gekido-) [challenge]](https://osu.ppy.sh/beatmapsets/883528#mania/1846923)
+- [evOke - Edison (Elekton) [Challenge 1.1]](https://osu.ppy.sh/beatmapsets/1157050#mania/2414493)
+- [gems - Gems Pack 19 - Future 2 (gemboyong) [-17- kamabako-colorful]](https://osu.ppy.sh/beatmapsets/646511#mania/1372602)
+- [Tanchiky - Tenkai Rising (RiraN Psystyle Remix) (dionzz99) [Tachyon Rising]](https://osu.ppy.sh/beatmapsets/642016#mania/1361219)
+- [Camellia - Routing (TheToaphster) [Timeless journey]](https://osu.ppy.sh/beatmapsets/711676#mania/1504680)
+- [Camellia - Proluvies (TheToaphster) [SVecial]](https://osu.ppy.sh/beatmapsets/715240#mania/1511192)
+- [Camellia - Dans la mer de son (Amethyst507) [La Tempete]](https://osu.ppy.sh/beatmapsets/544568#mania/1153964) (TIEBREAKER)
+
+Download : [Single Link](https://drive.google.com/file/d/1idG1Mo-c9jZxIZt3EW8T9QJQlbwpWk4X/view?usp=sharing) (132MB)
+
 # Schedule
 
 - 14 Juni 2020 - 28 Juni 2020 (Registration)
@@ -117,7 +139,8 @@ Download : [Single Link](https://drive.google.com/file/d/18YjHkQLqeSmVWqvKxZ-_aL
 - 5 Juli 2020 (Quarter-Final Match)
 - 10 Juli 2020 (Mappool Showcase Semi-Final)
 - 12 Juli 2020 (Semifinals)
-- TBD (Finals & DJ Set Perfomance)
+- 17 Juli 2020 (Mappool Showcase Final)
+- 19 Juli 2020 (Finals & DJ Set Perfomance)
 
 # Links
 

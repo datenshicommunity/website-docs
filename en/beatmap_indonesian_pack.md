@@ -67,3 +67,5 @@ Pertanyaan-pertanyaan lain bisa kalian tanya ke gw lewat discord (`troke.id#007`
 - [Lowdick - Wajahmu Perkosa Pikiranku](https://osu.ppy.sh/beatmapsets/1239407#mania/2576870)
 - [FDM - Angan](https://osu.ppy.sh/beatmapsets/629222)
 - [Lastchild - Lagu Terakhir Untukmu](https://osu.ppy.sh/beatmapsets/605618)
+- [Upiak Isil - Tak Tun Tuang](https://osu.ppy.sh/beatmapsets/691814)
+- [NTRL - Sakit Jiwa (Bukalapak Ver.)](https://osu.ppy.sh/beatmapsets/544306)

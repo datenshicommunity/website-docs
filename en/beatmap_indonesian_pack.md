@@ -1,7 +1,9 @@
 # Koleksi Beatmap Indonesia
 [![Discord](https://img.shields.io/badge/Discord-osu!%20Indonesia-blue)](https://discord.gg/43zVwRv/)
 
-Koleksi Beatmap Indonesia yang pernah ke ranked di Datenshi dan **playable** untuk dimainkan, daftar ini tetap aktif walau servernya sudah tutup.
+Koleksi Beatmap Indonesia yang pernah ke ranked di Datenshi dan **playable** untuk dimainkan, daftar ini tetap aktif walau servernya sudah tutup. Yuk mari bantu sebarkan supaya bisa update terus!
+
+Link Pendek : https://link.troke.id/beatmap-indonesia
 
 ## Kontribusi
 

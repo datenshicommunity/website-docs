@@ -7,7 +7,7 @@ Koleksi Beatmap Indonesia yang pernah ke ranked di Datenshi dan **playable** unt
 
 Jika kalian ingin menambahkan beatmap baru, kalian harus mengerti menggunakan GitHub, jika belum pernah menggunakannya silahkan request pm lewat discord supaya ditambahkan, silahkan baca syarat di bawah ini jika ingin berkontribusi:
   - **Pastikan beatmap yang kalian tambahkan bisa dimainkan (playable)**
-  - Beatmap dengan lagu remix, cover, viral di Indonesia boleh dimasukkan
+  - Beatmap dengan lagu remix, cover, viral atau artis dari Indonesia boleh dimasukkan
   - Beatmap yang sudah *Ranked* di server Bancho, boleh dimasukkan
 
 Pertanyaan-pertanyaan lain bisa kalian tanya ke gw lewat discord (`troke.id#007`) atau [Facebook](https://www.facebook.com/trokee12/)

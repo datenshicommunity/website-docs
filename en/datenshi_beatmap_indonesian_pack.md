@@ -1,6 +1,15 @@
 # Koleksi Beatmap Indonesia
 
-Koleksi Beatmap Indonesia yang pernah ke ranked di datenshi dan **playable** untuk dimainkan, yang mau nambahin boleh ditambahin sendiri jika mengerti cara pakai github atau req jika belum pernah menggunakan github, daftar ini tetap aktif
+Koleksi Beatmap Indonesia yang pernah ke ranked di Datenshi dan **playable** untuk dimainkan, daftar ini tetap aktif walau servernya sudah tutup.
+
+## Kontribusi
+
+Jika kalian ingin menambahkan beatmap baru silahkan baca syarat di bawah ini:
+  - **Pastikan beatmap yang kalian tambahkan bisa dimainkan (playable)**
+  - Beatmap dengan lagu remix, cover, viral di Indonesia boleh dimasukkan
+  - Jika kalian mengerti GitHub silahkan tambahkan list dibawah dan Pull Request
+
+Pertanyaan-pertanyaan lain bisa kalian tanya ke gw lewat discord (`troke.id#007`) atau Facebook
 
 ## List
 
@@ -24,3 +33,4 @@ Koleksi Beatmap Indonesia yang pernah ke ranked di datenshi dan **playable** unt
 - [Vierra - Jadi Apa Yang Kuinginkan](https://osu.ppy.sh/beatmapsets/711005#mania/1503130)
 - [DJ DESA - DJ SARANGHAE TIK TOK VIRAL X TARIK SIS SEMONGKO](https://osu.ppy.sh/beatmapsets/1280222#osu/2659402)
 - [Aldo Bz - Bukan PHO Remix ft. Deasy Agaki (Cut Ver.)](https://osu.ppy.sh/beatmapsets/1291810#osu/2681222)
+- [Erna Sari - Kucing Garong (Nightcore ver.)](https://osu.ppy.sh/beatmapsets/449457#mania/964445)

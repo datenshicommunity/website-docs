@@ -36,7 +36,7 @@ Pertanyaan-pertanyaan lain bisa kalian tanya ke gw lewat discord (`troke.id#007`
 - [Figura Renata - Elegi](https://osu.ppy.sh/beatmapsets/951803#taiko/1987633)
 - [ME - Inikah Cintah (REDSHiFT Remix)](https://osu.ppy.sh/beatmapsets/328356)
 
-## Pending
+## Pending/Graveyard/WIP
 
 - [DJ Haning & Rizky Ayuba - You Know I'll Go Get](https://osu.ppy.sh/beatmapsets/1137896#osu/2376902)
 - [Isyana Sarasvati - Tetap Dalam Jiwa](https://osu.ppy.sh/beatmapsets/892743#osu/1866049)

@@ -1,9 +1,6 @@
----
-title: "Datenshi Beatmaps Indonesian Packs"
-old_id: 62
----
+# Koleksi Beatmap Indonesia
 
-This is collection of all Indonesian Beatmap Packs who got ranked in Datenshi
+Koleksi Beatmap Indonesia yang pernah ke ranked di datenshi dan **playable** untuk dimainkan, yang mau nambahin boleh ditambahin sendiri jika mengerti cara pakai github atau req jika belum pernah menggunakan github, daftar ini tetap aktif
 
 ## List
 
@@ -25,3 +22,5 @@ This is collection of all Indonesian Beatmap Packs who got ranked in Datenshi
 - [NDX AKA - Tewas Tertimbun Masa Lalu](https://osu.ppy.sh/beatmapsets/1207913#osu/2515303)
 - [Serempet Gudal - Kimcil](https://osu.ppy.sh/beatmapsets/394407#mania/859441)
 - [Vierra - Jadi Apa Yang Kuinginkan](https://osu.ppy.sh/beatmapsets/711005#mania/1503130)
+- [DJ DESA - DJ SARANGHAE TIK TOK VIRAL X TARIK SIS SEMONGKO](https://osu.ppy.sh/beatmapsets/1280222#osu/2659402)
+- [Aldo Bz - Bukan PHO Remix ft. Deasy Agaki (Cut Ver.)](https://osu.ppy.sh/beatmapsets/1291810#osu/2681222)

@@ -12,7 +12,31 @@ Jika kalian ingin menambahkan beatmap baru, kalian harus mengerti menggunakan Gi
 
 Pertanyaan-pertanyaan lain bisa kalian tanya ke gw lewat discord (`troke.id#007`) atau [Facebook](https://www.facebook.com/trokee12/)
 
-## List
+## Ranked
+
+- [Nidji - Disco Lazy Time](https://osu.ppy.sh/beatmapsets/15343)
+- [REDSHiFT feat. Hatsune Miku - 4U (Cut Ver.)](https://osu.ppy.sh/beatmapsets/296752)
+- [Via Vallen - Sayang (Speed Up Ver.)](https://osu.ppy.sh/beatmapsets/719436)
+- [Via Vallen - Meraih Bintang](https://osu.ppy.sh/beatmapsets/844298)
+- [Nicky Tirta - Vanessa Angel - Indah Cintaku](https://osu.ppy.sh/beatmapsets/132615)
+- [Falha - Cari Pokemon (Speed Up Ver.)](https://osu.ppy.sh/beatmapsets/613128)
+- [Cita Citata - Sakitnya Tuh Disini (Speed Up Ver.)](https://osu.ppy.sh/beatmapsets/240256)
+- [Cita Citata - Meriang (Speed Up Ver.)](https://osu.ppy.sh/beatmapsets/415751)
+- [Kahitna - Tentang Diriku](https://osu.ppy.sh/beatmapsets/337573)
+- [Utopia - Baby Doll](https://osu.ppy.sh/beatmapsets/793188)
+- [Vesuvia Project - Night Hunter](https://osu.ppy.sh/beatmapsets/109283)
+- [Siti Badriah - Mamah Minta Pulsa (Speed Up Ver.)](https://osu.ppy.sh/beatmapsets/532917)
+- [Ayu Ting Ting - Sambalado](https://osu.ppy.sh/beatmapsets/542425)
+- [RAN - Dekat di Hati (REDSHiFT Remix)](https://osu.ppy.sh/beatmapsets/350207)
+- [Last Child - Diary Depresiku](https://osu.ppy.sh/beatmapsets/350305)
+- [Afgan - Jodoh Pasti Bertemu](https://osu.ppy.sh/beatmapsets/148987)
+- [Afgan - Jodoh Pasti Bertemu](https://osu.ppy.sh/beatmapsets/498299)
+- [Afgan - Jodoh Pasti Bertemu](https://osu.ppy.sh/beatmapsets/532965)
+- [Afgan - Jodoh Pasti Bertemu](https://osu.ppy.sh/beatmapsets/428509)
+- [Figura Renata - Elegi](https://osu.ppy.sh/beatmapsets/951803#taiko/1987633)
+- [ME - Inikah Cintah (REDSHiFT Remix)](https://osu.ppy.sh/beatmapsets/328356)
+
+## Pending
 
 - [DJ Haning & Rizky Ayuba - You Know I'll Go Get](https://osu.ppy.sh/beatmapsets/1137896#osu/2376902)
 - [Isyana Sarasvati - Tetap Dalam Jiwa](https://osu.ppy.sh/beatmapsets/892743#osu/1866049)
@@ -36,3 +60,8 @@ Pertanyaan-pertanyaan lain bisa kalian tanya ke gw lewat discord (`troke.id#007`
 - [Aldo Bz - Bukan PHO Remix ft. Deasy Agaki (Cut Ver.)](https://osu.ppy.sh/beatmapsets/1291810#osu/2681222)
 - [Erna Sari - Kucing Garong (Nightcore ver.)](https://osu.ppy.sh/beatmapsets/449457#mania/964445)
 - [Manis Manja Group - Bete](https://osu.ppy.sh/beatmapsets/374466#mania/1703609)
+- [Payung Teduh - Diam](https://osu.ppy.sh/beatmapsets/1242237#mania/2590431)
+- [Tuty Wibowo - Jablay](https://osu.ppy.sh/beatmapsets/770137#mania/1619247)
+- [Lowdick - Wajahmu Perkosa Pikiranku](https://osu.ppy.sh/beatmapsets/1239407#mania/2576870)
+- [FDM - Angan](https://osu.ppy.sh/beatmapsets/629222)
+- [Lastchild - Lagu Terakhir Untukmu](https://osu.ppy.sh/beatmapsets/605618)

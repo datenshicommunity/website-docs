@@ -35,3 +35,4 @@ Pertanyaan-pertanyaan lain bisa kalian tanya ke gw lewat discord (`troke.id#007`
 - [DJ DESA - DJ SARANGHAE TIK TOK VIRAL X TARIK SIS SEMONGKO](https://osu.ppy.sh/beatmapsets/1280222#osu/2659402)
 - [Aldo Bz - Bukan PHO Remix ft. Deasy Agaki (Cut Ver.)](https://osu.ppy.sh/beatmapsets/1291810#osu/2681222)
 - [Erna Sari - Kucing Garong (Nightcore ver.)](https://osu.ppy.sh/beatmapsets/449457#mania/964445)
+- [Manis Manja Group - Bete](https://osu.ppy.sh/beatmapsets/374466#mania/1703609)

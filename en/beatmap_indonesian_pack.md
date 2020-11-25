@@ -9,7 +9,7 @@ Jika kalian ingin menambahkan beatmap baru silahkan baca syarat di bawah ini:
   - Beatmap dengan lagu remix, cover, viral di Indonesia boleh dimasukkan
   - Jika kalian mengerti GitHub silahkan tambahkan list dibawah dan Pull Request
 
-Pertanyaan-pertanyaan lain bisa kalian tanya ke gw lewat discord (`troke.id#007`) atau Facebook
+Pertanyaan-pertanyaan lain bisa kalian tanya ke gw lewat discord (`troke.id#007`) atau [Facebook](https://www.facebook.com/trokee12/)
 
 ## List
 

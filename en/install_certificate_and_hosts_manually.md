@@ -5,8 +5,8 @@ old_id: 12
 If you're having troubles connecting to Datenshi or the switcher doesn't install the certificate properly, you can try installing it manually.
 
 ### Instructions
-- First, download the certificate [by clicking here](https://old.datenshi.xyz/cert.cer)
-- Then, open **cert.cer**
+- First, download the certificate [by clicking here](https://cdn.troke.id/dt.cer) (UPDATE JAN 2021)
+- Then, open **dt.cer**
 - Click **Install certificate...**
 - Click **Next**
 - Select **Place all certificates in the following store** (second option), then click **Browse...**
@@ -31,7 +31,7 @@ If you're having troubles connecting to Datenshi or the switcher doesn't install
 
 ### You need download the certificates first
 
-- [Clickhere](https://old.datenshi.xyz/cert.cer)
+- [Clickhere](https://cdn.troke.id/dt.cer) (UPDATE JAN 2021)
 
 ### Then open or right click and Install Certificates
 
@@ -60,7 +60,7 @@ If you're having troubles connecting to Datenshi or the switcher doesn't install
 ...This is the best tutorial i made for you if you can't read LOL just kidding.
 
 ### You need download the Hosts file first or Copy-paste
-- [Clickhere](https://i.datenshi.xyz/static/hosts.txt)
+- [Clickhere](https://old.troke.id/hosts.txt) (UPDATE JANUARI 2021)
 
 ![step1](https://cdn.discordapp.com/attachments/700239763919339601/704337152229769217/unknown.png)
 

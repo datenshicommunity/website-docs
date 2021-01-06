@@ -88,20 +88,33 @@ Semua map kemungkinan besar akan masuk ranked kecuali ada ciri - ciri yang diseb
 
 <h1><i class="comment icon"></i> Mania</h1>
 
-#### OVERALL
-
-1. **Vibro = NO**
+### OVERALL
+1. **Vibro Dilarang Keras.**
 2. Pattern playable, yang dimaksud dengan playable adalah pattern yang sudah jelas bisa dimainkan dan sesuai dengan RC Official. 
-3. Map Pack (Endurance, Dan, Courses) = Loved, karena yang memang sudah sesuai dengan judulnya atau kaidahnya yaitu training pack merupakan map-map yang dibuat dengan tujuan untuk mengasah skill, bukan untuk dimainkan sewajarnya seperti map-map lainnya. 
-4. Untuk map 7K yang memiliki SR >5 minimum memiliki HP 7  dan OD 7.
+3. Map Pack (Endurance, Dan, Courses) = Loved, karena sudah sesuai dengan judulnya atau kaidahnya yaitu training pack merupakan map-map yang dibuat dengan tujuan untuk mengasah skill, bukan untuk dimainkan sewajarnya seperti map-map lainnya.
+4. Untuk rate up/speed up akan di loved karena secara pattern sama aja dengan speed original nya.
+5. Map storyboard dan SV akan di loved karena memiliki potensi terjadinya cheat dengan memakai dual screen.
 
-Notes: Bagus atau tidaknya pattern merupakan suatu hal yang subjektif, disini saya sebagai mapper pun belum bisa mendapati map dengan pattern yang bagus, jadi mohon dimengerti. Playable pattern pun juga demikian, walaupun map dengan SR 7 dibilang playable untuk sebagian orang, mungkin tidak untuk sebagian orang. Kecuali VIBRO
--Reyna
+#### 4K RULES
+1. Untuk map 4K yang memiliki SR >4 minimum memiliki HP 7  dan OD 7.
+2. Tidak diperbolehkan manipulasi SR (Difficulty spike) untuk semua map SR >5
 
-#### LN MAPS
+#### 4K LN 
+1. Map 4K yang memiliki SR >8 akan di Pending atau di Loved. 
+2. Map LN 4K yang memiliki SR >5 minimum memiliki HP 7 dan OD0. Bila memiliki SR >6 dengan mod DT/NC untuk map yang "Mudah", maka tidak akan di ranked 
 
-1. Untuk rate up/speed up tidak akan di ranked karena secara pattern sama aja. 
-2. Untuk map yang memiliki SR >9 akan di pending atau di Loved. Berbeda hal dengan 7K. Untuk 7k, sementara SR>15 akan di pending atau di Loved
-3. Untuk map LN 7K yang memiliki SR >6 minimum memiliki HP 6.5 dan OD 0. Dan juga jika mapnya memiliki SR >12 dengan mod DT/NC untuk map yang "Gampang", maka tidak akan di ranked (maksud dari "Gampang" itu meng-abuse sistem SR dengan pattern spammable untuk mendapat SR tinggi)
+#### 7K RULES
+1. Untuk map 7K yang memiliki SR >5 minimum memiliki HP 7  dan OD 7.
+2. Tidak diperbolehkan manipulasi SR (Difficulty spike) untuk semua map SR >6
 
-Notes: Untuk rules LN ini bisa dirubah sewaktu-waktu
+#### 7K LN 
+1. Map 7K yang memiliki SR >10 akan di Pending atau di Loved.
+2. Map LN 7K yang memiliki SR >6 minimum memiliki HP 7 dan OD 0. Bila memiliki SR >9 dengan mod DT/NC untuk map yang "Mudah", maka tidak akan di ranked 
+
+Notes: 
+1. Bagus atau tidaknya pattern merupakan suatu hal yang subjektif, disini saya sebagai mapper pun belum bisa mendapati map dengan pattern yang bagus, jadi mohon dimengerti. Playable pattern pun juga demikian, walaupun map dengan SR 7 dibilang playable untuk sebagian orang, mungkin tidak untuk sebagian orang. Kecuali VIBRO
+-Inugami Korone
+
+2. Maksud dari "Mudah" itu seperti memanipulasi sistem SR dengan pattern spammable untuk mendapat SR tinggi
+
+3. Untuk rules LN ini bisa dirubah sewaktu-waktu

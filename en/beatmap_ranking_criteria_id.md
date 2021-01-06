@@ -111,7 +111,8 @@ Semua map kemungkinan besar akan masuk ranked kecuali ada ciri - ciri yang diseb
 1. Map 7K yang memiliki SR >10 akan di Pending atau di Loved.
 2. Map LN 7K yang memiliki SR >6 minimum memiliki HP 7 dan OD 0. Bila memiliki SR >9 dengan mod DT/NC untuk map yang "Mudah", maka tidak akan di ranked 
 
-Notes: 
+Notes:
+
 1. Bagus atau tidaknya pattern merupakan suatu hal yang subjektif, disini saya sebagai mapper pun belum bisa mendapati map dengan pattern yang bagus, jadi mohon dimengerti. Playable pattern pun juga demikian, walaupun map dengan SR 7 dibilang playable untuk sebagian orang, mungkin tidak untuk sebagian orang. Kecuali VIBRO
 -Inugami Korone
 

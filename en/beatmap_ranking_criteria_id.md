@@ -93,7 +93,8 @@ Semua map kemungkinan besar akan masuk ranked kecuali ada ciri - ciri yang diseb
 2. Pattern playable, yang dimaksud dengan playable adalah pattern yang sudah jelas bisa dimainkan dan sesuai dengan RC Official. 
 3. Map Pack (Endurance, Dan, Courses) = Loved, karena sudah sesuai dengan judulnya atau kaidahnya yaitu training pack merupakan map-map yang dibuat dengan tujuan untuk mengasah skill, bukan untuk dimainkan sewajarnya seperti map-map lainnya.
 4. Untuk rate up/speed up akan di loved karena secara pattern sama aja dengan speed original nya.
-5. Map storyboard dan SV akan di loved karena memiliki potensi terjadinya cheat dengan memakai dual screen.
+5. Map storyboard akan di loved karena memiliki potensi terjadinya cheat dengan memakai dual screen.
+6. Map SV yang tidak bisa di-sightread akan di loved karena memiliki potensi terjadinya cheat dengan memakai dual screen.
 
 #### 4K RULES
 1. Untuk map 4K yang memiliki SR >4 minimum memiliki HP 7  dan OD 7.

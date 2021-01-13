@@ -3,34 +3,13 @@ title: "Datenshi Liveplay Criteria"
 old_id: 8
 ---
 
-# Introduction
+# Tentang
 
-## English
-
-We are have any problem because theres a lot of suspicious users joined our server, so we are making a regulations for pretend a suspicious users in here, also this is how to get you Verified Legal Player in here, we named that `Verified Tenshi`.
-
-## Indonesia
+**Tolong dibaca sampai habis!!**
 
 Disini kami mendapati berbagai masalah yang dimana terdapat player yang mencurigakan bermain disini, jadi kami disini sudah membuat regulasi agar mencegah hal tersebut, dan juga disini dijelaskan bagaimana cara menjadi Legit Player atau yang biasa kami sebut `Verified Tenshi`.
 
-# Rules
-
-## English
-
-1. Before you start recording, please make sure you check about these because they tend to be “crucial”.
-  - Please make sure that your video quality is 480p or higher with decent bitrate and lighting
-  - Please make sure that you adjust the camera/s angle so that it shows your setup (pen / tablet / mouse / keyboard)
-2. The recording session must follow these orders: 
-  - Start with booting up your pc
-  - Open your task manager (no programs are allowed to be opened, except the core applications such as client, driver, and anti-virus)
-  - Open osu! on datenshi server
-  - Play 3 maps directly (Must be around your current level/pp)
-3. Please make sure that you don’t edit your video footage because it will decrease your chance to get the Verified Badge
-4. You can upload your liveplay to social media (example: YouTube or Facebook). Please set the listing as to only allow view from this link and set it to public if you uploaded it on Facebook (We can't see your video if you don't set it to public) (Format : VERIFIED DATENSHI YOURNICKNAME)
-
-(Liveplay submission will be considered as invalid if you fail to comply with the requirements above)
-
-## Indonesia
+# Peraturan
 
 1. Sebelum merekam, mohon untuk memastikan beberapa hal ini karena ini bersifat "sangat penting"
   - Pastikan video Anda memiliki kualitas 480p atau lebih tinggi dengan bitrate dan cahaya yang baik
@@ -47,5 +26,4 @@ Disini kami mendapati berbagai masalah yang dimana terdapat player yang mencurig
 
 # Link
 
-- Submissions Link : [https://bit.ly/3fpw3W8](https://bit.ly/3fpw3W8)
-
+- Submissions Link : [https://forms.gle/rwV18azmt6hfGrCd9](https://forms.gle/rwV18azmt6hfGrCd9)

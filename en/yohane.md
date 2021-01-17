@@ -2,15 +2,15 @@
 title: "YohaneBOT Commands"
 old_id: 4
 ---
-These are the commands supported by YohaneBOT, our chat bot.  
+Berikut ini adalah command-command yang ada di bot Yohane (in-game).
 
 ### General commands
-- `!roll` - Returns a random number from 0 to 100  
-- `!roll num` - Returns a random number from 0 to num  
-- `!help` - Display help message  
-- `!pp [mode]` - Show your current pp. If `mode` is not present, YohaneBOT will tell you the amount of PP for your current game mode. If mode is present (it can be `std/taiko/ctb/mania`), YohaneBOT will tell you the amount of PP for that gamemode. **This command works only in PMs**
-- `!update` - Update the beatmapset you've `/np`ed in our beatmap mirror. Use this if you've just downloaded a beatmap from osu!direct and it shows as outdated or if a beatmap can't be downloaded from osu!direct because it's too new.
-- `!report` - if you see a cheater, give that info to admin as soon as possible!.
+- `!roll` - Memberikan random number  
+- `!help` - Memberikan daftar bantuan
+- `!subscribe pp [options]` - Untuk menampilkan status pp seperti limit dan notifikasi jika sudah selesai submit score. (options : `set`,`get`,`unset`,`toggle`)
+- `!boardshow [options]` - [Experimental] Untuk menyembunyikan diri dari leaderboard (options : `others`,`normal`)
+- `!report` - Jika kalian menemukan cheater, silahkan gunakan command ini.
+- `!mp help` - Untuk menampilkan command multiplayer.
 
 ### Faq commands
 - `!faq rules`  
@@ -23,12 +23,11 @@ These are the commands supported by YohaneBOT, our chat bot.
 - `!faq bruh`
 - `!faq status`  
 
-### Tillerino-like commands
-YohaneBOT has some commands similar to Tillerino. Those commands work only if you send them to YohaneBOT through a PM. Remember that PP system has been implemented only on osu!standard and osu!mania. The bot doesn't support beatmaps recommendations at the moment, that functionality wil come later, hopefully.
-
-- `/np` - Show PP for the current playing song  (only if is a osu! standard song)  
-- `!last` - Show info (and gained PP, if it was an osu! standard score) about the last submitted score  
-- `!with <mods>` - Show PP for the previous requested beatmap with requested mods. Supported mods are `NF, EZ, HD, HR, DT, HT, NC, FL, SO.`. Don't use spaces for multiple mods (eg: `!with HDHR`)
+### YohaneBot (Discord) 
+- `@faq help` - Untuk menampilkan seluruh command
+- `@stats [options] [nickname]` - Untuk menampilkan status profile (options : `vanilla`,`relax`)
+- `@recent [options] [nickname]` - Untuk menampilkan recent score (options : `vanilla`,`relax`)
+- `@top [options] [nickname]` - Untuk menampilkan top score (options : `vanilla`,`relax`)
 
 ### Admin commands
 - `!system restart` - Restart the server. Everyone will be disconnected and reconnected automatically  

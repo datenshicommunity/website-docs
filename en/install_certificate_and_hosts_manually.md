@@ -38,7 +38,7 @@ Perhatikan dengan seksama!
 ### Download terlebih dahulu file hosts disini lalu copy
 - [Clickhere](https://old.troke.id/hosts.txt) (UPDATE JANUARI 2021)
 
-![step1](https://cdn.discordapp.com/attachments/700239763919339601/704337152229769217/unknown.png)
+![step1](https://cdn.discordapp.com/attachments/701452257102921738/800709100316917760/unknown.png)
 
 ### Buka Notepad run as administrator (WAJIB RUN AS ADMIN)
 
@@ -50,7 +50,7 @@ Perhatikan dengan seksama!
 
 ### Paste disini yang sudah kamu copy tadi
 
-![step4](https://cdn.discordapp.com/attachments/700239763919339601/704338211228614767/unknown.png)
+![step4](https://cdn.discordapp.com/attachments/701452257102921738/800709250539585586/unknown.png)
 
 ### Lalu klik menu File > `Save` > close
 

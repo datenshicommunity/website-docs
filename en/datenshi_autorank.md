@@ -22,12 +22,10 @@ Auto-Love tidak kalah beda dengan Auto-Rank, namun langsung melakukan **Loved** 
 
 ### Leaderboard Wipe Condition
 Seperti yang sempat disebutkan pada bagian Auto-Rank, beatmap akan mengalami penghapusan leaderboard apabila status beatmap berubah.
-Dalam tabel ini akan diberikan status rinci bagaimana leaderboard tersebut di-*wipe*.
+Dalam list ini akan diberikan status rinci bagaimana leaderboard tersebut di-*wipe*.
 
-| Awal | Akhir |
-| :-: | :-: |
-| Qualified | Ranked |
-| Ranked<br>Loved<br>Qualified | Pending |
+- **Sebelumnya Qualified, lalu Ranked**
+- **Sebelumnya __memiliki leaderboard__ lalu Auto-Disqualified.**
 
 Namun, tolong dicatat Autorank ini tidak akan bekerja pada beatmap yang sudah di-rank baik di Bancho, maupun sudah ditentukan statusnya oleh staff Datenshi sendiri.
 Sehingga Leaderboard Wiping tidak akan bekerja apabila suatu map dipaksa unrank hanya untuk melakukan fitur testing dan sebagainya.
@@ -39,6 +37,7 @@ Ini bukan daftar yang akan terupdate setiap saat, hanya memberikan contoh autora
 
 ## Persyaratan Autorank
 Untuk saat ini.. 
+
 - **1 (satu) user Datenshi** hanya boleh meminta **1 (satu) user Bancho** untuk membuat map tersebut dapat di-*autorank*.
 Terkesan seperti binding akun, namun tidak, ini bukan tujuannya, masih dalam percobaan.
 - Harus disetujui oleh salah satu/semua pihak yang mengurusi Autorank. Disini termasuk metadata, jenis lagu, atau `Artist` dari lagu tersebut, dan berbagai faktor lainnya.

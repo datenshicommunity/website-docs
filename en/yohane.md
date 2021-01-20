@@ -1,5 +1,5 @@
 ---
-title: "YohaneBOT Commands"
+title: "Yohane Commands"
 old_id: 4
 ---
 Berikut ini adalah command-command yang ada di bot Yohane.
@@ -47,12 +47,14 @@ Note: untuk semua operasi menggunakan Username Lookup, dapat menggunakan `#<User
 - `!alert <message>` - Send a notification to every user connected to bancho
 - `!alertuser  <username> <message>` - Send a notification to a specific user
 - `!whitelist <username> <mode> <type> [procedure]` - Melakukan whitelisting pada PP limit pada suatu user.
+    
     | Parameter | Nilai | Fungsi |
     | :-- | :-: | :-- |
     | `mode` | `vanilla`, `relax` | Menentukan mode permainan yang di-*whitelist* |
     | `type` | `total`, `all` | Menentukan jenis batasan yang di-*whitelist* |
     | `procedure` | `add`, `set` | *Optional*<br>Menentukan operasi pengubahan nilai *whitelist* PP |
 - `!map <command> <type> <ID>` - Melakukan operasi pada suatu map(set)
+    
     | Parameter | Nilai | Fungsi |
     | :-- | :-: | :-- |
     | `command` | `rank`, `love`, `unrank`, `reset` | Melakukan pengubahan status map langsung. |

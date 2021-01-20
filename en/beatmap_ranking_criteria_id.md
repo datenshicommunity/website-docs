@@ -86,7 +86,7 @@ Semua map kemungkinan besar akan masuk ranked kecuali ada ciri - ciri yang diseb
 9. Invisible Pattern, pattern jenis kayak gini yang biasanya ngebutuhin Storyboard masuk ke tipe Aspire sih, loved tentunya
     Note: **Apabila seperti GOVERNMENT KNOWS**, akan di-**unrank** by default karena *alasan tertentu*.
 10. Metadata, ini jadi pertimbangan juga mapnya masuk ranked atau loved
-11. Pattern sampah di low difficulty.
+11. Pattern sampah di low difficulty tidak akan diterima. Penggunaan finisher pada low difficulty sebaiknya diperhatikan baik-baik.
 
 <h1><i class="comment icon"></i> Mania</h1>
 
@@ -117,6 +117,7 @@ Semua map kemungkinan besar akan masuk ranked kecuali ada ciri - ciri yang diseb
    Bila memiliki SR>9 dengan mod DT/NC untuk map yang "Mudah", maka tidak akan di ranked 
 
 Notes:
+
 1. Bagus atau tidaknya pattern merupakan suatu hal yang subjektif, disini saya sebagai mapper pun belum bisa mendapati map dengan pattern yang bagus, jadi mohon dimengerti. Playable pattern pun juga demikian, walaupun map dengan SR 7 dibilang playable untuk sebagian orang, mungkin tidak untuk sebagian orang. **Kecuali VIBRO** - Inugami Korone
 2. Maksud dari "Mudah" itu seperti memanipulasi sistem SR dengan pattern spammable untuk mendapat SR tinggi
 3. Untuk rules LN ini bisa dirubah sewaktu-waktu

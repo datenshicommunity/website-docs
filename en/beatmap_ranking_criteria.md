@@ -27,12 +27,17 @@ Frequently Asked Questions:
 
 -----------------------
 
+- **Q: Why there are some discrepancies between EN and ID Datenshi RC?**
+- A: ID one is more accurate, if any.
+
+-----------------------
+
 
 #### Notes
 Before requesting, make sure the unranked mapset you're requesting is :
 
 - In Graveyard, 1 month or more to avoid beatmap update (abandoned map).
-
+- A good eye-looking metadata. A bad example follows as **Diao Ye Zong feat.**. Avoid this.
 
 <h1><i class="comment icon"></i> Standard</h1>
 
@@ -61,6 +66,7 @@ All maps will possibly go Ranked except there are some that match the criteria a
  1. Unique Patterns is a big plus
  2. Playable Monotone and interesting patterns
  3. METADATA doesn't really matter here as long as it doesn't interfere with the gameplay
+ 4. she's purity. (A single-chunked miss that could cause an automatic death).
 
 #### NOTE
 
@@ -85,7 +91,6 @@ All maps will possibly go Ranked except there are some that match the criteria a
 9. Invisible Pattern, this kind of pattern usuallyy needs storyboard,  and it's Aspire type maps, of course, Loved
 10. Metadata, this one is also considerable material for ranking purposes
 
-
 <h1><i class="comment icon"></i> Mania</h1>
 
 #### OVERALL
@@ -101,7 +106,7 @@ Notes: How good or not the map is, its subjective, i'm here as a mapper aswell a
 #### LN MAPS
 
 1. For Beatmaps that has rate up/speed up, it won't be ranked because the pattern is the same with the original.
-2. For maps that have SR >9 will be Pending or Loved. thats a different case for 7K. For 7k, for now SR>15 will be Pending or Loved
+2. For maps that have SR>9 will be Pending or Loved. thats a different case for 7K. For 7k, for now SR>15 will be Pending or Loved
 3. For 7K LN beatmaps that have SR>6, the minimum requirement is HP 6.5 and OD 0. Also if the Map has SR>12 with DT/NC Mods specifically for "Easy" Beatmaps, then it can't be ranked (By "Easy" is that it abuses the SR system with spammable pattern to get high SR)
 
 Notes: LN rules might change anytime because we're still experimenting

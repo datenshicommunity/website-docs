@@ -32,7 +32,7 @@ Beberapa pertanyaan yang sering diajukan:
 Sebelum request, pastikan map unranked yang anda ajukan :
 
 - Graveyard, sekurang kurangnya 1 bulan untuk menghindari update daripada mapper dari map tersebut (abandoned map)
-
+- Metadata cukup mengenakan mata. Contoh **Diao Ye Zong feat.** adalah yang buruk. Mohon hindari.
 
 <h1><i class="comment icon"></i> Standard</h1>
 
@@ -51,16 +51,17 @@ Semua map kemungkinan besar akan masuk ranked kecuali ada ciri - ciri yang diseb
 
 #### RANKED
 
- 1. PLAYABLE yang ini harus, yang dimaksud playable yaitu bisa dimainkan paling tidak oleh casual player (player dengan kemampuan rata rata dan tidak mengejar skill/pada dasarnya bermain hanya untuk have fun)
- 2. Less Unecessary Overstream note yang note satu line stream numpuk sampe banyak note, disini w perlu mainin bentar buat ceknya
- 3. Unique & Variative patterns yang jelas ga terlalu monoton tapi ini optional, masih bisa w pertimbangkan
- 4. METADATA macem OD AR HP jadi bahan pertimbangan w juga
+1. PLAYABLE yang ini harus, yang dimaksud playable yaitu bisa dimainkan paling tidak oleh casual player (player dengan kemampuan rata rata dan tidak mengejar skill/pada dasarnya bermain hanya untuk have fun)
+2. Less Unecessary Overstream note yang note satu line stream numpuk sampe banyak note, disini w perlu mainin bentar buat ceknya
+3. Unique & Variative patterns yang jelas ga terlalu monoton tapi ini optional, masih bisa w pertimbangkan
+4. METADATA macem OD AR HP jadi bahan pertimbangan w juga
 
 #### LOVED
 
- 1. Unique Patterns is a big plus
- 2. Playable Monotone and interesting patterns (monoton ga masalah disini, yang penting patternnya menarik dan somehow enak dimainin)
- 3. METADATA gak terlalu diperhatikan disini selama gak menggangu gameplay
+1. Unique Patterns is a big plus
+2. Playable Monotone and interesting patterns (monoton ga masalah disini, yang penting patternnya menarik dan somehow enak dimainin)
+3. METADATA gak terlalu diperhatikan disini selama gak menggangu gameplay
+4. puritit. ("*Single*"-chunked note yang dapat menyebabkan Auto-death akan dilempar kesini.)
 
 #### NOTE
 
@@ -83,8 +84,9 @@ Semua map kemungkinan besar akan masuk ranked kecuali ada ciri - ciri yang diseb
 7. Pattern with random slider appear or Pattern inside the slider, ini masuk loved juga, kadang ga bisa dipencet itu patternnya kalo didalem slider ,-,
 8. Spinner Spamming, ini terlalu ngespam bisa ngurangin gauge, yaa masuk loved aja ini
 9. Invisible Pattern, pattern jenis kayak gini yang biasanya ngebutuhin Storyboard masuk ke tipe Aspire sih, loved tentunya
+    Note: **Apabila seperti GOVERNMENT KNOWS**, akan di-**unrank** by default.
 10. Metadata, ini jadi pertimbangan juga mapnya masuk ranked atau loved
-
+11. Pattern sampah di low difficulty.
 
 <h1><i class="comment icon"></i> Mania</h1>
 
@@ -97,26 +99,24 @@ Semua map kemungkinan besar akan masuk ranked kecuali ada ciri - ciri yang diseb
 6. Map SV yang tidak bisa di-sightread akan di loved karena memiliki potensi terjadinya cheat dengan memakai dual screen.
 
 #### 4K RULES
-1. Untuk map 4K yang memiliki SR >4 minimum memiliki HP 7  dan OD 7.
-2. Tidak diperbolehkan manipulasi SR (Difficulty spike) untuk semua map SR >5
+1. Untuk map 4K yang memiliki SR>4 minimum memiliki HP7 dan OD7.
+2. Tidak diperbolehkan manipulasi SR (Difficulty spike) untuk semua map SR>5
 
 #### 4K LN 
-1. Map 4K yang memiliki SR >8 akan di Pending atau di Loved. 
-2. Map LN 4K yang memiliki SR >5 minimum memiliki HP 7 dan OD0. Bila memiliki SR >6 dengan mod DT/NC untuk map yang "Mudah", maka tidak akan di ranked 
+1. Map 4K yang memiliki SR>8 akan di Pending atau di Loved. 
+2. Map LN 4K yang memiliki SR>5 minimum memiliki HP7 dan OD0.
+   Bila memiliki SR>6 dengan mod DT/NC untuk map yang "Mudah", maka tidak akan di ranked 
 
 #### 7K RULES
-1. Untuk map 7K yang memiliki SR >5 minimum memiliki HP 7  dan OD 7.
-2. Tidak diperbolehkan manipulasi SR (Difficulty spike) untuk semua map SR >6
+1. Untuk map 7K yang memiliki SR>5 minimum memiliki HP7 dan OD7.
+2. Tidak diperbolehkan manipulasi SR (Difficulty spike) untuk semua map SR>6
 
 #### 7K LN 
-1. Map 7K yang memiliki SR >10 akan di Pending atau di Loved.
-2. Map LN 7K yang memiliki SR >6 minimum memiliki HP 7 dan OD 0. Bila memiliki SR >9 dengan mod DT/NC untuk map yang "Mudah", maka tidak akan di ranked 
+1. Map 7K yang memiliki SR>10 akan di Pending atau di Loved.
+2. Map LN 7K yang memiliki SR>6 minimum memiliki HP7 dan OD0.
+   Bila memiliki SR>9 dengan mod DT/NC untuk map yang "Mudah", maka tidak akan di ranked 
 
 Notes:
-
-1. Bagus atau tidaknya pattern merupakan suatu hal yang subjektif, disini saya sebagai mapper pun belum bisa mendapati map dengan pattern yang bagus, jadi mohon dimengerti. Playable pattern pun juga demikian, walaupun map dengan SR 7 dibilang playable untuk sebagian orang, mungkin tidak untuk sebagian orang. Kecuali VIBRO
--Inugami Korone
-
+1. Bagus atau tidaknya pattern merupakan suatu hal yang subjektif, disini saya sebagai mapper pun belum bisa mendapati map dengan pattern yang bagus, jadi mohon dimengerti. Playable pattern pun juga demikian, walaupun map dengan SR 7 dibilang playable untuk sebagian orang, mungkin tidak untuk sebagian orang. **Kecuali VIBRO** - Inugami Korone
 2. Maksud dari "Mudah" itu seperti memanipulasi sistem SR dengan pattern spammable untuk mendapat SR tinggi
-
 3. Untuk rules LN ini bisa dirubah sewaktu-waktu

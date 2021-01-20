@@ -88,7 +88,7 @@ All maps will possibly go Ranked except there are some that match the criteria a
 6. Doublet spam, definitely Loved
 7. Pattern with random slider appear or Pattern inside the slider, this also goes to loved, sometimes the pattern on the slider can't be clicked
 8. Spinner Spamming, if this is too much and can decrease the gauge significantly, of course its going to Loved
-9. Invisible Pattern, this kind of pattern usuallyy needs storyboard,  and it's Aspire type maps, of course, Loved
+9. Invisible Pattern, this kind of pattern usually needs storyboard,  and it's Aspire type maps, of course, Loved
 10. Metadata, this one is also considerable material for ranking purposes
 
 <h1><i class="comment icon"></i> Mania</h1>

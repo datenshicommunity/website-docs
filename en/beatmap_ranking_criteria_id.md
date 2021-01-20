@@ -61,7 +61,7 @@ Semua map kemungkinan besar akan masuk ranked kecuali ada ciri - ciri yang diseb
 1. Unique Patterns is a big plus
 2. Playable Monotone and interesting patterns (monoton ga masalah disini, yang penting patternnya menarik dan somehow enak dimainin)
 3. METADATA gak terlalu diperhatikan disini selama gak menggangu gameplay
-4. puritit. ("*Single*"-chunked note yang dapat menyebabkan Auto-death akan dilempar kesini.)
+4. puritit. (*Single*-chunked note yang dapat menyebabkan Auto-death akan dilempar kesini.)
 
 #### NOTE
 
@@ -84,7 +84,7 @@ Semua map kemungkinan besar akan masuk ranked kecuali ada ciri - ciri yang diseb
 7. Pattern with random slider appear or Pattern inside the slider, ini masuk loved juga, kadang ga bisa dipencet itu patternnya kalo didalem slider ,-,
 8. Spinner Spamming, ini terlalu ngespam bisa ngurangin gauge, yaa masuk loved aja ini
 9. Invisible Pattern, pattern jenis kayak gini yang biasanya ngebutuhin Storyboard masuk ke tipe Aspire sih, loved tentunya
-    Note: **Apabila seperti GOVERNMENT KNOWS**, akan di-**unrank** by default.
+    Note: **Apabila seperti GOVERNMENT KNOWS**, akan di-**unrank** by default karena *alasan tertentu*.
 10. Metadata, ini jadi pertimbangan juga mapnya masuk ranked atau loved
 11. Pattern sampah di low difficulty.
 

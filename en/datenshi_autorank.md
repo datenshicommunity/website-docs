@@ -43,4 +43,4 @@ Terkesan seperti binding akun, namun tidak, ini bukan tujuannya, masih dalam per
 - Harus disetujui oleh salah satu/semua pihak yang mengurusi Autorank. Disini termasuk metadata, jenis lagu, atau `Artist` dari lagu tersebut, dan berbagai faktor lainnya.
 
 ## Permintaan Autorank
-Untuk saat ini, hanya (pencetus fiturnya saja)[/u/3] yang memberikan izin secara langsung.
+Untuk saat ini, hanya [pencetus fiturnya saja](/u/3) yang memberikan izin secara langsung.

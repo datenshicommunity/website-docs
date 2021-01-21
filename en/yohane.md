@@ -64,7 +64,7 @@ Note: untuk semua operasi menggunakan Username Lookup, dapat menggunakan `#<User
     Untuk lebih jelasnya, dapat memperhatikan [contoh berikut](https://cdn.discordapp.com/attachments/265909019976138754/801471868699410473/unknown.png)
 
 ### Note
-- Untuk melakukan command secara private pada Yohane, tidak perlu menggunakan prefiks-"!".
+Jika kalian ingin menggunakan command melalui private message Yohane, tidak perlu menggunakan prefiks-"!"
 - Diluar itu, prefiks-"!" diperlukan untuk memanggil command Yohane.
 
 ## YohaneBot Discord
@@ -72,4 +72,3 @@ Note: untuk semua operasi menggunakan Username Lookup, dapat menggunakan `#<User
 - `@stats [options] [nickname]` - Untuk menampilkan status profile (options : `vanilla`,`relax`)
 - `@recent [options] [nickname]` - Untuk menampilkan recent score (options : `vanilla`,`relax`)
 - `@top [options] [nickname]` - Untuk menampilkan top score (options : `vanilla`,`relax`)
-

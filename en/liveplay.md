@@ -11,23 +11,35 @@ Ini merupakan syarat yang harus terpenuhi jika kalian ingin mendapatkan roles `V
 # Friendly Asked Question
 
 -----------------------
+
 - Q : Kalau tidak mengikuti syaratnya?
 - A : Kalian tidak bisa mendapatkan pengampunan ataupun role `Verified Tenshi`
+
 -----------------------
+
 - Q : Kak, kamera ku gelap gimana ya?
 - A : Pastikan kalian memiliki Device yang maksimal untuk merekamnya
+
 -----------------------
+
 - Q : Kok ribet banget syaratnya?
 - A : Kami hanya ingin melihat bukti nyata kalau player tersebut tidak menggunakan program illegal / murni menggunakan skill. Jika kalian mengeluh, jangan menggunakan program illegal/coop semacamnya.
+
 -----------------------
+
 - Q : `Verified Tenshi` gimana kak?
 - A : Ini hanyalah optional, kalian bisa memilikinya atau tidak. Kalian akan diberikan sebuah profile badge dan role discord.
+
 -----------------------
+
 - Q : Kak, ada contohnya gak sih?
 - A : [osu! - Proof I'm Legit | WhiteCat](https://www.youtube.com/watch?v=qvK61jD-ELM)
+
 -----------------------
+
 - Q : Liveplay kita kesebar gak?
 - A : Tergantung kalian, jika kalian menggunggahnya dengan status "Public" maka itu akan dilihat oleh banyak orang.
+
 -----------------------
 
 # Rules

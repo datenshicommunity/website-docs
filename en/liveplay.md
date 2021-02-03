@@ -42,7 +42,18 @@ Ini merupakan syarat yang harus terpenuhi jika kalian ingin mendapatkan roles `V
 
 -----------------------
 
-# Rules
+- Q : Diumuminnya gimana?
+- A : Nanti dimention melalui discord atau kalian bisa cek profile kalian jika ada badge `Verified Tenshi`
+
+-----------------------
+
+# Peraturan Form Submissions
+
+1. Akun harus berusia min. 1 minggu
+2. Memberikan alasan dengan jelas disetiap sesi pertanyaan
+3. Tidak boleh spam, pastikan kalian harus benar-benar mengikuti prosedur dibawah ini
+
+# Peraturan Prosedur Liveplay
 
 1. Sebelum merekam, mohon untuk memastikan beberapa hal ini karena ini bersifat "sangat penting"
   - Pastikan video Anda memiliki kualitas 480p atau lebih tinggi dengan bitrate dan cahaya yang baik

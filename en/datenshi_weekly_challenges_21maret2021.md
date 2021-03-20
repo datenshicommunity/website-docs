@@ -6,7 +6,7 @@ old_id: 71
 <div style="text-align:center"><img src="https://cdn.discordapp.com/attachments/699254810008092702/822803606331326464/1weekly.png" /></div>
 
 # Datenshi Weekly Challenge #1!
-Halo para tenshi-tachi! Kalian bosan ga ngapa-ngapain? Ya benar! saya juga, karena `Beatmap Nominator` sedang mengganggur, kami hadir dan memberikan solusi bagi kalian yang suka tantangan, disini kami akan memberikan kalian beberapa challenge yang terdiri dari beberapa mode tertentu yang harus kalian selesaikan, eitsss jangan lupa kita juga memberikan sebuah reward bagi pemenang. Ini adalah percobaan pertama, jika banyak yang minat Next Challenge kemungkinan syarat dan ketentuan akan berubah dan reward juga semakin banyak, jadi tetap stay tune dan jangan lupa cek discord untuk pengumuman lebih lanjut! 
+Halo para tenshi-tachi! Kalian bosan ga ngapa-ngapain? Ya benar! saya juga, karena `Beatmap Nominator` sedang mengganggur, kami hadir dan memberikan solusi bagi kalian yang suka tantangan, disini kami akan memberikan kalian beberapa challenge yang terdiri dari beberapa mode tertentu yang harus kalian selesaikan, eitsss jangan lupa kita juga memberikan sebuah reward bagi pemenang. Ini adalah percobaan pertama, jika banyak yang minat Next Challenge kemungkinan syarat dan ketentuan akan berubah dan reward juga semakin banyak, jadi tetap stay tune dan jangan lupa cek discord untuk pengumuman dan pertanyaan lebih lanjut! 
 
 # Reward
 - Badge #1 Weekly Challenge
@@ -38,9 +38,14 @@ Halo para tenshi-tachi! Kalian bosan ga ngapa-ngapain? Ya benar! saya juga, kare
 Mods nya apa saja boleh dan tidak berpengaruh sama sekali
 ### Beatmaps
 - [7K] [Billx - Punishment (Dustvoxx Remix)](https://osu.ppy.sh/beatmapsets/1000065#mania/2702174) [7K Insane] (★4.64) (4:33)
+- [4K] [Morimori Atsushi - Hifuu Club no Chian Warui Kyoku ni Hamatteru Kata](https://osu.ppy.sh/beatmapsets/627556#mania/1322407) [Extra] (★4.75) (2:39)
 
 # osu!taiko
-TBD
+### Mods
+- Mods yang diperbolehkan : NF, HR, HD
+- Mods yang tidak diperbolehkan : EZ, HT, DT, FL, RX, No Mod
+### Beatmaps
+- [VANILLA] [Camellia - Bring Our Ignition Back](https://osu.ppy.sh/beatmapsets/1133558#taiko/2459407) [Muzukashii] (★3.55) (4:08)
 
 # osu!ctb
 ### Mods

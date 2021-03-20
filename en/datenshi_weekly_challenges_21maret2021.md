@@ -62,7 +62,7 @@ Mods nya apa saja boleh dan tidak berpengaruh sama sekali
 
 # ![ctbeh](https://cdn.discordapp.com/attachments/728581754398572546/822872889736429638/mode-fruits-small.png) osu!ctb
 ### Mods
-- Mods yang diperbolehkan : No-Mod, HD
+- Mods yang diperbolehkan : No-Mod, HD, NF
 - Mods yang tidak diperbolehkan : HR, DT, NC, FL, RX
 
 ### Beatmaps

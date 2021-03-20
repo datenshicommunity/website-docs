@@ -16,7 +16,7 @@ Halo para tenshi-tachi! Kalian bosan ga ngapa-ngapain? Ya benar! saya juga, kare
 - Player harus bermain di Datenshi dan memiliki sebuah Akun
 - Tidak boleh memakai aplikasi pihak ketiga seperti cheat dll
 - Tidak boleh pakai jasa joki (gila lo)
-- Pastikan kalian harus benar-benar sudah mensubmit score pada beatmap yg sudah ditentukan
+- Pastikan kalian harus benar-benar sudah mensubmit score pada beatmap yg sudah ditentukan, jika RELAX submit di RELAX, jika VANILLA submit di VANILLA
 - Player dipersilahkan mengikuti lebih dari beberapa modes (std,mania,ctb,taiko)
 - Player dipersilahkan mengikuti lebih dari beberapa skor modes (vanilla/relax)
 - Pemenang akan diambil 1 orang disetiap map dengan skor paling tinggi di leaderboard
@@ -43,7 +43,11 @@ Mods nya apa saja boleh dan tidak berpengaruh sama sekali
 TBD
 
 # osu!ctb
-TBD
+### Mods
+- Mods yang diperbolehkan : No-Mod, HD
+- Mods yang tidak diperbolehkan : HR, DT, NC, FL, RX
+### Beatmaps
+- [VANILLA] [REDALiCE feat. Ayumi Nomiya - Little Star (Full Ver.)](https://osu.ppy.sh/beatmapsets/1196484#fruits/2492330) [Diamond in the Sky] (★6.02) (3:19)
 
 # Winner
 - TBD

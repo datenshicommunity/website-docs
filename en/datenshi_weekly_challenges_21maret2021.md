@@ -34,7 +34,10 @@ Halo para tenshi-tachi! Kalian bosan ga ngapa-ngapain? Ya benar! saya juga, kare
 - [RELAX] [Mori Calliope - Excuse My Rudeness, But Could You Please RIP? (ReeK's "Dude What's A Genre" Mix)](https://osu.ppy.sh/beatmapsets/1296788#osu/2696829) [My Scythe Will RIP Apart Your Soul] (★8.6) (7:11)
 
 # osu!mania
-TBD
+### Mods
+Mods nya apa saja boleh dan tidak berpengaruh sama sekali
+### Beatmaps
+- [7K] [Billx - Punishment (Dustvoxx Remix)](https://osu.ppy.sh/beatmapsets/1000065#mania/2702174) [7K Insane] (★4.64) (4:33)
 
 # osu!taiko
 TBD

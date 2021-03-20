@@ -1,5 +1,5 @@
 ---
-title: "Datenshi Anniversary 1st Challenges"
+title: "Datenshi Anniversary 1st Collaboration"
 old_id: 70
 ---
 
@@ -7,7 +7,7 @@ old_id: 70
 
 # Introduction
 
-:partying_face: Dalam rangka memeriahkan ulang tahun DATENSHI ke #1 
+🥳 Dalam rangka memeriahkan ulang tahun DATENSHI ke #1 
 Kita akan melakukan beberapa serangkaian kegiatan, salah satunya yaitu kolaborasi, khusus pemain @STD nanti akan kepilih 50 replay (kalau tercapai) dan diupload ke Youtube Datenshi.
 
 ## Caranya ikut gimana?

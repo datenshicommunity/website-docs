@@ -32,7 +32,7 @@ Halo para tenshi-tachi! Kalian bosan ga ngapa-ngapain? Ya benar! saya juga, kare
 # ![std](https://cdn.discordapp.com/attachments/728581754398572546/822872893746577428/mode-osu-small.png) osu!std
 ### Mods
 - Mods yang diperbolehkan : HD, HR, EZ, SD, PF, FL
-- Mods yang tidak diperbolehkan : NF, HT
+- Mods yang tidak diperbolehkan : NF, HT, SO
 
 ### Beatmaps
 - **[VANILLA]** [rejection - Signal feat. Such (Interference)](https://osu.ppy.sh/beatmapsets/1286349#osu/2670866) (★6.34) (05:09)

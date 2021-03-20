@@ -8,6 +8,9 @@ old_id: 71
 # Datenshi Weekly Challenge #1!
 Halo para tenshi-tachi! Kalian bosan ga ngapa-ngapain? Ya benar! saya juga, karena `Beatmap Nominator` sedang mengganggur, kami hadir dan memberikan solusi bagi kalian yang suka tantangan, disini kami akan memberikan kalian beberapa challenge yang terdiri dari beberapa mode tertentu yang harus kalian selesaikan, eitsss jangan lupa kita juga memberikan sebuah reward bagi pemenang. Ini adalah percobaan pertama, jika banyak yang minat Next Challenge kemungkinan syarat dan ketentuan akan berubah dan reward juga semakin banyak, jadi tetap stay tune dan jangan lupa cek discord untuk pengumuman dan pertanyaan lebih lanjut! 
 
+# Winner
+- TBD
+
 # Reward
 - Badge #1 Weekly Challenge
 - TBD (to be decided)
@@ -54,8 +57,4 @@ Mods nya apa saja boleh dan tidak berpengaruh sama sekali
 ### Beatmaps
 - [VANILLA] [REDALiCE feat. Ayumi Nomiya - Little Star (Full Ver.)](https://osu.ppy.sh/beatmapsets/1196484#fruits/2492330) [Diamond in the Sky] (★6.02) (3:19)
 
-# Winner
-- TBD
-- TBD
-- TBD
-- TBD
+# Goodluck Have fun!

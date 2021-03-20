@@ -32,29 +32,33 @@ Halo para tenshi-tachi! Kalian bosan ga ngapa-ngapain? Ya benar! saya juga, kare
 ### Mods
 - Mods yang diperbolehkan : HD, HR, EZ, SD, PF, FL
 - Mods yang tidak diperbolehkan : NF, HT
+
 ### Beatmaps
-- [VANILLA] [rejection - Signal feat. Such](https://osu.ppy.sh/beatmapsets/1286349#osu/2670866) [Interference] (★6.34) (05:09)
-- [RELAX] [Mori Calliope - Excuse My Rudeness, But Could You Please RIP? (ReeK's "Dude What's A Genre" Mix)](https://osu.ppy.sh/beatmapsets/1296788#osu/2696829) [My Scythe Will RIP Apart Your Soul] (★8.6) (7:11)
+- **VANILLA** [rejection - Signal feat. Such (Interference)](https://osu.ppy.sh/beatmapsets/1286349#osu/2670866) (★6.34) (05:09)
+- **RELAX** [Mori Calliope - Excuse My Rudeness, But Could You Please RIP? (ReeK's "Dude What's A Genre" Mix) (My Scythe Will RIP Apart Your Soul)](https://osu.ppy.sh/beatmapsets/1296788#osu/2696829) (★8.6) (7:11)
 
 # osu!mania
 ### Mods
 Mods nya apa saja boleh dan tidak berpengaruh sama sekali
+
 ### Beatmaps
-- [7K] [Billx - Punishment (Dustvoxx Remix)](https://osu.ppy.sh/beatmapsets/1000065#mania/2702174) [7K Insane] (★4.64) (4:33)
-- [4K] [Morimori Atsushi - Hifuu Club no Chian Warui Kyoku ni Hamatteru Kata](https://osu.ppy.sh/beatmapsets/627556#mania/1322407) [Extra] (★4.75) (2:39)
+- [7K] [Billx - Punishment (Dustvoxx Remix) (7K Insane)](https://osu.ppy.sh/beatmapsets/1000065#mania/2702174) (★4.64) (4:33)
+- [4K] [Morimori Atsushi - Hifuu Club no Chian Warui Kyoku ni Hamatteru Kata (Extra)](https://osu.ppy.sh/beatmapsets/627556#mania/1322407) (★4.75) (2:39)
 
 # osu!taiko
 ### Mods
 - Mods yang diperbolehkan : NF, HR, HD
 - Mods yang tidak diperbolehkan : EZ, HT, DT, FL, RX, No Mod
+
 ### Beatmaps
-- [VANILLA] [Camellia - Bring Our Ignition Back](https://osu.ppy.sh/beatmapsets/1133558#taiko/2459407) [Muzukashii] (★3.55) (4:08)
+- [VANILLA] [Camellia - Bring Our Ignition Back (Muzukashii)](https://osu.ppy.sh/beatmapsets/1133558#taiko/2459407) (★3.55) (4:08)
 
 # osu!ctb
 ### Mods
 - Mods yang diperbolehkan : No-Mod, HD
 - Mods yang tidak diperbolehkan : HR, DT, NC, FL, RX
+
 ### Beatmaps
-- [VANILLA] [REDALiCE feat. Ayumi Nomiya - Little Star (Full Ver.)](https://osu.ppy.sh/beatmapsets/1196484#fruits/2492330) [Diamond in the Sky] (★6.02) (3:19)
+- [VANILLA] [REDALiCE feat. Ayumi Nomiya - Little Star (Full Ver.) (Diamond in the Sky)](https://osu.ppy.sh/beatmapsets/1196484#fruits/2492330) (★6.02) (3:19)
 
 # Goodluck Have fun!

@@ -12,7 +12,9 @@ Halo para tenshi-tachi! Kalian bosan ga ngapa-ngapain? Ya benar! saya juga, kare
 
 # Reward
 - Badge #1 Weekly Challenge
-- TBD (to be decided)
+- Saldo OVO 50.000 (1x)
+
+Yang mau sponsorin bisa kontak admin
 
 # Syarat dan Ketentuan
 - Player harus bermain di Datenshi dan memiliki sebuah Akun
@@ -22,7 +24,7 @@ Halo para tenshi-tachi! Kalian bosan ga ngapa-ngapain? Ya benar! saya juga, kare
 - Player dipersilahkan mengikuti lebih dari beberapa modes (std,mania,ctb,taiko)
 - Player dipersilahkan mengikuti lebih dari beberapa skor modes (vanilla/relax)
 - Pemenang akan diambil 1 orang disetiap map dengan skor paling tinggi di leaderboard
-- Pemenang akan diumumkan setiap hari Minggu
+- Pemenang akan diumumkan setiap hari Sabtu
 - Staff dilarang ikut
 - Next Challenge akan diumumkan setiap hari Minggu
 - Score tidak akan dihitung jika disubmit pada saat event belum dimulai

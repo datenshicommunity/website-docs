@@ -12,7 +12,7 @@ Halo para tenshi-tachi! Kalian bosan ga ngapa-ngapain? Ya benar! saya juga, kare
 
 # Reward
 - Badge #1 Weekly Challenge
-- Saldo OVO 50.000 (1x)
+- Saldo OVO 40.000 (6x)
 
 Yang mau sponsorin bisa kontak admin
 

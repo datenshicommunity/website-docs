@@ -55,17 +55,23 @@ Ini merupakan syarat yang harus terpenuhi jika kalian ingin mendapatkan roles `V
 
 # Peraturan Prosedur Liveplay
 
-1. Sebelum merekam, mohon untuk memastikan beberapa hal ini karena ini bersifat "sangat penting"
-  - Pastikan video Anda memiliki kualitas 480p atau lebih tinggi dengan bitrate dan cahaya yang baik
-  - Pastikan kamera Anda diatur segi pandangannya sehingga pen / tablet / mouse / keyboard dapat terlihat dengan jelas
-2. Sesi rekaman harus mengikuti urutan ini:
-  - Menyalakan pc Anda
-  - Buka task manager Anda (tidak ada program yang boleh dibuka, kecuali aplikasi inti seperti klien, driver dan anti-virus)
-  - Membuka osu di datenshi server
-  - Mainkan 3 map secara langsung (harus dalam tingkatan skill/pp Anda)
-3. Anda dapat mengunggah liveplay ke YouTube atau Facebook, dan harap atur liveplay Anda menjadi “only allow video” dari link ini. Gunakan judul (VERIFIED DATENSHI NICKNAME)
+Sebelum merekam kalian harus memastikan beberapa hal ini karena ini sangat bersifat `penting`
+- Pastikan kamera untuk merekam sangat jelas dan memiliki pencahayaan yang baik
+- Pastikan kamera diatur sedemikian rupa agar pandangan untuk alat input seperti pen / tablet / mouse / keyboard dapat terlihat dengan jelas
+- Wajib mengikuti semua urutan dibawah dengan benar!
 
-(Pengajuan Liveplay akan dianggap tidak valid, jika Anda gagal mematuhi persyaratan di atas)
+Sesi rekaman harus mengikuti urutan ini :
+- Menyalakan pc Anda
+- Buka task manager Anda (tidak ada program yang boleh dibuka, kecuali aplikasi inti seperti klien, driver dan anti-virus)
+- Membuka osu di datenshi server
+- Mainkan 3 map secara langsung (harus dalam tingkatan skill/pp Anda)
+
+Submit hasil rekaman kalian melalui Youtube / Facebook dengan urutan ini :
+- Upload di Youtube / Facebook dengan deskripsi yang berisikan `VERIFIED DATENSHI NAMA_USER`
+- Atur privacy video kalian jika kalian tidak mau video kalian dilihat oleh orang lain dengan cara mengubahnya menjadi `Unlisted` pada saat mengunggahnya di Youtube, jika kalian menggunakan Facebook, silahkan unggah melalui [Group Facebook Datenshi](https://www.facebook.com/groups/osu.datenshi)
+- Silahkan copy link video kalian yang sudah kalian unggah ke form submissions dibawah
+
+`(Pengajuan Liveplay akan dianggap tidak valid, jika Anda gagal mematuhi persyaratan di atas)`
 
 # Link
 

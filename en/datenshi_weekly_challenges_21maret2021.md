@@ -8,7 +8,12 @@ old_id: 71
 Halo para tenshi-tachi! Kalian bosan ga ngapa-ngapain? Ya benar! saya juga, karena `Beatmap Nominator` sedang mengganggur, kami hadir dan memberikan solusi bagi kalian yang suka tantangan, disini kami akan memberikan kalian beberapa challenge yang terdiri dari beberapa mode tertentu yang harus kalian selesaikan, eitsss jangan lupa kita juga memberikan sebuah reward bagi pemenang. Ini adalah percobaan pertama, jika banyak yang minat Next Challenge kemungkinan syarat dan ketentuan akan berubah dan reward juga semakin banyak, jadi tetap stay tune dan jangan lupa cek discord untuk pengumuman dan pertanyaan lebih lanjut! 
 
 # Winner
-- TBD
+- [bang jago](/u/445) (Winner #1 Vanilla STD)
+- [30k PP wHeN](/u/28) (Winner #1 Relax STD)
+- [senzawa](/u/159) (Winner #1 Taiko)
+- [Guest](/u/29) (Winner #1 Catch The Beat)
+- [OwOnta](/u/49) (Winner #1 Mania 7K)
+- [Fururuuu](/u/246) (Winner #1 Mania 4K)
 
 # Reward
 - Badge #1 Weekly Challenge

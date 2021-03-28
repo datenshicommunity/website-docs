@@ -41,7 +41,7 @@ Berikut ini adalah tabel jumlah point yang akan didapatkan setiap minggunya :
 
 ![mania](https://cdn.discordapp.com/attachments/728581754398572546/822872891900035072/mode-mania-small.png)
 
-<a href="https://osu.ppy.sh/beatmapsets/1069823#mania/2239450"><img src="https://cdn.discordapp.com/attachments/699254810008092702/825579506135597096/beatmap4kweek1.png" /></a>
+<a href="https://osu.ppy.sh/beatmapsets/1069823#mania/2239450"><img src="https://cdn.discordapp.com/attachments/699254810008092702/825693362861899826/beatmap4kweek1.png" /></a>
 
 Download :
 

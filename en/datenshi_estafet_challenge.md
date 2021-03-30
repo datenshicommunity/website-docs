@@ -37,7 +37,7 @@ Berikut ini adalah tabel jumlah point yang akan didapatkan setiap minggunya :
 
 # Beatmaps
 
-## Minggu Pertama
+## Minggu Pertama (Free Mod)
 
 ![mania](https://cdn.discordapp.com/attachments/728581754398572546/822872891900035072/mode-mania-small.png)
 

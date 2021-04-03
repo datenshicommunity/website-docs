@@ -23,6 +23,8 @@ Berikut ini adalah tabel jumlah point yang akan didapatkan setiap minggunya :
 
 *Kemungkinan kecil akan terjadi point yang sama, untuk point yang sama nanti akan diadakan Tiebreaker*
 
+[Hasil Data Perolehan Points](https://docs.google.com/spreadsheets/d/1vU8qNXzgTGJUTJjodlPv8lwRhccAiVgSWb1im-21z-Y/edit?usp=sharing)
+
 ## Peraturan
 
 - Player harus bermain di Datenshi dan memiliki sebuah Akun

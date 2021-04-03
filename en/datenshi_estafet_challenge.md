@@ -59,4 +59,30 @@ Download :
 - [datenshi](https://osu.troke.id/d/1243342)
 - [osu!](https://osu.ppy.sh/d/1243342)
 
+### Results
+
+![std](https://user-images.githubusercontent.com/10250068/113484769-abbdf100-94dc-11eb-9aee-a1511f4f3711.png)
+
+![mania](https://user-images.githubusercontent.com/10250068/113484781-b7111c80-94dc-11eb-8bd1-de5740f21677.png)
+
+## Minggu Kedua (Free Mod)
+
+![mania](https://cdn.discordapp.com/attachments/728581754398572546/822872891900035072/mode-mania-small.png)
+
+<a href="https://osu.ppy.sh/s/1355042"><img src="https://cdn.discordapp.com/attachments/699254810008092702/827943050420551721/beatmap4kweek2.png" /></a>
+
+Download :
+
+- [datenshi](https://osu.troke.id/d/1355042)
+- [osu!](https://osu.ppy.sh/d/1355042)
+
+![std](https://cdn.discordapp.com/attachments/728581754398572546/822872893746577428/mode-osu-small.png)
+
+<a href="https://osu.ppy.sh/s/963814"><img src="https://cdn.discordapp.com/attachments/699254810008092702/827943057454399538/beatmapstdweek2.png" /></a>
+
+Download :
+
+- [datenshi](https://osu.troke.id/d/963814)
+- [osu!](https://osu.ppy.sh/d/963814)
+
 # GLHF!

@@ -87,7 +87,9 @@ Download :
 
 ### Results
 
-Tunggu sebentar.
+![std](https://cdn.discordapp.com/attachments/699254810008092702/833309608167735306/unknown.png)
+
+![mania](https://cdn.discordapp.com/attachments/699254810008092702/833306264192024596/unknown.png)
 
 ## Minggu Ketiga (Free Mod)
 
@@ -108,5 +110,32 @@ Download :
 
 - [datenshi](https://osu.troke.id/d/1245222)
 - [osu!](https://osu.ppy.sh/d/1245222)
+
+### Results
+
+![std](https://cdn.discordapp.com/attachments/699254810008092702/833309722958233660/unknown.png)
+
+![mania](https://cdn.discordapp.com/attachments/699254810008092702/833309762346156072/unknown.png)
+
+## Minggu Keempat (Free Mod)
+
+![mania](https://cdn.discordapp.com/attachments/728581754398572546/822872891900035072/mode-mania-small.png)
+
+<a href="https://osu.ppy.sh/beatmapsets/1338864#mania/2773432"><img src="https://cdn.discordapp.com/attachments/699254810008092702/833165095390412820/B_3.png" /></a>
+
+Download :
+
+- [datenshi](https://osu.troke.id/d/1338864)
+- [osu!](https://osu.ppy.sh/d/1338864)
+
+![std](https://cdn.discordapp.com/attachments/728581754398572546/822872893746577428/mode-osu-small.png)
+
+<a href="https://osu.ppy.sh/beatmapsets/1085630#osu/2367232"><img src="https://cdn.discordapp.com/attachments/699254810008092702/833165094887489586/B_5.png" /></a>
+
+Download :
+
+- [datenshi](https://osu.troke.id/d/1085630)
+- [osu!](https://osu.ppy.sh/d/1085630)
+
 
 # GLHF!

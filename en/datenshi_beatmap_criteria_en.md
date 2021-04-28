@@ -7,7 +7,7 @@ A few question that are frequently asked
 
 -----------------------
 
-- **Q: My map hasn't been ranked but it follows the criterea?**
+- **Q: My map hasn't been ranked but it follows the criteria?**
 - A: There's a chance that your map doesn't get detected by the system, you can re-request again in discord with this format : `[REQ](osu-beatmap-link)(mode)` **Only for Donaters**
 
 -----------------------
@@ -60,7 +60,7 @@ All maps are likely to be ranked unless the map contain features mentioned in th
 
 1. Unique Patterns is a big plus.
 2. Playable Monotone and interesting patterns (Nothing wrong with being motonous, atleast the pattern is interesting and will be pleasant to play)
-3. METADATA It's not gonna be a problem here as long as it doesn't interfere with gameplay)
+3. METADATA Is not gonna be a problem here as long as it doesn't interfere with gameplay.
 4. puritit. (*Single*-chunked note that can cause Auto-death will be thrown here)
 
 #### NOTE
@@ -75,8 +75,8 @@ All maps are likely to be ranked unless the map contain features mentioned in th
 
 #### RULES
 
-1. Playable, This is a must, If its not playable then it will be thrown to loved.
-2. Less 1/4+1/6, 1/6+1/8 patterns, don't have too many types of patterns like this if the map wants to be ranked, but i can be loved instead.
+1. Playable. This is a must, If its not playable then it will be thrown to loved.
+2. Less 1/4+1/6, 1/6+1/8 patterns, don't have too many types of patterns like this if the map wants to be ranked, but it can be loved instead.
 3. Longstream is fine, but stable, If the 1/4 or 1/6 longstream is stable, it doesn't matter, if for example 1/4 + 1/6 is still allowed as long as the 1/6 pattern is at the end of the stream, for 1/6 in the middle of the stream and continued with a 1/4 stream, it will be loved.
 4. Endurance map, if the map contains a longstream and no breaks at all or more than 2 minutes of length and / or the stamina map with high bpm will be loved too. For the stamina map but bpm under 250 can still be reconsidered.
 5. Mapset with speed rate difficulties is preferred to be loved.
@@ -86,8 +86,38 @@ All maps are likely to be ranked unless the map contain features mentioned in th
 9. Invisible Pattern, This type of pattern usually requires Storyboard like Aspire type maps. Loved.
 Note: **If it is like GOVERNMENT KNOWS**, it will be - **unranked** by default for *certain reasons*. 
 10. Metadata, This will be considered if the maps will be ranked or not.
-11. Trash patterns on low difficulty will be not accepted. The use of a finisher on low difficulty should be paid close attention. 
+11. Trash patterns on low difficulty will not be accepted. The use of a finisher on low difficulty should be paid close attention. 
 
 <h1><i class="comment icon"></i> Mania</h1>
 
 ### OVERALL
+1. **Vibro is Strictly prohibited.**
+2. Playable pattern. What it meant by playable is a pattern that is clearly playable and in accordance with the Official RC. 
+3. Map Pack (Endurance, Dan, Courses) = Loved. Because it is in accordance with the title or the rule, namely training packs are maps made with the aim of sharpening skills, not to be played properly like other maps. 
+4. For rate up/speed up difficulties will be loved since it contains the same patterns as the original one.
+5. Storyboard maps will be loved since it has the potential for players to cheat with dual screen.
+6. SV maps that can't be sightread will be loved since it has the potential to cheat for players with dual screen.
+
+#### 4K RULES
+1. For 4K maps that have a SR>4 required a minimum of HP7 and OD7.
+2. No SR manipulation is allowed (Difficulty spike) for all maps that have a SR>5
+
+#### 4K LN 
+1. For 4K maps that have a SR>8 will be pending or loved. 
+2. For 4K LN maps that have a SR>5 required a minimum of HP7 and OD0.
+  If it have a SR>6 with the mod DT/NC for "Easy" maps, it will not be ranked
+
+#### 7K RULES
+1. For 7K maps that have a SR>5 required a minimum of HP7 and OD7.
+2. No SR manipulation is allowed (Difficulty spike) for all maps that have a SR>6
+
+#### 7K LN 
+1. For 7K maps that have a SR>10 will be pending or loved.
+2. For 7K LN maps that have a SR>6 required a minimum of HP7 and OD0.
+   If it have a SR>9 with the mod DT/NC for "Easy" maps, it will not be ranked
+
+Notes:
+
+1. Whether or not a pattern is good or not is a subjective matter, here I, as a mapper, have not been able to find a map with a good pattern, so please understand. Even though the map with the SR 7 is said to be playable for some people, maybe not for some people. **Except VIBRO** - Inugami Korone 
+2. What is meant by "Easy" is manipulating a spammable pattern to get higher SR.
+3. These LN rules can be changed at any time.

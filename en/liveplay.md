@@ -59,7 +59,8 @@ Sebelum merekam kalian harus memastikan beberapa hal ini karena ini sangat bersi
 
 - Pastikan kamera untuk merekam sangat jelas dan memiliki pencahayaan yang baik
 - Pastikan kamera diatur sedemikian rupa agar pandangan untuk alat input seperti pen / tablet / mouse / keyboard dapat terlihat dengan jelas
-- Wajib mengikuti semua urutan dibawah dengan benar!
+- Video  liveplay tidak boleh di edit dalam bentuk apapun (menambahkan musik dsb.)
+- Wajib mengikuti semua urutan dibawah dengan benar! 
 
 Sesi rekaman harus mengikuti urutan ini :
 

@@ -118,6 +118,6 @@ Note: **If it is like GOVERNMENT KNOWS**, it will be - **unranked** by default f
 
 Notes:
 
-1. Whether or not a pattern is good or not is a subjective matter, so please understand. Even though the map with the SR 7 is said to be playable for some people, maybe not for some people. **Except VIBRO** 
+1. Whether or not a pattern is good or not is a subjective matter, so please understand. Even though the map with the SR of 7 is said to be playable for some people, maybe not for some people. **Except VIBRO** 
 2. What is meant by "Easy" is manipulating a spammable pattern to get higher SR.
 3. These LN rules can be changed at any time.

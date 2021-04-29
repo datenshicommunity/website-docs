@@ -8,7 +8,7 @@ A few question that are frequently asked
 -----------------------
 
 - **Q: My map hasn't been ranked but it follows the criteria?**
-- A: There's a chance that your map doesn't get detected by the system, you can re-request again in discord with this format : `[REQ](osu-beatmap-link)(mode)` **Only for Donaters**
+- A: There's a chance that your map doesn't get detected by the system, you can re-request again in the discord channel '#beatmap-requests` **Only for Donators**
 
 -----------------------
 

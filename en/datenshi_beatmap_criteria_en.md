@@ -43,7 +43,7 @@ Before requesting, make sure your unranked map you are submitting are :
 3. Overlapped objects, 2B maps, Storyboard based maps (Maps that require the storyboard to be turned on to be played) will be loved. 
 4. Near impossible maps (Galaxy Collapse, etc.) that players can pass will be ranked.
 5. A marathon map with a duration of more than 40 minutes (or those that hit the std score limit) will be loved. (Example: Songs Compilation by Nevo with 54 minutes)
-6. Abusive PP Maps (Maps that contain only 1-2 patterns, stacking longstream high bpm (relax)) are likely to be loved. 
+6. Abusive PP Maps (Maps that contain only 1-2 patterns, stacking longstream high bpm (relax)) are likely to be loved.
 
 All maps are likely to be ranked unless the map contain features mentioned in the rules above. 
 

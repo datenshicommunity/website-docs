@@ -45,7 +45,7 @@ Before requesting, make sure your unranked map you are submitting are :
 5. A marathon map with a duration of more than 40 minutes (or those that hit the std score limit) will be loved. (Example: Songs Compilation by Nevo with 54 minutes)
 6. Abusive PP Maps (Maps that contain only 1-2 patterns, stacking longstream high bpm (relax)) are likely to be loved.
 
-All maps are likely to be ranked unless the map contain features mentioned in the rules above. 
+All maps are likely to be ranked unless there are features mentioned in the rules above.
 
 <h1><i class="comment icon"></i> Catch The Beat</h1>
 

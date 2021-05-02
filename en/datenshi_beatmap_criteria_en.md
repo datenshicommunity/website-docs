@@ -41,7 +41,7 @@ Before requesting, make sure your unranked map you are submitting are :
 1. The map must be playable and still follows the Bancho's RC. If not, it is likely to be loved. 
 2. A longstream map that is easily abused is likely to be loved . (Because the majority of relax players can use the DT mod to get PP)
 3. Overlapped objects, 2B maps, Storyboard based maps (Maps that require the storyboard to be turned on to be played) will be loved. 
-4. Near impossible map (Galaxy Collapse, etc) those that can be passed by a player will be ranked.
+4. Near impossible maps (Galaxy Collapse, etc.) that players can pass will be ranked.
 5. A marathon map with a duration of more than 40 minutes (or those that hit the std score limit) will be loved. (Example: Songs Compilation by Nevo with 54 minutes)
 6. Abusive PP Maps (Maps that contain only 1-2 patterns, stacking longstream high bpm (relax)) are likely to be loved. 
 

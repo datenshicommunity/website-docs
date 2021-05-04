@@ -31,3 +31,9 @@ These limits are applies both in Relax & Vanilla
 # Screenshot
 
 ![image](https://user-images.githubusercontent.com/10250068/116958891-94864500-acce-11eb-8feb-17b6fbc2a930.png)
+
+# FAQ
+
+- Q: **What if i dont have discord?**
+- A: You are not be able to being whitelisted and you will still have 0pp.
+

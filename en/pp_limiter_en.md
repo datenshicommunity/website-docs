@@ -23,7 +23,7 @@ These limits are applies both in Relax & Vanilla
 # How to remove the limiter?
 
 1. You need to join our [Discord Server](https://link.troke.id/datenshi) 
-2. Link your datenshi account with your discord account using our [Bot](https://osu.troke.id/discordtokens) 
+2. Link your datenshi account with your discord account using our [Bot](https://osu.troke.id/discordtokens). If you already linked, you can skip this step.
 3. Go to the channels `#issues-help`, **only this channel**. Post your [screenshot](https://cdn.discordapp.com/attachments/698597147553169429/816492708356423680/screenshot308.jpg) and mention (one of) our **Moderators** or **Community Manager** for whitelist inquiry. Any inquiries done outside the channel will ignored.
 
 ## Things to note

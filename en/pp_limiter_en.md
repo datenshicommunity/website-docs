@@ -26,7 +26,9 @@ These limits are applies both in Relax & Vanilla
 2. Link your datenshi account with your discord account using our [Bot](https://osu.troke.id/discordtokens) 
 3. Go to the channels `#issues-help`, **only this channel**. Post your [screenshot](https://cdn.discordapp.com/attachments/698597147553169429/816492708356423680/screenshot308.jpg) and mention (one of) our **Moderators** or **Community Manager** for whitelist inquiry. Any inquiries done outside the channel will ignored.
 
-\* Devs ***__may__*** respond as well, but **please do not ping either of them directly.** Also do not contact our staff by DM's.
+## Things to note
+- \* Devs ***__may__*** respond as well, but **please do not ping either of them directly.**
+- Do not contact our staff by DM's. Use the given channel for it. ![ehu](https://cdn.discordapp.com/emojis/811471159538876446.png?v=1)
 
 # Screenshot
 
@@ -34,6 +36,6 @@ These limits are applies both in Relax & Vanilla
 
 # FAQ
 
-- Q: **What if i dont have discord?**
-- A: You are not be able to being whitelisted and you will still have 0pp.
+- Q: **What if I didn't use Discord?**
+- A: We will not approve any other kind of inquiries for this. Make your Discord account now ![ehu](https://cdn.discordapp.com/emojis/811471159538876446.png?v=1). Otherwise you won't be able to gain more PPs.
 

@@ -27,6 +27,7 @@ These limits are applies both in Relax & Vanilla
 3. Go to the channels `#issues-help`, **only this channel**. Post your [screenshot](https://cdn.discordapp.com/attachments/698597147553169429/816492708356423680/screenshot308.jpg) and mention (one of) our **Moderators** or **Community Manager** for whitelist inquiry. Any inquiries done outside the channel will ignored.
 
 ## Things to note
+
 - Devs ***__may__*** respond as well, but **please do not ping either of them directly.**
 - Do not contact our staff by DM's. Use the given channel for it. ![ehu](https://user-images.githubusercontent.com/9847780/116959893-1ecbaa80-acc9-11eb-99ce-fd475b89e75c.png)
 

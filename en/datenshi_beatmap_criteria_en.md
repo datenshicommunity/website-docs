@@ -38,7 +38,7 @@ Before requesting, make sure your unranked map you are submitting are :
 
 #### Rules
 
-1. The map must be playable and still follows the Bancho's RC. If not, it is likely to be loved. 
+1. The map must be playable and still follow Bancho's Ranking Criteria. If not, it is likely to be loved.
 2. Longstream maps that are easy to abuse is more likely to be loved. (Because the majority of relax players can use the DT mod to get PP)
 3. Overlapped objects, 2B maps, Storyboard based maps (Maps that require the storyboard to be turned on to be played) will be loved. 
 4. Near impossible maps (Galaxy Collapse, etc.) that players can pass will be ranked.

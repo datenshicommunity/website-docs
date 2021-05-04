@@ -3,7 +3,7 @@ title: "Datenshi Performance Points Limiter"
 old_id: 13
 ---
 
-Hello! this is guide for who got messages from our Bot In-game, we are introduce to you that we have a unique pp limiter, this limiter are mostly prevent abusers/cheater to have more pp, please note that you are not in banned/restrict mode, it's just that you won't get more pp, if you play next play you will be get 0pp.
+Hello! this is guide for who got messages from our Bot In-game, we are introduce to you that we have a unique pp limiter, this limiter are mostly prevent abusers/cheater to have more pp, **please note that you are not in banned/restricted mode**, it's just that you won't get more pp, if you play next beatmaps you will be get 0pp.
 
 # Limits
 

@@ -20,6 +20,6 @@ These limits are applies both in Relax & Vanilla
 
 - First of all, you need to join our [Discord Server](https://link.troke.id/datenshi) 
 - Link your datenshi account with your discord account using our [Bot](https://osu.troke.id/discordtokens) 
-- After that, you can go to the channels `#issues-help` then post your [screenshot](https://cdn.discordapp.com/attachments/698597147553169429/816492708356423680/screenshot308.jpg) and mention our **Moderators** or **Community Manager** for being whitelisted
+- After that, you can go to the channels `#issues-help` (NOT ANYWHERE!) then post your [screenshot](https://cdn.discordapp.com/attachments/698597147553169429/816492708356423680/screenshot308.jpg) and mention our **Moderators** or **Community Manager** for being whitelisted
 
 **Please do not mention DEV*

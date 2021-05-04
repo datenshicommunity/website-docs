@@ -2,6 +2,7 @@
 title: "Datenshi Performance Points Limiter"
 old_id: 13
 ---
+<div style="text-align:center"><img src="https://user-images.githubusercontent.com/10250068/116959299-c8ae3580-accf-11eb-9ca3-15cd662dbca0.png" /></div>
 
 Hello! this is guide for who got messages from our Bot In-game, we are introduce to you that we have a unique pp limiter, this limiter are mostly prevent abusers/cheater to have more pp, **please note that you are not in banned/restricted mode**. It's just that you won't get more pp, if you play another fresh beatmap you will be get 0pp.
 
@@ -28,4 +29,5 @@ These limits are applies both in Relax & Vanilla
 \* Devs ***__may__*** respond as well, but **please do not ping either of them directly.** Also do not contact our staff by DM's.
 
 # Screenshot
+
 ![image](https://user-images.githubusercontent.com/10250068/116958891-94864500-acce-11eb-8feb-17b6fbc2a930.png)

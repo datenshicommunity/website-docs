@@ -18,7 +18,7 @@ These limits are applies both in Relax & Vanilla
 - Per Score/Individual PP
   - Not so disclosed value.
 
-*We will changes this limits if needed*
+\* PP limit may be changed in future without any notice depending on staff's discretion.
 
 # How to remove the limiter?
 

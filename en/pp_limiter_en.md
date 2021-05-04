@@ -28,7 +28,7 @@ These limits are applies both in Relax & Vanilla
 
 ## Things to note
 - \* Devs ***__may__*** respond as well, but **please do not ping either of them directly.**
-- Do not contact our staff by DM's. Use the given channel for it. ![ehu](https://cdn.discordapp.com/emojis/811471159538876446.png?v=1)
+- Do not contact our staff by DM's. Use the given channel for it. ![ehu](https://user-images.githubusercontent.com/9847780/116959893-1ecbaa80-acc9-11eb-99ce-fd475b89e75c.png)
 
 # Screenshot
 
@@ -37,5 +37,4 @@ These limits are applies both in Relax & Vanilla
 # FAQ
 
 - Q: **What if I didn't use Discord?**
-- A: We will not approve any other kind of inquiries for this. Make your Discord account now ![ehu](https://cdn.discordapp.com/emojis/811471159538876446.png?v=1). Otherwise you won't be able to gain more PPs.
-
+- A: We will not approve any other kind of inquiries for this. Make your Discord account now ![ehu](https://user-images.githubusercontent.com/9847780/116959893-1ecbaa80-acc9-11eb-99ce-fd475b89e75c.png). Otherwise you won't be able to gain more PPs.

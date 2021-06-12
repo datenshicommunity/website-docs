@@ -24,7 +24,8 @@ These limits are both applied in Relax & Vanilla.
 
 1. You need to join our [Discord Server](https://link.troke.id/datenshi) 
 2. Link your Datenshi account with your discord account by using our [Bot](https://osu.troke.id/discordtokens). If you're already linked, you can skip this step.
-3. Go to the channel `#issues-help`, **only this channel**, post your [screenshot](https://cdn.discordapp.com/attachments/698597147553169429/816492708356423680/screenshot308.jpg) and mention (one of) our **Moderators** or **Community Manager** for whitelist inquiry. Any inquiries done outside the channel will be ignored
+3. Go to the channel `#osu-support` press the button named `PPLimit Ticket`, wait until the bot generate private channels. 
+4. Post your [screenshot](https://cdn.discordapp.com/attachments/698597147553169429/816492708356423680/screenshot308.jpg) in that channels with your `profile link` and mention (one of) our **Moderators** or **Community Manager** for whitelist inquiry. Any inquiries done outside the channel will be ignored.
 
 ## Things to note
 
@@ -33,7 +34,7 @@ These limits are both applied in Relax & Vanilla.
 
 # Screenshot
 
-![image](https://user-images.githubusercontent.com/10250068/116958891-94864500-acce-11eb-8feb-17b6fbc2a930.png)
+![image](https://user-images.githubusercontent.com/10250068/121777556-5b8e9980-cbc5-11eb-9a93-9257b9093494.png)
 
 # FAQ
 

@@ -67,7 +67,7 @@ Recording sessions must follow this order:
 Submit your recordings via Youtube / Facebook in this order:
 
 - Upload it on Youtube / Facebook with a description containing `VERIFIED DATENSHI 'USERNAME'`.
-- Set your video privacy to 'Unlisted' when uploading it on Youtube if you don't want your video to be seen by others . If you use Facebook, please upload it via [Datenshi Facebook Group](https://www.facebook. com/groups/osu.datenshi)
+- Set your video privacy to 'Unlisted' when uploading it on Youtube if you don't want your video to be seen by others . If you use Facebook, please upload it via [Datenshi Facebook Group](https://www.facebook.com/groups/osu.datenshi)
 - Please copy your video link that you have uploaded to the submissions form below.
 
 `(Liveplay submissions will be considered invalid if you fail to comply with the requirements above)`

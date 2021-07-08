@@ -15,7 +15,7 @@ old_id: 1
 
 ![tutorial-3](https://cdn.discordapp.com/attachments/728581754398572546/835525420412960798/unknown.png)
 
-# 4. Add this `-devserver troke.id` on Target location and then press OK
+# 4. Add this `-devserver datenshi.pw` on Target location and then press OK
 
 ![tutorial-4](https://cdn.discordapp.com/attachments/728581754398572546/835525603599319045/unknown.png)
 

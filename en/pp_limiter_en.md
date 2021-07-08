@@ -23,7 +23,7 @@ These limits are both applied in Relax & Vanilla.
 # How to remove the limiter
 
 1. You need to join our [Discord Server](https://link.troke.id/datenshi) 
-2. Link your Datenshi account with your discord account by using our [Bot](https://osu.troke.id/discordtokens). If you're already linked, you can skip this step.
+2. Link your Datenshi account with your discord account by using our [Bot](https://osu.datenshi.pw/discordtokens). If you're already linked, you can skip this step.
 3. Go to the channel `#osu-support` press the button named `PPLimit Ticket`, wait until the bot generate private channels. 
 4. Post your [screenshot](https://cdn.discordapp.com/attachments/698597147553169429/816492708356423680/screenshot308.jpg) in that channels with your `profile link` and mention (one of) our **Moderators** or **Community Manager** for whitelist inquiry. Any inquiries done outside the channel will be ignored.
 

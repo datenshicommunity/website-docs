@@ -6,7 +6,7 @@ Jika kalian mengalami masalah pada switcher, silahkan ikuti metode manual ini de
 
 ### Download terlebih dahulu sertifikatnya
 
-- [Clickhere](https://cdn.troke.id/dt.cer) (UPDATE JAN 2021)
+- [Clickhere](https://cdn.datenshi.pw/dt.cer) (UPDATE JAN 2021)
 
 ### Lalu buka atau klik kanan dan install certificates
 
@@ -36,7 +36,7 @@ Jika kalian mengalami masalah pada switcher, silahkan ikuti metode manual ini de
 Perhatikan dengan seksama!
 
 ### Download terlebih dahulu file hosts disini lalu copy
-- [Clickhere](https://old.troke.id/hosts.txt) (UPDATE JANUARI 2021)
+- [Clickhere](https://old.datenshi.pw/hosts.txt) (UPDATE JANUARI 2021)
 
 ![step1](https://cdn.discordapp.com/attachments/701452257102921738/800709100316917760/unknown.png)
 

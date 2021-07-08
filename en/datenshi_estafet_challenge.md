@@ -47,7 +47,7 @@ Berikut ini adalah tabel jumlah point yang akan didapatkan setiap minggunya :
 
 Download :
 
-- [datenshi](https://osu.troke.id/d/1069823)
+- [datenshi](https://osu.datenshi.pw/d/1069823)
 - [osu!](https://osu.ppy.sh/d/1069823)
 
 ![std](https://cdn.discordapp.com/attachments/728581754398572546/822872893746577428/mode-osu-small.png)
@@ -56,7 +56,7 @@ Download :
 
 Download :
 
-- [datenshi](https://osu.troke.id/d/1243342)
+- [datenshi](https://osu.datenshi.pw/d/1243342)
 - [osu!](https://osu.ppy.sh/d/1243342)
 
 ### Results
@@ -73,7 +73,7 @@ Download :
 
 Download :
 
-- [datenshi](https://osu.troke.id/d/1355042)
+- [datenshi](https://osu.datenshi.pw/d/1355042)
 - [osu!](https://osu.ppy.sh/d/1355042)
 
 ![std](https://cdn.discordapp.com/attachments/728581754398572546/822872893746577428/mode-osu-small.png)
@@ -82,7 +82,7 @@ Download :
 
 Download :
 
-- [datenshi](https://osu.troke.id/d/963814)
+- [datenshi](https://osu.datenshi.pw/d/963814)
 - [osu!](https://osu.ppy.sh/d/963814)
 
 ### Results
@@ -99,7 +99,7 @@ Download :
 
 Download :
 
-- [datenshi](https://osu.troke.id/d/1138055)
+- [datenshi](https://osu.datenshi.pw/d/1138055)
 - [osu!](https://osu.ppy.sh/d/1138055)
 
 ![std](https://cdn.discordapp.com/attachments/728581754398572546/822872893746577428/mode-osu-small.png)
@@ -108,7 +108,7 @@ Download :
 
 Download :
 
-- [datenshi](https://osu.troke.id/d/1245222)
+- [datenshi](https://osu.datenshi.pw/d/1245222)
 - [osu!](https://osu.ppy.sh/d/1245222)
 
 ### Results
@@ -125,7 +125,7 @@ Download :
 
 Download :
 
-- [datenshi](https://osu.troke.id/d/1338864)
+- [datenshi](https://osu.datenshi.pw/d/1338864)
 - [osu!](https://osu.ppy.sh/d/1338864)
 
 ![std](https://cdn.discordapp.com/attachments/728581754398572546/822872893746577428/mode-osu-small.png)
@@ -134,7 +134,7 @@ Download :
 
 Download :
 
-- [datenshi](https://osu.troke.id/d/1085630)
+- [datenshi](https://osu.datenshi.pw/d/1085630)
 - [osu!](https://osu.ppy.sh/d/1085630)
 
 

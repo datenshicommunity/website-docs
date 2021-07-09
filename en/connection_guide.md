@@ -17,6 +17,6 @@ old_id: 1
 
 # 4. Add this `-devserver datenshi.pw` on Target location and then press OK
 
-![tutorial-4](https://cdn.discordapp.com/attachments/728581754398572546/835525603599319045/unknown.png)
+![tutorial-4](https://cdn.discordapp.com/attachments/728581754398572546/862852655687663616/unknown.png)
 
 # 5. Enjoy the game!

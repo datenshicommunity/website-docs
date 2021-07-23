@@ -51,5 +51,5 @@ These apply to both Discord AND the in-game chat. The Discord chat also has some
 <h3><i class="list layout icon"></i> Miscellaneous</h3>
 
 1. You can change your profile flag mailing [support](support@datenshi.pw), and sending a picture with a valid document and a post-it or a piece of paper with your Datenshi name.
-2. Name changes are handled through our [Discord.](https://link.troke.id/datenshi)
+2. Name changes are handled through our [Discord.](https://datenshi.pw/discord)
 

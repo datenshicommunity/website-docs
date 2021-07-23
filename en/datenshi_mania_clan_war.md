@@ -144,6 +144,6 @@ Download : [Single Link](https://drive.google.com/file/d/1idG1Mo-c9jZxIZt3EW8T9Q
 
 # Links
 
-- [Discord](https://link.troke.id/datenshi)
+- [Discord](https://datenshi.pw/discord)
 - [Spreadsheets](https://docs.google.com/spreadsheets/d/1YEPvf4KF3LyLemdnOgyb4fZDkcIqaib6ajJvxAMKVew/edit?usp=sharing)
 - [Challonge](https://challonge.com/dzx38c1w)

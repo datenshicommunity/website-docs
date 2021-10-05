@@ -3,6 +3,12 @@ title: "How to connect Datenshi"
 old_id: 1
 ---
 
+# Video Tutorial
+
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/kpDWFVDY538" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+# Image Tutorial
+
 ## 1. You need to copy the `osu!.exe` application from the osu! folder, depends on where you install it, the default install location for osu! would be inside your Program Files folder in the C: drive.
 
 <img src="https://cdn.discordapp.com/attachments/728581754398572546/835524651115479070/unknown.png" alt="step 1" width="70%"/>

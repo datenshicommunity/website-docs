@@ -99,7 +99,7 @@ Semua map kemungkinan besar akan masuk ranked kecuali ada ciri - ciri yang diseb
 6. Map SV yang tidak bisa di-sightread akan di loved karena memiliki potensi terjadinya cheat dengan memakai dual screen.
 
 #### 4K RULES
-1. Map 4K yang memiliki SR>8 akan di Pending atau di Loved. 
+1. Map 4K yang memiliki SR>8 akan di Loved. 
 2. Map 4K yang memiliki SR>4 minimum memiliki HP7 dan OD7.
 3. Tidak diperbolehkan memanipulasi SR (Difficulty spike) dengan spam untuk keseluruhan map. Jika spam bukan fokus dari map tersebut maka diperbolehkan.
 

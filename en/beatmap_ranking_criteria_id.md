@@ -114,7 +114,4 @@ Semua map kemungkinan besar akan masuk ranked kecuali ada ciri - ciri yang diseb
 #### 7K LN 
 1. Map LN 7K yang memiliki SR>6 minimum memiliki HP7 dan OD0.
 
-Notes:
-
-1. Bagus atau tidaknya pattern merupakan suatu hal yang subjektif, disini saya sebagai mapper pun belum bisa mendapati map dengan pattern yang bagus, jadi mohon dimengerti. Playable pattern pun juga demikian, walaupun map dengan SR 7 dibilang playable untuk sebagian orang, mungkin tidak untuk sebagian orang. **Kecuali VIBRO** - Inugami Korone
-2. Untuk rules LN ini bisa dirubah sewaktu-waktu
+Notes: Untuk rules LN ini bisa dirubah sewaktu-waktu

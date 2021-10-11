@@ -91,33 +91,27 @@ Note: **If it is like GOVERNMENT KNOWS**, it will be - **unranked** by default f
 <h1><i class="comment icon"></i> Mania</h1>
 
 ### OVERALL
-1. **Vibro is Strictly prohibited.**
-2. Playable pattern. What it meant by playable is a pattern that is clearly playable and in accordance with the Official RC. 
+1. **Vibro is strictly prohibited.**
+2. Playable pattern. The pattern must be playable and in accordance with the Official RC. 
 3. Map Pack (Endurance, Dan, Courses) = Loved. Because it is in accordance with the title or the rule, namely training packs are maps made with the aim of sharpening skills, not to be played properly like other maps. 
-4. For rate up/speed up difficulties will be loved since it contains the same patterns as the original one.
+4. Rate up/speed up difficulties will be in Loved since it contains the same patterns with the original one.
 5. Storyboard maps will be loved since it has the potential for players to cheat with dual screen.
 6. SV maps that can't be sightread will be loved since it has the potential to cheat for players with dual screen.
 
 #### 4K RULES
-1. For 4K maps that have a SR>4 required a minimum of HP7 and OD7.
-2. No SR manipulation is allowed (Difficulty spike) for all maps that have a SR>5
+1. 4K maps with SR>8 will be put in Loved.
+2. 4K maps with SR>4 require a minimum of HP7 and OD7.
+3. No SR manipulation with spam is allowed for the whole map (Difficulty spike). It's only allowed If the spam is not the focus of the map.
 
 #### 4K LN 
-1. For 4K maps that have a SR>8 will be pending or loved. 
-2. For 4K LN maps that have a SR>5 required a minimum of HP7 and OD0.
-  If it have a SR>6 with the mod DT/NC for "Easy" maps, it will not be ranked
+1. 4K LN maps with SR>5 require a minimum of HP7 and OD0.
 
 #### 7K RULES
-1. For 7K maps that have a SR>5 required a minimum of HP7 and OD7.
-2. No SR manipulation is allowed (Difficulty spike) for all maps that have a SR>6
+1. 7K maps with SR>10 will be put in Loved.
+2. 7K maps with SR>5 require a minimum of HP7 and OD7.
+3. No SR manipulation with spam is allowed for the whole map (Difficulty spike). It's only allowed If the spam is not the focus of the map.
 
 #### 7K LN 
-1. For 7K maps that have a SR>10 will be pending or loved.
-2. For 7K LN maps that have a SR>6 required a minimum of HP7 and OD0.
-   If it have a SR>9 with the mod DT/NC for "Easy" maps, it will not be ranked
+1. 7K LN maps with SR>6 require a minimum of HP7 and OD0.
 
-Notes:
-
-1. Whether or not a pattern is good or not is a subjective matter, so please understand. Even though the map with the SR of 7 is said to be playable for some people, maybe not for some people. **Except VIBRO** 
-2. What is meant by "Easy" is manipulating a spammable pattern to get higher SR.
-3. These LN rules can be changed at any time.
+Notes: These LN rules can be changed at any time.

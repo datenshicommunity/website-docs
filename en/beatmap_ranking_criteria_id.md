@@ -99,25 +99,19 @@ Semua map kemungkinan besar akan masuk ranked kecuali ada ciri - ciri yang diseb
 6. Map SV yang tidak bisa di-sightread akan di loved karena memiliki potensi terjadinya cheat dengan memakai dual screen.
 
 #### 4K RULES
-1. Untuk map 4K yang memiliki SR>4 minimum memiliki HP7 dan OD7.
-2. Tidak diperbolehkan manipulasi SR (Difficulty spike) untuk semua map SR>5
+1. Map 4K yang memiliki SR>8 akan di Loved. 
+2. Map 4K yang memiliki SR>4 minimum memiliki HP7 dan OD7.
+3. Tidak diperbolehkan memanipulasi SR (Difficulty spike) dengan spam untuk keseluruhan map. Jika spam bukan fokus dari map tersebut maka diperbolehkan.
 
 #### 4K LN 
-1. Map 4K yang memiliki SR>8 akan di Pending atau di Loved. 
-2. Map LN 4K yang memiliki SR>5 minimum memiliki HP7 dan OD0.
-   Bila memiliki SR>6 dengan mod DT/NC untuk map yang "Mudah", maka tidak akan di ranked 
+1. Map LN 4K yang memiliki SR>5 minimum memiliki HP7 dan OD0.
 
 #### 7K RULES
-1. Untuk map 7K yang memiliki SR>5 minimum memiliki HP7 dan OD7.
-2. Tidak diperbolehkan manipulasi SR (Difficulty spike) untuk semua map SR>6
+1. Map 7K yang memiliki SR>10 akan di Loved.
+2. Map 7K yang memiliki SR>5 minimum memiliki HP7 dan OD7.
+3. Tidak diperbolehkan memanipulasi SR (Difficulty spike) dengan spam untuk keseluruhan map. Jika spam bukan fokus dari map tersebut maka diperbolehkan.
 
 #### 7K LN 
-1. Map 7K yang memiliki SR>10 akan di Pending atau di Loved.
-2. Map LN 7K yang memiliki SR>6 minimum memiliki HP7 dan OD0.
-   Bila memiliki SR>9 dengan mod DT/NC untuk map yang "Mudah", maka tidak akan di ranked 
+1. Map LN 7K yang memiliki SR>6 minimum memiliki HP7 dan OD0.
 
-Notes:
-
-1. Bagus atau tidaknya pattern merupakan suatu hal yang subjektif, disini saya sebagai mapper pun belum bisa mendapati map dengan pattern yang bagus, jadi mohon dimengerti. Playable pattern pun juga demikian, walaupun map dengan SR 7 dibilang playable untuk sebagian orang, mungkin tidak untuk sebagian orang. **Kecuali VIBRO** - Inugami Korone
-2. Maksud dari "Mudah" itu seperti memanipulasi sistem SR dengan pattern spammable untuk mendapat SR tinggi
-3. Untuk rules LN ini bisa dirubah sewaktu-waktu
+Notes: Untuk rules LN ini bisa dirubah sewaktu-waktu

@@ -75,18 +75,22 @@ All maps are likely to be ranked unless there are features mentioned in the rule
 
 #### RULES
 
-1. Playable. This is a must, If its not playable then it will be thrown to loved.
-2. Less 1/4+1/6, 1/6+1/8 patterns, don't have too many types of patterns like this if the map wants to be ranked, but it can be loved instead.
-3. Longstream is fine, but stable, If the 1/4 or 1/6 longstream is stable, it doesn't matter, if for example 1/4 + 1/6 is still allowed as long as the 1/6 pattern is at the end of the stream, for 1/6 in the middle of the stream and continued with a 1/4 stream, it will be loved.
-4. Endurance map, if the map contains a longstream and no breaks at all or more than 2 minutes of length and / or the stamina map with high bpm will be loved too. For the stamina map but bpm under 250 can still be reconsidered.
-5. Mapset with speed rate difficulties is preferred to be loved.
-6. Doublet spam will be loved.
-7. Pattern with random slider appear or a Pattern inside the slider will be loved.
-8. Spinner Spamming, If its too spammed it will unnecessarily decrease your gauge. Loved.
-9. Invisible Pattern, This type of pattern usually requires Storyboard like Aspire type maps. Loved.
-Note: **If it is like GOVERNMENT KNOWS**, it will be - **unranked** by default for *certain reasons*.
-10. Metadata, This will be considered if the maps will be ranked or not.
-11. Trash patterns on low difficulty will not be accepted. The use of a finisher on low difficulty should be paid close attention.
+1. Pattern must be playable.
+2. If *the devs* breaks the map intention of being playable, it'll be considered as:
+  - **GOVERNMENT KNOWS**
+  - Helvetica Standard
+3. Pattern fits the mapset proportion. This determines a map(set) being ranked/loved/unranked.
+4. For maps in general, patterns will be limited following these rules:
+  a. Finishers only allowed as part of stream ending or finisher only streams.
+    Example: `ddddK`/`DDKDKD` is acceptable.
+    - Finisher only stream have lower leniency to get accepted based on the map difficulty in general.
+  b. Finishers **strongly recommended to have different color from preceding note** to end a stream.
+    - `ddddK`: Acceptable.
+    - `dkkdD`: Strongly Against.
+  c. Finishers should have a proper rest time both before and after of it, for Easier difficulties.
+5. For *gimmick maps*, as long as it's delivered properly, it's accepted.
+
+PS: Metadata checks is pretty strict in here.
 
 <h1><i class="comment icon"></i> Mania</h1>
 

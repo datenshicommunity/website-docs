@@ -79,7 +79,7 @@ Semua map kemungkinan besar akan masuk ranked kecuali ada ciri - ciri yang diseb
 2. Apabila *pihak dev* merusak playablility suatu map, akan dipertimbangkan, seperti:
   - **GOVERNMENT KNOWS**
   - Helvetica Standard
-3. Pattern lumayan masuk akal sesuai bobot mapnya.
+3. Pattern lumayan masuk akal sesuai bobot mapnya. Ini yang menentukan apakah dapat menghasilkan PP, atau hanya diberikan leaderboard.
 4. Untuk map standar, pattern akan dibatasi sesuai jenis pola dibawah ini:
   a. Finisher hanya boleh ada pada akhir stream atau stream dengan finisher doang.
     Contoh: `ddddK`/`DDKDKD` dapat diterima.

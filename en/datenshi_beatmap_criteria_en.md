@@ -88,6 +88,8 @@ All maps are likely to be ranked unless there are features mentioned in the rule
     - `ddddK`: Acceptable.
     - `dkkdD`: Strongly Against.
   c. Finishers should have a proper rest time both before and after of it, for Easier difficulties.
+  
+  Note: This simply to note that Cynply mapping style is generally unacceptable.
 5. For *gimmick maps*, as long as it's delivered properly, it's accepted.
 
 PS: Metadata checks is pretty strict in here.

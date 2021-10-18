@@ -88,6 +88,8 @@ Semua map kemungkinan besar akan masuk ranked kecuali ada ciri - ciri yang diseb
     - `ddddK`: Boleh
     - `dkkdD`: Tidak Boleh
   c. Finisher perlu memiliki jarak baik sebelum maupun sesudah, untuk difficulty rendah.
+  
+  Catatan: Ini untuk menandakan bahwa mapping seperti Cynply itu tidak baik.
 5. Untuk map *gimmick*, apabila hal tersebut dapat disampaikan dengan baik akan diterima.
 
 PS: Metadata bakal di cek sangat serius disini.

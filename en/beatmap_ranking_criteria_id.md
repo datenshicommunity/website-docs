@@ -75,35 +75,41 @@ Semua map kemungkinan besar akan masuk ranked kecuali ada ciri - ciri yang diseb
 
 #### RULES
 
-1. Playable, wajib sih ini, kalo ga playable masuk loved nanti
-2. Less 1/4+1/6, 1/6+1/8 pattern, jangan terlalu banyak jenis pattern kek gini sih kalo mapnya pengen ranked ,-, tapi kalo masuk loved masih bisa
-3. Longstream is fine, but stable, yaa kalo longstream 1/4 atau 1/6 stabil sih ga masalah, kalau misal 1/4+1/6 masih diperbolehkan asalkan posisi pattern 1/6 ada di akhir stream, untuk 1/6 ditengah stream dan dilanjutkan 1/4 stream sepertinya masuk loved deh
-4. Endurance map, kalau mapnya berisi longstream no break sama sekali dan lebih dari 2 menit lengthnya dan/atau stamina map dengan high bpm sepertinya masuk loved juga, untuk stamina map tapi bpm under 250 masih dipertimbangkan
-5. Mapset with Difficulty SpeedRate, Mapset yang banyak Diff Ratenya prefer masuk loved sih
-6. Doublet spam, jelas masuk loved sih ini
-7. Pattern with random slider appear or Pattern inside the slider, ini masuk loved juga, kadang ga bisa dipencet itu patternnya kalo didalem slider ,-,
-8. Spinner Spamming, ini terlalu ngespam bisa ngurangin gauge, yaa masuk loved aja ini
-9. Invisible Pattern, pattern jenis kayak gini yang biasanya ngebutuhin Storyboard masuk ke tipe Aspire sih, loved tentunya
-    Note: **Apabila seperti GOVERNMENT KNOWS**, akan di-**unrank** by default karena *alasan tertentu*.
-10. Metadata, ini jadi pertimbangan juga mapnya masuk ranked atau loved
-11. Pattern sampah di low difficulty tidak akan diterima. Penggunaan finisher pada low difficulty sebaiknya diperhatikan baik-baik.
+1. Pattern wajib playable.
+2. Apabila *pihak dev* merusak playablility suatu map, akan dipertimbangkan, seperti:
+  - **GOVERNMENT KNOWS**
+  - Helvetica Standard
+3. Pattern lumayan masuk akal sesuai bobot mapnya. Ini yang menentukan apakah dapat menghasilkan PP, atau hanya diberikan leaderboard.
+4. Untuk map standar, pattern akan dibatasi sesuai jenis pola dibawah ini:
+  a. Finisher hanya boleh ada pada akhir stream atau stream dengan finisher doang.
+    Contoh: `ddddK`/`DDKDKD` dapat diterima.
+    - Finisher only stream dapat diterima apabila memang targetnya sesuai kesulitan map pada umumnya.
+  b. Finisher **sangat disarankan memiliki warna yang berbeda dari not sebelumnya** untuk mengakhiri sebuah stream.
+    - `ddddK`: Boleh
+    - `dkkdD`: Tidak Boleh
+  c. Finisher perlu memiliki jarak baik sebelum maupun sesudah, untuk difficulty rendah.
+  
+  Catatan: Ini untuk menandakan bahwa mapping seperti Cynply itu tidak baik.
+5. Untuk map *gimmick*, apabila hal tersebut dapat disampaikan dengan baik akan diterima.
+
+PS: Metadata bakal di cek sangat serius disini.
 
 <h1><i class="comment icon"></i> Mania</h1>
 
 ### OVERALL
 1. **Vibro Dilarang Keras.**
-2. Pattern playable, yang dimaksud dengan playable adalah pattern yang sudah jelas bisa dimainkan dan sesuai dengan RC Official. 
+2. Pattern playable, yang dimaksud dengan playable adalah pattern yang sudah jelas bisa dimainkan dan sesuai dengan RC Official.
 3. Map Pack (Endurance, Dan, Courses) = Loved, karena sudah sesuai dengan judulnya atau kaidahnya yaitu training pack merupakan map-map yang dibuat dengan tujuan untuk mengasah skill, bukan untuk dimainkan sewajarnya seperti map-map lainnya.
 4. Untuk rate up/speed up akan di loved karena secara pattern sama aja dengan speed original nya.
 5. Map storyboard akan di loved karena memiliki potensi terjadinya cheat dengan memakai dual screen.
 6. Map SV yang tidak bisa di-sightread akan di loved karena memiliki potensi terjadinya cheat dengan memakai dual screen.
 
 #### 4K RULES
-1. Map 4K yang memiliki SR>8 akan di Loved. 
+1. Map 4K yang memiliki SR>8 akan di Loved.
 2. Map 4K yang memiliki SR>4 minimum memiliki HP7 dan OD7.
 3. Tidak diperbolehkan memanipulasi SR (Difficulty spike) dengan spam untuk keseluruhan map. Jika spam bukan fokus dari map tersebut maka diperbolehkan.
 
-#### 4K LN 
+#### 4K LN
 1. Map LN 4K yang memiliki SR>5 minimum memiliki HP7 dan OD0.
 
 #### 7K RULES
@@ -111,7 +117,7 @@ Semua map kemungkinan besar akan masuk ranked kecuali ada ciri - ciri yang diseb
 2. Map 7K yang memiliki SR>5 minimum memiliki HP7 dan OD7.
 3. Tidak diperbolehkan memanipulasi SR (Difficulty spike) dengan spam untuk keseluruhan map. Jika spam bukan fokus dari map tersebut maka diperbolehkan.
 
-#### 7K LN 
+#### 7K LN
 1. Map LN 7K yang memiliki SR>6 minimum memiliki HP7 dan OD0.
 
 Notes: Untuk rules LN ini bisa dirubah sewaktu-waktu

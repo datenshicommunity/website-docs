@@ -8,22 +8,22 @@ A few question that are frequently asked
 -----------------------
 
 - **Q: My map hasn't been ranked but it follows the criteria?**
-- A: There's a chance that your map doesn't get detected by the system, you can re-request again in the discord channel '#beatmap-requests` **Only for Donators**
+- A: There's a chance that your map doesn't get detected by the system, you can re-request again in the discord channel `#beatmap-requests` **Only for Donators**
 
 -----------------------
 
 - **Q: Why isn't my map submitted?**
-- A: That can happen when : The beatmap is new, wrong beatmap link, or the beatmap database retrieval system from Datenshi to official osu! has not been updated 
-- 
+- A: That can happen when : The beatmap is new, wrong beatmap link, or the beatmap database retrieval system from Datenshi to official osu! has not been updated
+-
 -----------------------
 
 - **Q: How long does it take for my map to be ranked?**
-- A: Depending on the Beatmap Nominator themselves, BN's need time to review and sort out beatmaps that follow the criteria 
+- A: Depending on the Beatmap Nominator themselves, BN's need time to review and sort out beatmaps that follow the criteria
 
 -----------------------
 
 - **Q: How many maps can I request at this time?**
-- A: For now the maximum request is 4 (This might change from time to time) 
+- A: For now the maximum request is 4 (This might change from time to time)
 
 -----------------------
 
@@ -31,8 +31,8 @@ A few question that are frequently asked
 #### Notes
 Before requesting, make sure your unranked map you are submitting are :
 
-- In Graveyard, at least 1 month to avoid the map getting updated by the mapper (abandoned map) 
-- Metadata that soothe the eyes. For example **Diao Ye Zong feat.** is bad, please avoid it. 
+- In Graveyard, at least 1 month to avoid the map getting updated by the mapper (abandoned map)
+- Metadata that soothe the eyes. For example **Diao Ye Zong feat.** is bad, please avoid it.
 
 <h1><i class="comment icon"></i> Standard</h1>
 
@@ -40,7 +40,7 @@ Before requesting, make sure your unranked map you are submitting are :
 
 1. The map must be playable and still follow Bancho's Ranking Criteria. If not, it is likely to be loved.
 2. Longstream maps that are easy to abuse is more likely to be loved. (Because the majority of relax players can use the DT mod to get PP)
-3. Overlapped objects, 2B maps, Storyboard based maps (Maps that require the storyboard to be turned on to be played) will be loved. 
+3. Overlapped objects, 2B maps, Storyboard based maps (Maps that require the storyboard to be turned on to be played) will be loved.
 4. Near impossible maps (Galaxy Collapse, etc.) that players can pass will be ranked.
 5. A marathon map with a duration of more than 40 minutes (or those that hit the std score limit) will be loved. (Example: Songs Compilation by Nevo with 54 minutes)
 6. Abusive PP Maps (Maps that contain only 1-2 patterns, stacking longstream high bpm (relax)) are likely to be loved.
@@ -51,7 +51,7 @@ All maps are likely to be ranked unless there are features mentioned in the rule
 
 #### RANKED
 
-1. PLAYABLE, This one is a must, what it meant by playable is that it can atleast be played by a casual players (Players with average abilities and doesn't pursue skills / basically they play just to have fun) 
+1. PLAYABLE, This one is a must, what it meant by playable is that it can atleast be played by a casual players (Players with average abilities and doesn't pursue skills / basically they play just to have fun)
 2. Less unecessary overstream note where the notes accumulate on a single stream, This will be manually checked.
 3. Unique & Variative patterns, Not too monotonous but this is optional, we can still reconsider it.
 4. METADATA like OD AR HP will be judged accordingly.
@@ -75,25 +75,31 @@ All maps are likely to be ranked unless there are features mentioned in the rule
 
 #### RULES
 
-1. Playable. This is a must, If its not playable then it will be thrown to loved.
-2. Less 1/4+1/6, 1/6+1/8 patterns, don't have too many types of patterns like this if the map wants to be ranked, but it can be loved instead.
-3. Longstream is fine, but stable, If the 1/4 or 1/6 longstream is stable, it doesn't matter, if for example 1/4 + 1/6 is still allowed as long as the 1/6 pattern is at the end of the stream, for 1/6 in the middle of the stream and continued with a 1/4 stream, it will be loved.
-4. Endurance map, if the map contains a longstream and no breaks at all or more than 2 minutes of length and / or the stamina map with high bpm will be loved too. For the stamina map but bpm under 250 can still be reconsidered.
-5. Mapset with speed rate difficulties is preferred to be loved.
-6. Doublet spam will be loved.
-7. Pattern with random slider appear or a Pattern inside the slider will be loved.
-8. Spinner Spamming, If its too spammed it will unnecessarily decrease your gauge. Loved.
-9. Invisible Pattern, This type of pattern usually requires Storyboard like Aspire type maps. Loved.
-Note: **If it is like GOVERNMENT KNOWS**, it will be - **unranked** by default for *certain reasons*. 
-10. Metadata, This will be considered if the maps will be ranked or not.
-11. Trash patterns on low difficulty will not be accepted. The use of a finisher on low difficulty should be paid close attention. 
+1. Pattern must be playable.
+2. If *the devs* breaks the map intention of being playable, it'll be considered as:
+  - **GOVERNMENT KNOWS**
+  - Helvetica Standard
+3. Pattern fits the mapset proportion. This determines a map(set) being ranked/loved/unranked.
+4. For maps in general, patterns will be limited following these rules:
+  a. Finishers only allowed as part of stream ending or finisher only streams.
+    Example: `ddddK`/`DDKDKD` is acceptable.
+    - Finisher only stream have lower leniency to get accepted based on the map difficulty in general.
+  b. Finishers **strongly recommended to have different color from preceding note** to end a stream.
+    - `ddddK`: Acceptable.
+    - `dkkdD`: Strongly Against.
+  c. Finishers should have a proper rest time both before and after of it, for Easier difficulties.
+  
+  Note: This simply to note that Cynply mapping style is generally unacceptable.
+5. For *gimmick maps*, as long as it's delivered properly, it's accepted.
+
+PS: Metadata checks is pretty strict in here.
 
 <h1><i class="comment icon"></i> Mania</h1>
 
 ### OVERALL
 1. **Vibro is strictly prohibited.**
-2. Playable pattern. The pattern must be playable and in accordance with the Official RC. 
-3. Map Pack (Endurance, Dan, Courses) = Loved. Because it is in accordance with the title or the rule, namely training packs are maps made with the aim of sharpening skills, not to be played properly like other maps. 
+2. Playable pattern. The pattern must be playable and in accordance with the Official RC.
+3. Map Pack (Endurance, Dan, Courses) = Loved. Because it is in accordance with the title or the rule, namely training packs are maps made with the aim of sharpening skills, not to be played properly like other maps.
 4. Rate up/speed up difficulties will be in Loved since it contains the same patterns with the original one.
 5. Storyboard maps will be loved since it has the potential for players to cheat with dual screen.
 6. SV maps that can't be sightread will be loved since it has the potential to cheat for players with dual screen.
@@ -103,7 +109,7 @@ Note: **If it is like GOVERNMENT KNOWS**, it will be - **unranked** by default f
 2. 4K maps with SR>4 require a minimum of HP7 and OD7.
 3. No SR manipulation with spam is allowed for the whole map (Difficulty spike). It's only allowed If the spam is not the focus of the map.
 
-#### 4K LN 
+#### 4K LN
 1. 4K LN maps with SR>5 require a minimum of HP7 and OD0.
 
 #### 7K RULES
@@ -111,7 +117,7 @@ Note: **If it is like GOVERNMENT KNOWS**, it will be - **unranked** by default f
 2. 7K maps with SR>5 require a minimum of HP7 and OD7.
 3. No SR manipulation with spam is allowed for the whole map (Difficulty spike). It's only allowed If the spam is not the focus of the map.
 
-#### 7K LN 
+#### 7K LN
 1. 7K LN maps with SR>6 require a minimum of HP7 and OD0.
 
 Notes: These LN rules can be changed at any time.

@@ -7,6 +7,11 @@ old_id: 19
 
 Halo! Halaman ini ditujukan untuk kamu yang merasa mendapat pesan dari Bot kami di dalam gim. Mengenalkan _pp limiter_ milik kami sendiri kepada publik, limiter ini bertujuan untuk mencegah abuser/cheater untuk mendapatkan lebih banyak pp, catatan tambahan **kamu tidak dalam kondisi banned/restricted jika kamu mendapat pesan ini**. Tetapi dengan limitasi ini kamu tidak bisa mendapat pp lagi, artinya jika kamu memainkan beatmap lain kamu akan tetap mendapatkan 0pp pada saat mengirimkan skor di beatmap tersebut.
 
+## Bahasa
+
+- [Bahasa Indonesia](https://osu.datenshi.pw/doc/19)
+- [English](https://osu.datenshi.pw/doc/13)
+
 ## Rincian Limitasi
 
 Limitasi ini juga berlaku untuk Relax & Vanilla.

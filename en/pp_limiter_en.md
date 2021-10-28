@@ -7,6 +7,11 @@ old_id: 13
 
 Hello! This is a guide for those who got a message from our Bot in-game. We are introducing to the public our very own unique pp limiter, this limiter's purpose is mostly to prevent an abuser/cheater to gain more pp, additional note that **if you get messaged you are not in banned/restricted state**. You are however not allowed to gain pp anymore, meaning if you play another beatmap you will get 0pp as a result in the end of the beatmap.
 
+## Languages
+
+- [Bahasa Indonesia](https://osu.datenshi.pw/doc/19)
+- [English](https://osu.datenshi.pw/doc/13)
+
 ## Limitation Details
 
 These limits also applied in Relax & Vanilla.

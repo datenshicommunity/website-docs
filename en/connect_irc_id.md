@@ -3,7 +3,7 @@ title: "Panduan Sederhana Untuk Terhubung ke Datenshi dari IRC"
 old_id: 21
 ---
 
-Perlu diingat, kalau kamu mencoba untuk terhubung dari IRC dan dalam game secara bersamaan, maka server akan menutup salah satu klien yang mencoba terhubung, jadi pastikan untuk memutuskan salah satu koneksi sebelum mencoba terhubung.
+Jika kamu mencoba untuk terhubung menggunakan client turnamen dan IRC secara bersamaan, pastikan untuk tidak keluar dari ruangan secara tiba-tiba saat pertandingan sedang berlangsung, hal ini akan menyebabkan semua pemain yang terhubung menggunakan client akan keluar dan terputus kecuali yang terhubung menggunakan pengguna yang terhubung menggunakan IRC.
 
 ## Bahasa
 
@@ -22,3 +22,7 @@ Alamat tujuan = `irc.datenshi.xyz:6667`
 4. Salin dan tempel token yang tadi dibuat di kolom Server Password
 5. Simpan lalu connect (hubungkan)
 6. Selesai!
+
+## Catatan
+
+Ketika jaringan terputus yang asalnya bukan dari server (contoh: kendala internet dari pengguna), pesan yang dikeluarkan ke client IRC bisa ganda.

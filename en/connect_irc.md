@@ -3,17 +3,26 @@ title: "Simple Guide Connect Datenshi from IRC"
 old_id: 11
 ---
 
-Remember if you connect using IRC and In-game together, the server will close the 1 connection, you should disconnect 1 connection before in-game.
+If you tried to connect with tournament client and IRC at the same time, make sure to not leave suddenly while match is on progress, it will cause all the players with client in the room to automatically disconnect except those who connected via IRC.
 
-### Server Address
+## Languages
+
+- [Bahasa Indonesia](https://osu.datenshi.pw/doc/21)
+- [English](https://osu.datenshi.pw/doc/11)
+
+## Server Address
 
 Address = `irc.datenshi.xyz:6667`
 
-### Tutorial
+## Tutorial
 
-- Go to our IRC Page [Here](/irc)
-- Generate new token
-- Open your IRC Client and add the server
-- Copy your Token to Server Password
-- Save and Connect
-- Finish
+1. Go to our IRC Page [Here](/irc)
+2. Generate new token
+3. Open your IRC Client and add the server
+4. Copy your token to Server Password
+5. Save and Connect
+6. Finish
+
+## Notes
+
+When network disconnection occured that sourced not originally from the server (e.g. internet constraints from the user), the messages issued to the IRC client can be duplicated.

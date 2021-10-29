@@ -3,7 +3,7 @@ title: "Simple Guide Connect Datenshi from IRC"
 old_id: 11
 ---
 
-If you tried to connect with tournament client and IRC at the same time, make sure to not leave suddenly while match is on progress, it will cause all the players with client in the room to automatically disconnect except except those who connected via IRC.
+If you tried to connect with tournament client and IRC at the same time, make sure to not leave suddenly while match is on progress, it will cause all the players with client in the room to automatically disconnect except those who connected via IRC.
 
 ## Languages
 
@@ -23,6 +23,6 @@ Address = `irc.datenshi.xyz:6667`
 5. Save and Connect
 6. Finish
 
-## Catatan
+## Notes
 
 When network disconnection occured that sourced not originally from the server (e.g. internet constraints from the user), the messages issued to the IRC client can be duplicated.

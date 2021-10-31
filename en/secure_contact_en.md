@@ -1,8 +1,8 @@
 ---
-title: "Cara menghubungi kami"
+title: "Getting in touch in a secure way"
 old_id: 6
 ---
-## Link
+## Links
 - Website : [https://datenshi.pw](https://datenshi.pw)
 - Discord : [https://datenshi.pw/discord](https://datenshi.pw/discord)
 - Osu! server : [https://osu.datenshi.pw](https://osu.datenshi.pw)
@@ -11,5 +11,5 @@ old_id: 6
 - Official twitch : [https://datenshi.pw/twitch](https://datenshi.pw/twitch)
 - Github open-source : [https://github.com/osu-datenshi](https://github.com/osu-datenshi)
 
-Jika kamu membutuhkan bantuan, kamu bisa join server discord kami untuk bertanya lebih lanjut, dan kami akan membantumu sebisa mungkin!
-Semoga kamu dapat menikmati server kami! Selamat bermain!
+If you needed help, you can join our discord server for more help, we can help you as we can!
+We hope enjoy to our server! Happy farming!

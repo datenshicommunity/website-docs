@@ -1,5 +1,5 @@
 ---
-title: "Datenshi Liveplay Criteria"
+title: "Kriteria Liveplay Datenshi"
 old_id: 8
 ---
 **Tolong dibaca sampai habis!!**

@@ -1,7 +1,12 @@
 ---
 title: "How to connect Datenshi"
-old_id: 1
+old_id: 15
 ---
+
+## Languages
+
+- [Bahasa Indonesia](https://osu.datenshi.pw/doc/1)
+- [English](https://osu.datenshi.pw/doc/15)
 
 # Video Tutorial
 

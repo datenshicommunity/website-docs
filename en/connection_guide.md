@@ -3,6 +3,11 @@ title: "Cara melakukan koneksi ke datenshi"
 old_id: 1
 ---
 
+## Bahasa
+
+- [Bahasa Indonesia](https://osu.datenshi.pw/doc/1)
+- [English](https://osu.datenshi.pw/doc/15)
+
 # Video Tutorial
 
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/kpDWFVDY538" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

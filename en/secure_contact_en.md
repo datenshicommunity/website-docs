@@ -1,7 +1,13 @@
 ---
 title: "Getting in touch in a secure way"
-old_id: 6
+old_id: 16
 ---
+
+## Languages
+
+- [Bahasa Indonesia](https://osu.datenshi.pw/doc/6)
+- [English](https://osu.datenshi.pw/doc/16)
+
 ## Links
 - Website : [https://datenshi.pw](https://datenshi.pw)
 - Discord : [https://datenshi.pw/discord](https://datenshi.pw/discord)

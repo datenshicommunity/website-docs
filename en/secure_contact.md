@@ -2,6 +2,13 @@
 title: "Cara menghubungi kami"
 old_id: 6
 ---
+
+## Bahasa
+
+- [Bahasa Indonesia](https://osu.datenshi.pw/doc/6)
+- [English](https://osu.datenshi.pw/doc/16)
+
+
 ## Link
 - Website : [https://datenshi.pw](https://datenshi.pw)
 - Discord : [https://datenshi.pw/discord](https://datenshi.pw/discord)

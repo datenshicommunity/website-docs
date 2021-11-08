@@ -28,7 +28,7 @@ old_id: 1
 
 ![tutorial-3](https://cdn.discordapp.com/attachments/728581754398572546/835525420412960798/unknown.png)
 
-## 4. Pada bagian Target, tambahkan `-devserver dantenshi.pw` dibagian akhir seperti pada contoh dibawah ini.
+## 4. Pada bagian Target, tambahkan `-devserver datenshi.pw` dibagian akhir seperti pada contoh dibawah ini.
 
 ![tutorial-4](https://cdn.discordapp.com/attachments/728581754398572546/862852655687663616/unknown.png)
 

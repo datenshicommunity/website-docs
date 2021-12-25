@@ -4,7 +4,7 @@ old_id: 5
 ---
 
 - **Antivirus saya memblokir switcher server**
-- Hal tersebut terjadi karena switcher kami mengedit file host. Matikan antivirus anda dan jalankan kembali switcher.
+- Hal tersebut terjadi karena cara kerja switcher kami adalah dengan cara mengedit file host. Matikan antivirus anda dan jalankan kembali switcher.
 
 ---
 
@@ -18,18 +18,18 @@ old_id: 5
 
 ---
 
-- **Saya tidak dapat mengunduh beatmap melalui osu!direct.**
-- Beberapa map memang tidak bsia di download melalui beatmap mirror kami karena beberapa hal teknis.
+- **Saya tidak dapat mengunduh beatmap melalui osu!direct**
+- Beberapa map memang tidak bisa di unduh melalui beatmap mirror kami karena beberapa hal teknis.
 
 ---
 
-- **Saya tidak dapat mengunduh beatmap ketika saya sedang bermain multiplayer, tapi saya bisa mengunduhnya di menu utama**
+- **Saya tidak dapat mengunduh beatmap ketika saya sedang bermain multiplayer, tapi saya bisa mengunduhnya ketika di menu utama**
 - Nonaktifkan fitur **Unduh otomatis melalui osu!direct** pada pengaturan dan coba kembali.
 
 ---
 
-- **Bagaimana cara saya supaya dapat bermain osu! pada server normalnya lagi?**
-- Tutup osu!, nyalakan switcher dan klik tombol **Switch to osu!**
+- **Bagaimana cara supaya saya dapat bermain osu! pada server normalnya lagi?**
+- Tutup osu!, lalu nyalakan switcher dan klik tombol **Switch to osu!**
 
 ---
 
@@ -54,7 +54,7 @@ old_id: 5
 ---
 
 - **Mengapa osu!direct dan fasilitas pendukung lainnya gratis?**
-- Kami pikir osu! itu sangatlah keren dan orang-orang tidak perlu membayar untuk memilikinya, itulah mengapa kami menawarkannya secara gratis di Datenshi. Jika anda menyukai apa yang kami lakukan, harap pertimbangkan untuk [donasi](/donate)
+- Menurut kami, osu! itu sangatlah keren dan orang-orang tidak perlu membayar untuk memilikinya, itulah mengapa kami menawarkannya secara gratis di Datenshi. Jika anda menyukai apa yang kami lakukan, harap pertimbangkan untuk [donasi](/donate)
 
 ---
 

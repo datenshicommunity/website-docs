@@ -2,60 +2,61 @@
 title: "FAQ"
 old_id: 5
 ---
-- **My antivirus is blocking the switcher**
-- That's because our switcher edits the hosts file. Turn off your antivirus and run the switcher again.
 
------------------------
+- **Antivirus saya memblokir switcher server**
+- Hal tersebut terjadi karena switcher kami mengedit file host. Matikan antivirus anda dan jalankan kembali switcher.
 
-- **I get "Connection failed" when I try to connect to Datenshi**  
-- Click the "Inspect" button on the server switcher and make sure that all the labels are green (like [this](http://oi66.tinypic.com/2v9q90p.jpg)). If you still can't solve this problem, come on our [Discord](https://discord.io/datenshi) and we'll help you.
+---
 
------------------------
+- **Saya mendapatkan tulisan "Connection failed" ketika saya mencoba terhubung ke Datenshi**
+- Tekan tombol "Inspect" pada server switcher dan pastikan semua label berwarna hijau (seperti [ini](http://oi66.tinypic.com/2v9q90p.jpg)). Jika masalah kamu masih belum terselesaikan, kamu bisa join server [Discord](https://discord.io/datenshi) kami dan kami akan membantumu.
 
-- **I get "Bancho authentication failed" (wrong password) when I try to log in, but my password is correct!**  
-- First, make sure you're connected to Datenshi (the server switcher should report "You're playing on Datenshi") and that your password is corrected. If so, type your username and password, then press the **login** button with your mouse. I know, it's weird but it often works. *(make also sure that caps lock is disabled if your password is lowercase)*
+---
 
------------------------
+- **Saya mendapatkan pesan "Bancho authentication failed" (wrong password) ketika mencoba login, meskipun kata sandi yang saya masukkan adalah benar**
+- Pertama, pastikan kamu sudah terkoneksi dengan server Datenshi (server switcher akan memberikan tanda bahwa kamu sedang bermain di datenshi "You're playing on Datenshi") dan pastikan password yang kamu masukkan itu benar. Jika sudah, kamu bisa ketikkan username dan password kamu, lalu tekan tombol **login** dengan mouse. Saya tau hal tersebut agak aneh, tetapi hal tersebut seringkali berhasil. _(pastikan juga caps lock pada keyboard sedang mati jika password kamu merupakan huruf kecil)_
 
-- **I can't download maps from osu!direct.**
-- Some maps can't be downloaded from our beatmap mirror due to technical reasons.
+---
 
------------------------
+- **Saya tidak dapat mengunduh beatmap melalui osu!direct.**
+- Beberapa map memang tidak bsia di download melalui beatmap mirror kami karena beberapa hal teknis.
 
-- **I can't download maps when I'm in multiplayer, but I can download them from the main menu**
-- Disable **Automatically start osu!direct downloads** from the options and try again.
+---
 
------------------------
+- **Saya tidak dapat mengunduh beatmap ketika saya sedang bermain multiplayer, tapi saya bisa mengunduhnya di menu utama**
+- Nonaktifkan fitur **Unduh otomatis melalui osu!direct** pada pengaturan dan coba kembali.
 
-- **How do I play on the normal osu! again?**
-- Close osu!, run the switcher and click the **Switch to osu!** button
+---
 
------------------------
+- **Bagaimana cara saya supaya dapat bermain osu! pada server normalnya lagi?**
+- Tutup osu!, nyalakan switcher dan klik tombol **Switch to osu!**
 
-- **My switcher is off but when I open osu.ppy.sh in my browser I get an error or I get redirected to Datenshi's website!**
-- Make sure the switcher is off, then empty your browser cache and restart your browser. [Google it](http://lmgtfy.com/?q=How+to+empty+browser+cache) if you don't know how to do it.
+---
 
------------------------
+- **Switcher sudah saya matikan, namun ketika saya buka osu.ppy.sh di browser, Saya mendapatkan error atau saya langsung dialihkan ke halaman website Datenshi**
+- Pastikan switcher sudah benar-benar dimatikan, lalu bersihkan cache pada browser dan mulai ulang browser. Kamu dapat mencari cara tersebut di [google](http://lmgtfy.com/?q=How+to+empty+browser+cache) jika kamu tidak tau caranya.
 
-- **I get strange errors on osu!'s website after playing on Datenshi (beatmaps not found etc)**
-- Delete `s` and `t` cookies relative to osu.ppy.sh using a [cookie editor](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg). If you don't know how to remove specific cookies, just delete all cookies from your browser settings.
+---
 
------------------------
+- **Saya mendapatkan error yang asing di website osu setelah bermain di Datenshi (seperti beatmap tidak ada, dll)**
+- Hapus cookies `s` dan `t` yang relatif terhadap osu.ppy.sh menggunakan [cookie editor](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg). Jika kamu tidak tau bagaimana cara menghapus spesifik cookies, kamu bisa langsung menghapus semua cookies yang ada melalui pengaturan pada browser.
 
-- **Can I keep playing while the server is restarting because it's updating?**
-- Yes, your scores will be sent as soon as the server gets back online (usually less than a minute). Just make sure to not close the client.
+---
 
------------------------
+- **Bisakah saya tetap bermain ketika server sedang dimulai ulang karena sedang diperbarui?**
+- Ya, skor kamu akan segera dikirim ketika server kembali online (biasanya kurang dari satu menit). Dan pastikan untuk tidak menutup client.
 
-- **Is there a patcher for Datenshi?**
-- No, you can change server by editing the hosts file with our switcher. [Instructions here](https://datenshi.xyz/doc/1).
+---
 
------------------------
+- **Apakah ada patcher untuk Datenshi?**
+- Tidak, kamu bisa mengganti server dengan mengedit file host menggunakan switcher kami. [Intruksi disini](https://datenshi.xyz/doc/1).
 
-- **Why are osu!direct and other in-game supporter perks free?**
-- We think that osu! direct is very cool and it's a shame people have to pay to have it, that's why we're offering it for free on Datenshi. If you like what we do, please consider a [donation](/donate)
+---
 
------------------------
+- **Mengapa osu!direct dan fasilitas pendukung lainnya gratis?**
+- Kami pikir osu! itu sangatlah keren dan orang-orang tidak perlu membayar untuk memilikinya, itulah mengapa kami menawarkannya secara gratis di Datenshi. Jika anda menyukai apa yang kami lakukan, harap pertimbangkan untuk [donasi](/donate)
 
-- **My problem is not listed here**
-- Join our [discord](https://discord.io/datenshi) and ask your question in the #help channel of the server.
+---
+
+- **Masalah yang sedang saya alami tidak tercantum disini**
+- Jika kamu memiliki masalah yang tidak tercantum disini, kamu bisa join server [discord](https://discord.io/datenshi) kami dan tuliskan pertanyaanmu di channel #help pada server.

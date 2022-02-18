@@ -1,6 +1,6 @@
 ---
 title: "Yohane Commands"
-old_id: 4
+reference_version: 037dbb07ff690030c550318ade479796
 ---
 Berikut ini adalah command-command yang ada di bot Yohane.
 

@@ -2,7 +2,6 @@
 title: "Datenshi Performance Points Limiter"
 old_id: 19
 ---
-
 <div style="text-align:center"><img src="https://user-images.githubusercontent.com/10250068/116959299-c8ae3580-accf-11eb-9ca3-15cd662dbca0.png" /></div>
 
 Hello! This is a guide for those who got a message from our Bot in-game. We are introducing to the public our very own unique pp limiter, this limiter's purpose is mostly to prevent an abuser/cheater to gain more pp, additional note that **if you get messaged you are not in banned/restricted state**. You are however not allowed to gain pp anymore, meaning if you play another beatmap you will get 0pp as a result in the end of the beatmap.

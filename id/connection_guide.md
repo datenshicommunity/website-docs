@@ -1,12 +1,7 @@
 ---
 title: "Cara melakukan koneksi ke datenshi"
-old_id: 1
+reference_version: be0e6f8b8bd48f2e1c8e4730791a76c9
 ---
-
-## Bahasa
-
-- [Bahasa Indonesia](https://osu.datenshi.pw/doc/1)
-- [English](https://osu.datenshi.pw/doc/15)
 
 # Video Tutorial
 

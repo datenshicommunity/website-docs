@@ -1,6 +1,6 @@
 ---
 title: "Datenshi Estafet Challenge"
-old_id: 72
+reference_version: 416d5c5da79173bddf3c84d111afa5d0
 ---
 
 <div style="text-align:center"><img src="https://cdn.discordapp.com/attachments/728581754398572546/825574723365634079/estafet.png" /></div>

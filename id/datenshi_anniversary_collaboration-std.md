@@ -1,6 +1,6 @@
 ---
 title: "Datenshi Anniversary 1st Collaboration"
-old_id: 70
+reference_version: 37a0daf2dc146116051bbde8a617b440
 ---
 
 ![img](https://cdn.discordapp.com/attachments/699180921969967145/818844310145204224/unknown.png)

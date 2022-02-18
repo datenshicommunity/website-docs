@@ -1,6 +1,6 @@
 ---
 title: "VPN Connection Tutorial (Indonesia)"
-old_id: 10
+reference_version: 5ae1f1eb971dcdabc7a913d96054381d
 ---
 # FAQ
 Beberapa pertanyaan yang sering diajukan:

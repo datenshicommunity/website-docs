@@ -1,6 +1,6 @@
 ---
 title: "Datenshi Mania Clan War #1"
-old_id: 7
+reference_version: ae11f0061151fff188ab22f0647cc997
 ---
 <center>![gambar](https://cdn.discordapp.com/attachments/408950289962369025/721012625663852547/clanwar.png)</center>
 

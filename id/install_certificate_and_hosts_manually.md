@@ -1,6 +1,6 @@
 ---
 title: "Installing the certificate and Hosts manually"
-old_id: 12
+reference_version: 68e614795aae1eccf50b470d95fd90eb
 ---
 Jika kalian mengalami masalah pada switcher, silahkan ikuti metode manual ini dengan seksama
 

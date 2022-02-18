@@ -1,6 +1,6 @@
 ---
 title: "FAQ"
-old_id: 5
+reference_version: d7b7d2c2a1e5528d3da070fac93d3cbe
 ---
 - **My antivirus is blocking the switcher**
 - That's because our switcher edits the hosts file. Turn off your antivirus and run the switcher again.

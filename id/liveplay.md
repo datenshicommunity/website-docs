@@ -1,6 +1,6 @@
 ---
 title: "Kriteria Liveplay Datenshi"
-old_id: 8
+reference_version: 849b43125f4380ec900d4c955713e8a6
 ---
 **Tolong dibaca sampai habis!!**
 

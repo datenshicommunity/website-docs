@@ -1,6 +1,6 @@
 ---
 title: "Datenshi Weekly Challenge #1"
-old_id: 71
+reference_version: ff0d078120070ebdb8b2e173844cbf6f
 ---
 
 <div style="text-align:center"><img src="https://cdn.discordapp.com/attachments/699254810008092702/822803606331326464/1weekly.png" /></div>

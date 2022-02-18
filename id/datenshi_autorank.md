@@ -1,6 +1,6 @@
 ---
 title: "Beatmap Autorank"
-old_id: 25
+reference_version: 9ddcc21c875ed4229a17a80e09624cf4
 ---
 
 ## Apa itu Auto Rank

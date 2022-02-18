@@ -1,2 +1,5 @@
 # website-docs
-Yang mau kontribusi silahkan edit files di folder `en`
+Feel free to contribute here, theres only 2 languages available
+
+- `id` for Indonesia
+- `en` for English

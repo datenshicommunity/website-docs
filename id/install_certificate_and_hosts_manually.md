@@ -2,23 +2,23 @@
 title: "Installing the certificate and Hosts manually"
 old_id: 12
 ---
-If you have problem with the switcher, you can follow this guide :
+Jika kalian mengalami masalah pada switcher, silahkan ikuti metode manual ini dengan seksama
 
-### Download the certificates first!
+### Download terlebih dahulu sertifikatnya
 
 - [Clickhere](https://cdn.datenshi.pw/dt.cer) (UPDATE JAN 2021)
 
-### Then open the certificates and click install certificates
+### Lalu buka atau klik kanan dan install certificates
 
 ![step1](https://cdn.discordapp.com/attachments/698957154115125381/699480445208756224/unknown.png)
 
 ![step2](https://cdn.discordapp.com/attachments/698957154115125381/699480570375307344/unknown.png)
 
-### Choose local machine and next
+### Klik local machine lalu klik next
 
 ![step3](https://cdn.discordapp.com/attachments/698957154115125381/699480736486391928/unknown.png)
 
-### Click Browse, then find **Trusted Root Certification Authorities** and click OK > Next
+### Klik Browse, kemudian cari **Trusted Root Certification Authorities** dan klik OK > Next
 
 ![step4](https://cdn.discordapp.com/attachments/698957154115125381/699480847769927720/unknown.png)
 
@@ -31,27 +31,27 @@ If you have problem with the switcher, you can follow this guide :
 ![step6](https://cdn.discordapp.com/attachments/698957154115125381/699480924848652308/unknown.png)
 
 
-### Install hosts by manually
+### Install hosts secara manual
 
-Follow this guide !
+Perhatikan dengan seksama!
 
-### Download the hosts files and copy text inside hosts.txt
+### Download terlebih dahulu file hosts disini lalu copy
 - [Clickhere](https://old.datenshi.pw/hosts.txt) (UPDATE JANUARI 2021)
 
 ![step1](https://cdn.discordapp.com/attachments/701452257102921738/800709100316917760/unknown.png)
 
-### Open notepad with run as administrator
+### Buka Notepad run as administrator (WAJIB RUN AS ADMIN)
 
 ![step2](https://cdn.discordapp.com/attachments/700239763919339601/704337857338147381/unknown.png)
 
-### Find file named `hosts` inside folder `C:Windows/system32/drivers/etc`
+### Cari file `hosts` di dalam `C:Windows/system32/drivers/etc`
 
 ![step3](https://cdn.discordapp.com/attachments/700239763919339601/704337981514973274/unknown.png)
 
-### Paste here
+### Paste disini yang sudah kamu copy tadi
 
 ![step4](https://cdn.discordapp.com/attachments/701452257102921738/800709250539585586/unknown.png)
 
-### Then click menu File > `Save` > close
+### Lalu klik menu File > `Save` > close
 
-### ..Enjoy and happy farming!
+### ..Enjoy dan happy farming!

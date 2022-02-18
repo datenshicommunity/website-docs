@@ -5,14 +5,9 @@ old_id: 11
 
 If you tried to connect with tournament client and IRC at the same time, make sure to not leave suddenly while match is on progress, it will cause all the players with client in the room to automatically disconnect except those who connected via IRC.
 
-## Languages
-
-- [Bahasa Indonesia](https://osu.datenshi.pw/doc/21)
-- [English](https://osu.datenshi.pw/doc/11)
-
 ## Server Address
 
-Address = `irc.datenshi.xyz:6667`
+Address = `play.datenshi.pw:6667`
 
 ## Tutorial
 

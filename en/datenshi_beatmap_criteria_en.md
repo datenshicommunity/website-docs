@@ -1,6 +1,6 @@
 ---
-title: "Beatmap Rules (English)"
-old_id: 20
+title: "Beatmap Submission Rules"
+old_id: 2
 ---
 #FAQ
 A few question that are frequently asked

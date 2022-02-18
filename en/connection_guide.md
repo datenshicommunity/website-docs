@@ -1,37 +1,32 @@
 ---
-title: "Cara melakukan koneksi ke datenshi"
+title: "How to connect Datenshi"
 old_id: 1
 ---
-
-## Bahasa
-
-- [Bahasa Indonesia](https://osu.datenshi.pw/doc/1)
-- [English](https://osu.datenshi.pw/doc/15)
 
 # Video Tutorial
 
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/kpDWFVDY538" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# Langkah-langkah
+# Image Tutorial
 
-## 1. Pertama, copy file `osu!.exe` dari folder osu!, lokasi folder ini bergantung dari dimana tempat kamu menginstallnya. Secara default, folder osu! akan disimpan di dalam Program Files pada drive C:
+## 1. You need to copy the `osu!.exe` application from the osu! folder, depends on where you install it, the default install location for osu! would be inside your Program Files folder in the C: drive.
 
 <img src="https://cdn.discordapp.com/attachments/728581754398572546/835524651115479070/unknown.png" alt="step 1" width="70%"/>
 
-## 2. Selanjutnya, klik kanan pada mouse dan klik "Paste shortcut" di lokasi yang kamu inginkan untuk menyimpan shortcut datenshi.
+## 2. Right click and press "Paste shortcut" anywhere you desire so you can access Datenshi easier.
 
 <img src="https://cdn.discordapp.com/attachments/728581754398572546/835525117755916317/unknown.png" alt="step 2" width="70%"/>
 
-### * Catatan, kamu bisa skip step 1 dan 2 ini dengan cara membuat shortcut osu!.exe lalu simpan shortcut tersebut dimanapun itu.
+### * You can skip step 1 and 2 by just creating a new osu!.exe shortcut instead and drag it elsewhere.
 
-## 3. Klik kanan pada shortcut yang sudah dibuat, lalu klik menu Properties.
+## 3. Right click the newly shortcut you've just created, and press Properties
 
 ![tutorial-3](https://cdn.discordapp.com/attachments/728581754398572546/835525420412960798/unknown.png)
 
-## 4. Pada bagian Target, tambahkan `-devserver datenshi.pw` dibagian akhir seperti pada contoh dibawah ini.
+## 4. On the Target box, add `-devserver datenshi.pw` at the end of it or as the picture below.
 
 ![tutorial-4](https://cdn.discordapp.com/attachments/728581754398572546/862852655687663616/unknown.png)
 
-## 5. Klik Apply, dan Datenshi shortcut sudah siap digunakan. Jalankan osu! via shortcut tersebut jika kamu mau bermain di server Datenshi, jika kamu ingin kembali ke Bancho, kamu cukup jalankan osu! via original osu!.exe yang ada pada folder osu!.
+## 5. Press Apply and your Datenshi shortcut is ready to use! Run the shortcut if you want to play in Datenshi, also you can return to Bancho by just running the original osu!.exe application.
 
-### * Kamu mungkin perlu login ulang karena Bancho dan Datenshi adalah dua server yang berbeda.
+### * You might need to re-login since Bancho and Datenshi are two different servers.

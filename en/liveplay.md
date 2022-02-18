@@ -1,82 +1,77 @@
 ---
-title: "Kriteria Liveplay Datenshi"
+title: "Datenshi Liveplay Criteria"
 old_id: 8
 ---
-**Tolong dibaca sampai habis!!**
+**Please read this till the end!!!**
 
-Karena Datenshi tidak sepenuhnya bisa mengidentifikasi player yang mencurigakan, kami yang mengandalkan beberapa laporan-laporan dari beberapa player untuk bisa mengidentifikasi player yang mencurigakan, memiliki syarat-syarat tertentu yang harus diikuti oleh suspected player, sedangkan untuk player yang ingin mendapatkan `Verified Tenshi` bisa juga mengikuti syarat ini.
+Because Datenshi isn't fully capable of identifying suspicious players. We, who rely on reports from several players to be able to identify suspicious players have certain conditions that must be followed by suspected players. Players who wants to get 'Verified Tenshi' can also follow these conditions. 
 
-Ini merupakan syarat yang harus terpenuhi jika kalian ingin mendapatkan roles `Verified Tenshi`, sedangkan untuk player yang sudah terbanned/restrict di Datenshi juga **harus mengikuti** syarat ini untuk membuktikan jika kalian benar-benar tidak menggunakan program illegal/co-op semacamnya dan kalian bisa terbebas dari hukuman **banned/restrict** tetapi kalian tidak bisa mendapatkan role.
+These conditions must be met if you want to get the `Verified Tenshi` role. Players who have been banned/restricted in Datenshi also **must follow** these conditions to prove that you really didn't use illegal/co-op programs alike so you can get out of **banned/restricted** status, but you won't be able to get a role.
 
-# Friendly Asked Question
-
------------------------
-
-- Q : Kalau tidak mengikuti syaratnya?
-- A : Kalian tidak bisa mendapatkan pengampunan ataupun role `Verified Tenshi`
+# Frequently Asked Question
 
 -----------------------
 
-- Q : Kak, kamera ku gelap gimana ya?
-- A : Pastikan kalian memiliki Device yang maksimal untuk merekamnya
+- Q : What if my camera is blurry or dimly lit?
+- A : Make sure you have a suitable device and adjust it respectably to record.
 
 -----------------------
 
-- Q : Kok ribet banget syaratnya?
-- A : Kami hanya ingin melihat bukti nyata kalau player tersebut tidak menggunakan program illegal / murni menggunakan skill. Jika kalian mengeluh, jangan menggunakan program illegal/coop semacamnya.
+- Q : Why are the conditions so complicated?
+- A : To ensure that we see concrete evidence that the player is not using any illegal programs and play on their own capabilities.
 
 -----------------------
 
-- Q : `Verified Tenshi` gimana kak?
-- A : Ini hanyalah optional, kalian bisa memilikinya atau tidak. Kalian akan diberikan sebuah profile badge dan role discord.
+- Q : What about the 'Verified Tenshi' role?
+- A : This is only optional, Either you have it or not, you will still be given a profile badge and a Discord role. 
 
 -----------------------
 
-- Q : Kak, ada contohnya gak sih?
+- Q : Do you have an example?
 - A : [osu! - Proof I'm Legit | WhiteCat](https://www.youtube.com/watch?v=qvK61jD-ELM)
 
 -----------------------
 
-- Q : Liveplay kita kesebar gak?
-- A : Tergantung kalian, jika kalian menggunggahnya dengan status "Public" maka itu akan dilihat oleh banyak orang.
+- Q : Are our liveplay public?
+- A : As long as our staff can access the video, you dont have to share it publicly.
 
 -----------------------
 
-- Q : Diumuminnya gimana?
-- A : Nanti dimention melalui discord atau kalian bisa cek profile kalian jika ada badge `Verified Tenshi`
+- Q : How will i know i'm verified?
+- A : It will be mentioned via Discord or you can check your profile if there is a `Verified Tenshi` badge. 
 
 -----------------------
 
-# Peraturan Form Submissions
+# Form Submissions Rules
 
-1. Akun harus berusia min. 1 minggu
-2. Memberikan alasan dengan jelas disetiap sesi pertanyaan
-3. Tidak boleh spam, pastikan kalian harus benar-benar mengikuti prosedur dibawah ini
+1. Your account must be atleast 1 week old.
+2. Give a clear answer for each question.
+3. No spamming, make sure you follow the procedure below carefully.
 
-# Peraturan Prosedur Liveplay
+# Liveplay Procedure Rules
 
-Sebelum merekam kalian harus memastikan beberapa hal ini karena ini sangat bersifat `penting` 
+Before recording, make sure of these things because they are very `important`.
 
-- Pastikan kamera untuk merekam sangat jelas dan memiliki pencahayaan yang baik
-- Pastikan kamera diatur sedemikian rupa agar pandangan untuk alat input seperti pen / tablet / mouse / keyboard dapat terlihat dengan jelas
-- Video  liveplay tidak boleh di edit dalam bentuk apapun (menambahkan musik dsb.)
-- Wajib mengikuti semua urutan dibawah dengan benar! 
+- Make sure the camera for recording is very clear and has good lighting.
+- Make sure the camera is set so that the view for input devices such as pen / tablet / mouse / keyboard can be seen clearly.
+- Liveplay videos may not be edited in any form (Adding music etc.).
+- Must follow all the sequence below correctly!
 
-Sesi rekaman harus mengikuti urutan ini :
+Recording sessions must follow this order:
 
-- Menyalakan pc Anda
-- Buka task manager Anda (tidak ada program yang boleh dibuka, kecuali aplikasi inti seperti klien, driver dan anti-virus)
-- Membuka osu di datenshi server
-- Mainkan 3 map secara langsung (harus dalam tingkatan skill/pp Anda)
+- Turn on your PC.
+- Open your Task Manager (No programs should be opened, except for core applications such as clients, drivers and anti-virus)
+- Open osu on datenshi server.
+- Play 3 maps live (Must be in your skill/pp level).
 
-Submit hasil rekaman kalian melalui Youtube / Facebook dengan urutan ini :
+Submit your recordings via Youtube / Facebook in this order:
 
-- Upload di Youtube / Facebook dengan deskripsi yang berisikan `VERIFIED DATENSHI NAMA_USER`
-- Atur privacy video kalian jika kalian tidak mau video kalian dilihat oleh orang lain dengan cara mengubahnya menjadi `Unlisted` pada saat mengunggahnya di Youtube, jika kalian menggunakan Facebook, silahkan unggah melalui [Group Facebook Datenshi](https://www.facebook.com/groups/osu.datenshi)
-- Silahkan copy link video kalian yang sudah kalian unggah ke form submissions dibawah
+- Upload it on Youtube / Facebook with a description containing `VERIFIED DATENSHI 'USERNAME'`.
+- Set your video privacy to 'Unlisted' when uploading it on Youtube if you don't want your video to be seen by others . If you use Facebook, please upload it via [Datenshi Facebook Group](https://www.facebook.com/groups/osu.datenshi)
+- Please copy your video link that you have uploaded to the submissions form below.
 
-`(Pengajuan Liveplay akan dianggap tidak valid, jika Anda gagal mematuhi persyaratan di atas)`
+`(Liveplay submissions will be considered invalid if you fail to comply with the requirements above)`
 
 # Link
 
-- [Submissions Link](https://forms.gle/rwV18azmt6hfGrCd9)
+- [Submissions Link](https://forms.gle/rwV18azmt6hfGrCd9) 

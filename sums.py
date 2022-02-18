@@ -1,3 +1,4 @@
+#CREDITS RIPPLE
 import os
 import hashlib
 

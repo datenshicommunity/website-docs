@@ -11,12 +11,10 @@ These are the commands for the Yohane bot.
 - `!help` - Shows a list of all commands
 - `!subscribe pp [options]` - Notifies about the pp status such as limit after [submitting a score](https://cdn.discordapp.com/attachments/265909019976138754/801454622346444860/unknown.png). (options: `set`, `get`, `unset`, `toggle`)
 - `!boardshow [options]` - [Experimental] Hide yourself from the leaderboard (options: `others`, `normal`)
-- `!report` - If you've encountered a cheater, please use this command to notify our staff.
+- `!report` - If you encounter any player breaking the rules, use this command to notify our staff.
 - `!faq list` - Returns a list of things that are often needed in chat.
 
 ### Multiplayer commands
-
-The commands listed below are for general use in multiplayer rooms. Please use `!mp help` to show more commands.
 
 - `!mp help` - Shows a list of all multiplayer commands.
 - `!mp make [name]` - Creates a multiplayer room.

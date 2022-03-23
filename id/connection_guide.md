@@ -1,6 +1,6 @@
 ---
 title: "Cara melakukan koneksi ke datenshi"
-reference_version: be0e6f8b8bd48f2e1c8e4730791a76c9
+reference_version: 73c87df4466c119eb85c6d28504d6df0
 ---
 
 # Video Tutorial
@@ -23,7 +23,7 @@ reference_version: be0e6f8b8bd48f2e1c8e4730791a76c9
 
 ![tutorial-3](https://cdn.discordapp.com/attachments/728581754398572546/835525420412960798/unknown.png)
 
-## 4. Pada bagian Target, tambahkan `-devserver dantenshi.pw` dibagian akhir seperti pada contoh dibawah ini.
+## 4. Pada bagian Target, tambahkan `-devserver datenshi.pw` dibagian akhir seperti pada contoh dibawah ini.
 
 ![tutorial-4](https://cdn.discordapp.com/attachments/728581754398572546/862852655687663616/unknown.png)
 

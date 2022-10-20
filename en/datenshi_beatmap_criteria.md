@@ -2,7 +2,8 @@
 title: "Beatmap Submission Rules"
 old_id: 2
 ---
-#FAQ
+### FAQ
+
 A few question that are frequently asked
 
 -----------------------
@@ -14,7 +15,7 @@ A few question that are frequently asked
 
 - **Q: Why isn't my map submitted?**
 - A: That can happen when : The beatmap is new, wrong beatmap link, or the beatmap database retrieval system from Datenshi to official osu! has not been updated
--
+
 -----------------------
 
 - **Q: How long does it take for my map to be ranked?**

@@ -1,8 +1,9 @@
 ---
 title: "Peraturan Ranked Beatmap"
-reference_version: dd2b2783798a0c65ed801d767a1b33af
+reference_version: dbef9749fde2fba9e45c7b341dee482a
 ---
-# FAQ
+### FAQ
+
 Beberapa pertanyaan yang sering diajukan:
 
 -----------------------
